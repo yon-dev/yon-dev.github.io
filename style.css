@@ -1,0 +1,177 @@
+html {
+  font-family: 'Montserrat', sans-serif;
+  color: #343434;
+}
+
+.page-container {
+  max-width: 1250px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.filters {
+  margin: 10px 0;
+  font-size: 13px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 10px;
+}
+
+header > div {
+  place-self: center;
+  width: 100%;
+}
+
+.text-filter {
+  width: 100%;
+  padding: 4px;
+  box-sizing:border-box;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #ccc; /* You can adjust the color and thickness of the outline */
+  font-size: 13px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.score-filters {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+}
+
+.score-filter {
+  max-width: 150px;
+  padding: 4px;
+  border: 0;
+  outline: none;
+  background: none;
+  box-shadow: none;
+  border: 1px solid #343434;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.score-filter:hover {
+  cursor: pointer;
+}
+
+.score-filter.active {
+  background-color: #343434;
+  color: #fff;
+  font-weight: 700;
+}
+
+.essential-filter {
+  border: 1px solid rgb(87, 187, 138);
+  color: rgb(87, 187, 138);
+}
+
+.essential-filter.active {
+  background-color: rgb(87, 187, 138);
+}
+
+.yacht-filter {
+  border: 1px solid rgb(171, 200, 120);
+  color: rgb(171, 200, 120);
+}
+
+.yacht-filter.active {
+  background-color: rgb(171, 200, 120);
+}
+
+.nyacht-filter {
+  border: 1px solid rgb(230, 124, 115);
+  color: rgb(230, 124, 115);
+}
+
+.nyacht-filter.active {
+  background-color: rgb(230, 124, 115);
+}
+
+.song-list {
+  overflow-y: auto;
+  font-size: 13px;
+  text-align: right;
+}
+
+.song-row {
+  display: grid;
+  grid-template-columns: minmax(68px,1fr) 6fr repeat(6,minmax(58px,1fr));
+  margin-bottom: 1px;
+}
+
+.header-row {
+  cursor: pointer;
+  background: #ababab;
+  color: #fff;
+}
+
+.header-row > * {
+  padding: 12px;
+}
+
+.header-row span:hover {
+  text-decoration: underline;
+}
+
+.song-row > div {
+  padding: 8px;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.hidden-md {
+  display: block;
+}
+
+.hidden-sm {
+  display: block;
+}
+
+@media (max-width: 1000px) {
+  .page-container {
+    padding: 0 10px;
+  }
+
+  .song-row {
+    grid-template-columns: minmax(68px,1fr) 6fr repeat(5,minmax(58px,1fr));
+  }
+
+  .hidden-md {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .page-container {
+    padding: 0;
+  }
+
+  .filters {
+    display: block;
+  }
+
+  .score-filters {
+    margin-bottom: 10px;
+    text-align: center
+  }
+
+  .song-row {
+    grid-template-columns: minmax(68px,1fr) 6fr minmax(58px,1fr);
+  }
+
+  .hidden-sm {
+    display: none;
+  }
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yacht or Nyacht?</title>
+
+  <!-- Import Styles -->
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- Import data and js -->
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</head>
+
+<body>
+  <div class="page-container">
+    <header>
+      <div class="title">
+        Yacht or Nyacht?
+      </div>
+
+      <div class="filters">
+        <div>
+          <div class="score-filters">
+            <button class="score-filter active" lower="0" upper="100">All Songs</button>
+
+            <button class="score-filter essential-filter" lower="90" upper="100">Essentials</button>
+
+            <button class="score-filter yacht-filter" lower="50" upper="100">Yacht Rock</button>
+
+            <button class="score-filter nyacht-filter" lower="0" upper="50">Nyacht Rock</button>
+          </div>
+        </div>
+
+        <div>
+          <input class="text-filter" placeholder="Filter by artist or title..." type="search" id="list-search" name="q" />
+        </div>
+      </div>
+    </header>
+
+    <div class="song-list">
+      <div class="song-row header-row">
+        <div>
+          <span prop="yachtski" class="sort-filter">Yachtski</span>
+        </div>
+        <div class="left-align">
+          <span prop="artist" class="sort-filter">Artist</span> -
+          <span prop="title" class="sort-filter">Title</span>
+        </div>
+        <div>
+          <span prop="year" class="sort-filter">Year</span>
+        </div>
+        <div class="hidden-sm">
+          <span prop="jd_score" class="sort-filter">JD</span>
+        </div>
+        <div class="hidden-sm">
+          <span prop="hunter_score" class="sort-filter">Hunter</span>
+        </div>
+        <div class="hidden-sm">
+          <span prop="steve_score" class="sort-filter">Steve</span>
+        </div>
+        <div class="hidden-sm">
+          <span prop="dave_score" class="sort-filter">Dave</span>
+        </div>
+        <div class="hidden-md">
+          <span prop="episode" class="sort-filter">Ep #</span>
+        </div>
+      </div>
+
+      <div id="songList">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
