@@ -117,7 +117,8 @@ function onFilterByScore(lower, upper) {
 function filterByScore() {
   return new Promise(function(resolve, reject) {
     visibleData = visibleData.filter((song) => {
-      return song.yachtski >= scoreFilter.lower && song.yachtski <= scoreFilter.upper;
+      const isLessThanUpper = scoreFilter.upper == 100 ? (song.yachtski <= scoreFilter.upper) : song.yachtski < scoreFilter.upper
+      return song.yachtski >= scoreFilter.lower && isLessThanUpper;
     });
 
     resolve();
