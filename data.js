@@ -1,17 +1,5 @@
 const data = [
   {
-    "id": 1,
-    "title": "Prima Donna",
-    "artist": "Alan Sorrenti",
-    "year": 1983,
-    "episode": "BDRC?",
-    "jd_score": 49.0,
-    "hunter_score": 59.0,
-    "steve_score": 58.0,
-    "dave_score": 45.0,
-    "yachtski": 52.75
-  },
-  {
     "id": 2,
     "title": "Believe In It",
     "artist": "Michael McDonald",
@@ -21,7 +9,8 @@ const data = [
     "hunter_score": 87.0,
     "steve_score": 86.0,
     "dave_score": 85.0,
-    "yachtski": 86.75
+    "yachtski": 86.75,
+    "yt_id": "fd24fpsF1Qw"
   },
   {
     "id": 3,
@@ -33,7 +22,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 84.0,
     "dave_score": 86.0,
-    "yachtski": 87.0
+    "yachtski": 87.0,
+    "yt_id": "dFVxGRekRSg"
   },
   {
     "id": 4,
@@ -45,19 +35,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 81.0,
     "dave_score": 80.0,
-    "yachtski": 83.5
-  },
-  {
-    "id": 5,
-    "title": "Cannonball Run Theme",
-    "artist": "Chuck Mangione",
-    "year": 1982,
-    "episode": "BYR02",
-    "jd_score": 32.0,
-    "hunter_score": 39.0,
-    "steve_score": 33.0,
-    "dave_score": 38.0,
-    "yachtski": 35.5
+    "yachtski": 83.5,
+    "yt_id": "SgXSomPE_FY"
   },
   {
     "id": 6,
@@ -69,7 +48,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 95.0,
     "dave_score": 94.0,
-    "yachtski": 94.5
+    "yachtski": 94.5,
+    "yt_id": "H4sICbJsqFI"
   },
   {
     "id": 7,
@@ -81,7 +61,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 50.0,
     "dave_score": 30.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": "_CIE041T954"
   },
   {
     "id": 8,
@@ -93,7 +74,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 92.0,
     "dave_score": 84.0,
-    "yachtski": 87.75
+    "yachtski": 87.75,
+    "yt_id": "SFMy2NuOVic"
   },
   {
     "id": 9,
@@ -105,7 +87,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 77.0,
     "dave_score": 72.0,
-    "yachtski": 71.5
+    "yachtski": 71.5,
+    "yt_id": "EWIgEtkE3GA"
   },
   {
     "id": 10,
@@ -117,7 +100,8 @@ const data = [
     "hunter_score": 75.0,
     "steve_score": 65.0,
     "dave_score": 75.0,
-    "yachtski": 72.5
+    "yachtski": 72.5,
+    "yt_id": "F1nNdkqvXbA"
   },
   {
     "id": 11,
@@ -129,7 +113,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 51.0,
     "dave_score": 52.0,
-    "yachtski": 51.75
+    "yachtski": 51.75,
+    "yt_id": "GpBZNh70uhA"
   },
   {
     "id": 12,
@@ -141,7 +126,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 25.0,
     "dave_score": 28.0,
-    "yachtski": 31.25
+    "yachtski": 31.25,
+    "yt_id": "IHL-6cUtZj0"
   },
   {
     "id": 13,
@@ -153,7 +139,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 37.0,
     "dave_score": 39.0,
-    "yachtski": 44.0
+    "yachtski": 44.0,
+    "yt_id": "aPfKlVbq6Go"
   },
   {
     "id": 14,
@@ -165,7 +152,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 24.0,
     "dave_score": 25.0,
-    "yachtski": 32.25
+    "yachtski": 32.25,
+    "yt_id": "McZYYe0kAtg"
   },
   {
     "id": 15,
@@ -177,7 +165,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 21.0,
     "dave_score": 28.0,
-    "yachtski": 29.25
+    "yachtski": 29.25,
+    "yt_id": "Fo6aKnRnBxM"
   },
   {
     "id": 16,
@@ -189,19 +178,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 28.0,
     "dave_score": 36.0,
-    "yachtski": 37.0
-  },
-  {
-    "id": 17,
-    "title": "No Looking Back",
-    "artist": "Michael McDonald",
-    "year": 1985,
-    "episode": "BYR10",
-    "jd_score": 60.0,
-    "hunter_score": 61.0,
-    "steve_score": 60.0,
-    "dave_score": 67.0,
-    "yachtski": 62.0
+    "yachtski": 37.0,
+    "yt_id": "oIAkRVBS-0U"
   },
   {
     "id": 18,
@@ -213,7 +191,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 20.0,
     "dave_score": 17.0,
-    "yachtski": 18.0
+    "yachtski": 18.0,
+    "yt_id": "kOnde5c7OG8"
   },
   {
     "id": 19,
@@ -225,7 +204,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 30.0,
     "dave_score": 28.0,
-    "yachtski": 35.25
+    "yachtski": 35.25,
+    "yt_id": "zROIlspgOjM"
   },
   {
     "id": 20,
@@ -237,7 +217,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 15.0,
     "dave_score": 19.0,
-    "yachtski": 21.75
+    "yachtski": 21.75,
+    "yt_id": "GQQbjpomexo"
   },
   {
     "id": 21,
@@ -249,7 +230,8 @@ const data = [
     "hunter_score": 14.0,
     "steve_score": 5.0,
     "dave_score": 12.0,
-    "yachtski": 9.0
+    "yachtski": 9.0,
+    "yt_id": "wu1UXCdyNo0"
   },
   {
     "id": 22,
@@ -261,7 +243,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 60.0,
     "dave_score": 58.0,
-    "yachtski": 55.25
+    "yachtski": 55.25,
+    "yt_id": "UfZWp-hGCdA"
   },
   {
     "id": 23,
@@ -273,7 +256,8 @@ const data = [
     "hunter_score": 8.0,
     "steve_score": 1.0,
     "dave_score": 12.0,
-    "yachtski": 7.25
+    "yachtski": 7.25,
+    "yt_id": "e5MAg_yWsq8"
   },
   {
     "id": 24,
@@ -285,7 +269,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 62.0,
     "dave_score": 51.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": "g2-wE-J91JU"
   },
   {
     "id": 25,
@@ -297,7 +282,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 56.0,
     "dave_score": 68.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": "Nwx9IkLNLjs"
   },
   {
     "id": 26,
@@ -309,7 +295,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 52.0,
     "dave_score": 48.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": "HfGZmyMx_p8"
   },
   {
     "id": 27,
@@ -321,7 +308,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 82.0,
     "dave_score": 82.0,
-    "yachtski": 85.25
+    "yachtski": 85.25,
+    "yt_id": "ZzLmymD1Yr4"
   },
   {
     "id": 28,
@@ -333,7 +321,8 @@ const data = [
     "hunter_score": 92.0,
     "steve_score": 94.0,
     "dave_score": 89.0,
-    "yachtski": 91.25
+    "yachtski": 91.25,
+    "yt_id": "d_HlPboLRL8"
   },
   {
     "id": 29,
@@ -345,7 +334,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 97.0,
     "dave_score": 89.0,
-    "yachtski": 92.75
+    "yachtski": 92.75,
+    "yt_id": "kzXNdLVZs3k"
   },
   {
     "id": 30,
@@ -357,19 +347,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 79.0,
     "dave_score": 82.0,
-    "yachtski": 81.5
-  },
-  {
-    "id": 31,
-    "title": "Look What You've Done to Me",
-    "artist": "Boz Scaggs",
-    "year": 1980,
-    "episode": "BYR23",
-    "jd_score": 51.0,
-    "hunter_score": 50.0,
-    "steve_score": 53.0,
-    "dave_score": 58.0,
-    "yachtski": 53.0
+    "yachtski": 81.5,
+    "yt_id": "g7X9X6TlrUo"
   },
   {
     "id": 32,
@@ -381,7 +360,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 60.0,
     "dave_score": 63.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": "4Y-vd-WtNoY"
   },
   {
     "id": 33,
@@ -393,7 +373,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 84.0,
     "dave_score": 78.0,
-    "yachtski": 85.75
+    "yachtski": 85.75,
+    "yt_id": "zzAwspdDFO4"
   },
   {
     "id": 34,
@@ -405,7 +386,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 64.0,
     "dave_score": 59.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": "qeTH-3tdTsw"
   },
   {
     "id": 35,
@@ -417,7 +399,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 48.0,
     "dave_score": 49.0,
-    "yachtski": 49.0
+    "yachtski": 49.0,
+    "yt_id": "WtrbxIW7bRo"
   },
   {
     "id": 36,
@@ -429,7 +412,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 75.0,
     "dave_score": 70.0,
-    "yachtski": 71.25
+    "yachtski": 71.25,
+    "yt_id": "Hp0X0-T4C0Q"
   },
   {
     "id": 37,
@@ -441,7 +425,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 52.0,
     "dave_score": 48.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": "wRTX_w-7k_Y"
   },
   {
     "id": 38,
@@ -453,7 +438,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 59.0,
     "dave_score": 82.0,
-    "yachtski": 71.75
+    "yachtski": 71.75,
+    "yt_id": "YJpNpT-2n68"
   },
   {
     "id": 39,
@@ -465,7 +451,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 84.0,
     "dave_score": 67.0,
-    "yachtski": 78.75
+    "yachtski": 78.75,
+    "yt_id": "kzXNdLVZs3k"
   },
   {
     "id": 40,
@@ -477,7 +464,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 90.0,
     "dave_score": 89.0,
-    "yachtski": 89.0
+    "yachtski": 89.0,
+    "yt_id": "sUF8arzgp_U"
   },
   {
     "id": 41,
@@ -489,7 +477,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 100.0,
     "dave_score": 85.0,
-    "yachtski": 88.25
+    "yachtski": 88.25,
+    "yt_id": "CUCLNPOjPZw"
   },
   {
     "id": 42,
@@ -501,19 +490,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 68.0,
     "dave_score": 64.0,
-    "yachtski": 69.75
-  },
-  {
-    "id": 43,
-    "title": "Something Special",
-    "artist": "Quincy Jones w/ Patti Austin",
-    "year": 1981,
-    "episode": "BYR40",
-    "jd_score": 93.0,
-    "hunter_score": 92.0,
-    "steve_score": 91.0,
-    "dave_score": 94.0,
-    "yachtski": 92.5
+    "yachtski": 69.75,
+    "yt_id": "O2pBSmnXxxk"
   },
   {
     "id": 44,
@@ -525,7 +503,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 81.0,
     "dave_score": 85.0,
-    "yachtski": 82.75
+    "yachtski": 82.75,
+    "yt_id": "QvBmtqyaijI"
   },
   {
     "id": 45,
@@ -537,7 +516,8 @@ const data = [
     "hunter_score": 0.0,
     "steve_score": 0.0,
     "dave_score": 0.0,
-    "yachtski": 0.0
+    "yachtski": 0.0,
+    "yt_id": "q6CVfWdn5G8"
   },
   {
     "id": 46,
@@ -549,7 +529,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 80.0,
     "dave_score": 84.0,
-    "yachtski": 81.0
+    "yachtski": 81.0,
+    "yt_id": "bmUzt11SnMI"
   },
   {
     "id": 47,
@@ -561,7 +542,8 @@ const data = [
     "hunter_score": 98.0,
     "steve_score": 96.5,
     "dave_score": 95.0,
-    "yachtski": 96.125
+    "yachtski": 96.125,
+    "yt_id": "8OGavNEw_gY"
   },
   {
     "id": 48,
@@ -573,7 +555,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 41.0,
     "dave_score": 70.0,
-    "yachtski": 50.25
+    "yachtski": 50.25,
+    "yt_id": "JkRKT6T0QLg"
   },
   {
     "id": 49,
@@ -585,7 +568,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 97.0,
     "dave_score": 94.0,
-    "yachtski": 93.0
+    "yachtski": 93.0,
+    "yt_id": "FTQbiNvZqaY"
   },
   {
     "id": 50,
@@ -597,7 +581,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 76.0,
     "dave_score": 82.0,
-    "yachtski": 81.5
+    "yachtski": 81.5,
+    "yt_id": "TjWmw-8-OEk"
   },
   {
     "id": 51,
@@ -609,7 +594,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 77.0,
     "dave_score": 60.0,
-    "yachtski": 65.5
+    "yachtski": 65.5,
+    "yt_id": "qvvhCzDobRE"
   },
   {
     "id": 52,
@@ -621,7 +607,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 78.0,
     "dave_score": 83.0,
-    "yachtski": 81.25
+    "yachtski": 81.25,
+    "yt_id": "aZ67bpvH3_U"
   },
   {
     "id": 53,
@@ -633,7 +620,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 78.0,
     "dave_score": 82.0,
-    "yachtski": 84.0
+    "yachtski": 84.0,
+    "yt_id": "klkdCL_UoZc"
   },
   {
     "id": 54,
@@ -645,7 +633,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 63.0,
     "dave_score": 58.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": "Pxs3jGy9k9w"
   },
   {
     "id": 55,
@@ -657,7 +646,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 66.0,
     "dave_score": 55.0,
-    "yachtski": 58.0
+    "yachtski": 58.0,
+    "yt_id": "qlti8Q-gU-Q"
   },
   {
     "id": 56,
@@ -669,535 +659,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 85.0,
     "dave_score": 85.0,
-    "yachtski": 81.5
-  },
-  {
-    "id": 57,
-    "title": "Breezin'",
-    "artist": "George Benson & Al Jarreau",
-    "year": 2006,
-    "episode": "BYR52",
-    "jd_score": 45.0,
-    "hunter_score": 51.0,
-    "steve_score": 38.0,
-    "dave_score": 42.0,
-    "yachtski": 44.0
-  },
-  {
-    "id": 58,
-    "title": "Lucky",
-    "artist": "Brenda Russell",
-    "year": 1981,
-    "episode": "BYR53",
-    "jd_score": 87.0,
-    "hunter_score": 72.0,
-    "steve_score": 66.0,
-    "dave_score": 78.0,
-    "yachtski": 75.75
-  },
-  {
-    "id": 59,
-    "title": "Paradise",
-    "artist": "Herbie Hancock",
-    "year": 1982,
-    "episode": "BYR54",
-    "jd_score": 81.0,
-    "hunter_score": 84.0,
-    "steve_score": 72.0,
-    "dave_score": 75.0,
-    "yachtski": 78.0
-  },
-  {
-    "id": 60,
-    "title": "I Gotta Try",
-    "artist": "Kenny Loggins",
-    "year": 1982,
-    "episode": "BYR55",
-    "jd_score": 85.0,
-    "hunter_score": 89.0,
-    "steve_score": 79.0,
-    "dave_score": 80.0,
-    "yachtski": 83.25
-  },
-  {
-    "id": 61,
-    "title": "I Gotta Try",
-    "artist": "Michael McDonald",
-    "year": 1982,
-    "episode": "BYR55",
-    "jd_score": 95.0,
-    "hunter_score": 85.0,
-    "steve_score": 81.0,
-    "dave_score": 92.0,
-    "yachtski": 88.25
-  },
-  {
-    "id": 62,
-    "title": "Don't Talk",
-    "artist": "Larry Lee",
-    "year": 1982,
-    "episode": "BYR56",
-    "jd_score": 90.0,
-    "hunter_score": 88.0,
-    "steve_score": 88.0,
-    "dave_score": 89.0,
-    "yachtski": 88.75
-  },
-  {
-    "id": 63,
-    "title": "Fool In Love With You",
-    "artist": "Jim Photoglo",
-    "year": 1981,
-    "episode": "BYR57",
-    "jd_score": 85.0,
-    "hunter_score": 90.0,
-    "steve_score": 89.0,
-    "dave_score": 89.0,
-    "yachtski": 88.25
-  },
-  {
-    "id": 64,
-    "title": "Do You Love Me",
-    "artist": "Patti Austin",
-    "year": 1981,
-    "episode": "BYR58",
-    "jd_score": 85.0,
-    "hunter_score": 73.0,
-    "steve_score": 87.0,
-    "dave_score": 82.0,
-    "yachtski": 81.75
-  },
-  {
-    "id": 65,
-    "title": "Boys of Autumn",
-    "artist": "David Roberts",
-    "year": 1982,
-    "episode": "BYR59",
-    "jd_score": 90.0,
-    "hunter_score": 83.0,
-    "steve_score": 89.5,
-    "dave_score": 89.0,
-    "yachtski": 87.875
-  },
-  {
-    "id": 66,
-    "title": "Keep On Running",
-    "artist": "Byrne & Barnes",
-    "year": 1981,
-    "episode": "BYR60",
-    "jd_score": 87.0,
-    "hunter_score": 88.0,
-    "steve_score": 81.0,
-    "dave_score": 78.0,
-    "yachtski": 83.5
-  },
-  {
-    "id": 67,
-    "title": "The Fool In Me",
-    "artist": "Dave Loggins",
-    "year": 1979,
-    "episode": "BYR60",
-    "jd_score": 55.0,
-    "hunter_score": 59.0,
-    "steve_score": 54.0,
-    "dave_score": 61.0,
-    "yachtski": 57.25
-  },
-  {
-    "id": 68,
-    "title": "Same Old Fool",
-    "artist": "Dolly Parton",
-    "year": 1980,
-    "episode": "BYR60",
-    "jd_score": 84.0,
-    "hunter_score": 81.0,
-    "steve_score": 64.0,
-    "dave_score": 71.0,
-    "yachtski": 75.0
-  },
-  {
-    "id": 69,
-    "title": "Carry Me Away",
-    "artist": "Doobie Brothers",
-    "year": 1976,
-    "episode": "BYR60",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 53.0,
-    "dave_score": 55.0,
-    "yachtski": 52.75
-  },
-  {
-    "id": 70,
-    "title": "Caught Up in the Middle",
-    "artist": "England Dan & John Ford Coley",
-    "year": 1979,
-    "episode": "BYR60",
-    "jd_score": 81.0,
-    "hunter_score": 78.0,
-    "steve_score": 80.0,
-    "dave_score": 78.0,
-    "yachtski": 79.25
-  },
-  {
-    "id": 71,
-    "title": "Cryin' Shame",
-    "artist": "Gregg Allman Band",
-    "year": 1977,
-    "episode": "BYR60",
-    "jd_score": 51.0,
-    "hunter_score": 61.0,
-    "steve_score": 52.0,
-    "dave_score": 58.0,
-    "yachtski": 55.5
-  },
-  {
-    "id": 72,
-    "title": "Heart To Heart",
-    "artist": "Kenny Rogers",
-    "year": 1984,
-    "episode": "BYR60",
-    "jd_score": 72.0,
-    "hunter_score": 69.0,
-    "steve_score": 67.0,
-    "dave_score": 72.0,
-    "yachtski": 70.0
-  },
-  {
-    "id": 73,
-    "title": "Red Steamliner",
-    "artist": "Little Feat",
-    "year": 1977,
-    "episode": "BYR60",
-    "jd_score": 57.0,
-    "hunter_score": 61.0,
-    "steve_score": 57.0,
-    "dave_score": 58.0,
-    "yachtski": 58.25
-  },
-  {
-    "id": 74,
-    "title": "You",
-    "artist": "Max Gronenthal",
-    "year": 1979,
-    "episode": "BYR60",
-    "jd_score": 65.0,
-    "hunter_score": 71.0,
-    "steve_score": 65.0,
-    "dave_score": 57.0,
-    "yachtski": 64.5
-  },
-  {
-    "id": 75,
-    "title": "Nail Me to the Wall",
-    "artist": "Sanford-Townsend Band",
-    "year": 1979,
-    "episode": "BYR60",
-    "jd_score": 55.0,
-    "hunter_score": 53.0,
-    "steve_score": 52.0,
-    "dave_score": 62.0,
-    "yachtski": 55.5
-  },
-  {
-    "id": 76,
-    "title": "If And Any Day",
-    "artist": "Seals & Crofts",
-    "year": 1980,
-    "episode": "BYR60",
-    "jd_score": 88.0,
-    "hunter_score": 74.0,
-    "steve_score": 79.0,
-    "dave_score": 76.0,
-    "yachtski": 79.25
-  },
-  {
-    "id": 77,
-    "title": "Fly",
-    "artist": "Steve Cropper",
-    "year": 1981,
-    "episode": "BYR60",
-    "jd_score": 81.0,
-    "hunter_score": 82.0,
-    "steve_score": 68.0,
-    "dave_score": 81.0,
-    "yachtski": 78.0
-  },
-  {
-    "id": 78,
-    "title": "Biggest Part of Me",
-    "artist": "Ambrosia",
-    "year": 1980,
-    "episode": "BYR61",
-    "jd_score": 62.0,
-    "hunter_score": 72.0,
-    "steve_score": 91.0,
-    "dave_score": 65.0,
-    "yachtski": 72.5
-  },
-  {
-    "id": 79,
-    "title": "Can't Hide Love",
-    "artist": "Jaye P. Morgan",
-    "year": 1976,
-    "episode": "BYR62",
-    "jd_score": 55.0,
-    "hunter_score": 54.0,
-    "steve_score": 59.0,
-    "dave_score": 62.0,
-    "yachtski": 57.5
-  },
-  {
-    "id": 80,
-    "title": "Paradise (Let Me Take You Into)",
-    "artist": "Pablo Cruise",
-    "year": 1981,
-    "episode": "BYR63",
-    "jd_score": 82.0,
-    "hunter_score": 74.0,
-    "steve_score": 69.0,
-    "dave_score": 71.0,
-    "yachtski": 74.0
-  },
-  {
-    "id": 81,
-    "title": "Come Back",
-    "artist": "Benny Hester",
-    "year": 1981,
-    "episode": "BYR64",
-    "jd_score": 68.0,
-    "hunter_score": 77.0,
-    "steve_score": 68.0,
-    "dave_score": 73.0,
-    "yachtski": 71.5
-  },
-  {
-    "id": 82,
-    "title": "Sunset Drivers",
-    "artist": "Lee Ritenour",
-    "year": 1984,
-    "episode": "BYR65",
-    "jd_score": 65.0,
-    "hunter_score": 66.0,
-    "steve_score": 67.0,
-    "dave_score": 62.0,
-    "yachtski": 65.0
-  },
-  {
-    "id": 83,
-    "title": "Jagged Edge",
-    "artist": "Alessi",
-    "year": 1982,
-    "episode": "BYR66",
-    "jd_score": 86.0,
-    "hunter_score": 90.0,
-    "steve_score": 88.0,
-    "dave_score": 87.0,
-    "yachtski": 87.75
-  },
-  {
-    "id": 84,
-    "title": "You Make Me Feel Like Dancing",
-    "artist": "Lee Ritenour",
-    "year": 1979,
-    "episode": "BYR67",
-    "jd_score": 42.0,
-    "hunter_score": 50.0,
-    "steve_score": 40.0,
-    "dave_score": 51.0,
-    "yachtski": 45.75
-  },
-  {
-    "id": 85,
-    "title": "Two Eyes",
-    "artist": "Brenda Russell",
-    "year": 1983,
-    "episode": "BYR68",
-    "jd_score": 66.0,
-    "hunter_score": 63.0,
-    "steve_score": 67.0,
-    "dave_score": 59.0,
-    "yachtski": 63.75
-  },
-  {
-    "id": 86,
-    "title": "Cool Fool",
-    "artist": "Bruce Roberts",
-    "year": 1980,
-    "episode": "BYR69",
-    "jd_score": 62.0,
-    "hunter_score": 76.0,
-    "steve_score": 63.0,
-    "dave_score": 58.0,
-    "yachtski": 64.75
-  },
-  {
-    "id": 87,
-    "title": "New York Bars",
-    "artist": "Brenda Russell",
-    "year": 1983,
-    "episode": "BYR70",
-    "jd_score": 79.0,
-    "hunter_score": 80.0,
-    "steve_score": 76.0,
-    "dave_score": 66.0,
-    "yachtski": 75.25
-  },
-  {
-    "id": 88,
-    "title": "I Won't Let Go",
-    "artist": "Brooklyn Dreams",
-    "year": 1980,
-    "episode": "BYR70",
-    "jd_score": 62.0,
-    "hunter_score": 87.0,
-    "steve_score": 72.0,
-    "dave_score": 81.0,
-    "yachtski": 75.5
-  },
-  {
-    "id": 89,
-    "title": "Lucky One (New York Boy)",
-    "artist": "Carrera",
-    "year": 1983,
-    "episode": "BYR70",
-    "jd_score": 57.0,
-    "hunter_score": 71.0,
-    "steve_score": 77.0,
-    "dave_score": 68.0,
-    "yachtski": 68.25
-  },
-  {
-    "id": 90,
-    "title": "Arthur's Theme (Best That You Can Do)",
-    "artist": "Christopher Cross",
-    "year": 1981,
-    "episode": "BYR70",
-    "jd_score": 50.0,
-    "hunter_score": 56.0,
-    "steve_score": 62.0,
-    "dave_score": 57.0,
-    "yachtski": 56.25
-  },
-  {
-    "id": 91,
-    "title": "Ask Me to Say \"I Do\" (And I Will)",
-    "artist": "David Pomeranz",
-    "year": 1980,
-    "episode": "BYR70",
-    "jd_score": 75.0,
-    "hunter_score": 68.0,
-    "steve_score": 66.0,
-    "dave_score": 63.0,
-    "yachtski": 68.0
-  },
-  {
-    "id": 92,
-    "title": "Love Is Like a Light",
-    "artist": "Frank Stallone",
-    "year": 1984,
-    "episode": "BYR70",
-    "jd_score": 52.0,
-    "hunter_score": 70.0,
-    "steve_score": 63.0,
-    "dave_score": 61.0,
-    "yachtski": 61.5
-  },
-  {
-    "id": 93,
-    "title": "On the Boulevard",
-    "artist": "Manhattan Transfer",
-    "year": 1981,
-    "episode": "BYR70",
-    "jd_score": 66.0,
-    "hunter_score": 66.0,
-    "steve_score": 79.0,
-    "dave_score": 55.0,
-    "yachtski": 66.5
-  },
-  {
-    "id": 94,
-    "title": "Looking for the Perfect Ahh",
-    "artist": "Melissa Manchester",
-    "year": 1982,
-    "episode": "BYR70",
-    "jd_score": 82.0,
-    "hunter_score": 65.0,
-    "steve_score": 61.0,
-    "dave_score": 59.0,
-    "yachtski": 66.75
-  },
-  {
-    "id": 95,
-    "title": "Jealousy",
-    "artist": "Michael Franks",
-    "year": 1982,
-    "episode": "BYR70",
-    "jd_score": 61.0,
-    "hunter_score": 63.0,
-    "steve_score": 59.0,
-    "dave_score": 56.0,
-    "yachtski": 59.75
-  },
-  {
-    "id": 96,
-    "title": "Bi-Coastal",
-    "artist": "Peter Allen",
-    "year": 1982,
-    "episode": "BYR70",
-    "jd_score": 87.0,
-    "hunter_score": 91.0,
-    "steve_score": 81.0,
-    "dave_score": 78.0,
-    "yachtski": 84.25
-  },
-  {
-    "id": 97,
-    "title": "Brooklyn Girls",
-    "artist": "Robbie Dupree",
-    "year": 1981,
-    "episode": "BYR70",
-    "jd_score": 89.0,
-    "hunter_score": 92.0,
-    "steve_score": 84.0,
-    "dave_score": 88.0,
-    "yachtski": 88.25
-  },
-  {
-    "id": 98,
-    "title": "Just Another Notch on the Bedpost",
-    "artist": "Robert Kraft ",
-    "year": 1982,
-    "episode": "BYR70",
-    "jd_score": 85.0,
-    "hunter_score": 69.0,
-    "steve_score": 67.0,
-    "dave_score": 76.0,
-    "yachtski": 74.25
-  },
-  {
-    "id": 99,
-    "title": "Not Tonight",
-    "artist": "The Brecker Brothers",
-    "year": 1980,
-    "episode": "BYR70",
-    "jd_score": 86.0,
-    "hunter_score": 84.0,
-    "steve_score": 86.0,
-    "dave_score": 86.0,
-    "yachtski": 85.5
-  },
-  {
-    "id": 100,
-    "title": "We're In This Love Together",
-    "artist": "Al Jarreau",
-    "year": 1981,
-    "episode": "BYR71",
-    "jd_score": 85.0,
-    "hunter_score": 76.0,
-    "steve_score": 87.0,
-    "dave_score": 75.0,
-    "yachtski": 80.75
+    "yachtski": 81.5,
+    "yt_id": "L6y40y91ZrM"
   },
   {
     "id": 101,
@@ -1209,7 +672,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 87.0,
     "dave_score": 78.0,
-    "yachtski": 86.75
+    "yachtski": 86.75,
+    "yt_id": null
   },
   {
     "id": 102,
@@ -1221,7 +685,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 62.0,
     "dave_score": 55.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 103,
@@ -1233,7 +698,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 68.0,
     "dave_score": 55.0,
-    "yachtski": 61.5
+    "yachtski": 61.5,
+    "yt_id": null
   },
   {
     "id": 104,
@@ -1245,7 +711,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 63.0,
     "dave_score": 74.0,
-    "yachtski": 68.25
+    "yachtski": 68.25,
+    "yt_id": null
   },
   {
     "id": 105,
@@ -1257,7 +724,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 65.0,
     "dave_score": 57.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 106,
@@ -1269,7 +737,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 71.0,
     "dave_score": 72.0,
-    "yachtski": 67.25
+    "yachtski": 67.25,
+    "yt_id": null
   },
   {
     "id": 107,
@@ -1281,7 +750,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 56.0,
     "dave_score": 51.0,
-    "yachtski": 52.25
+    "yachtski": 52.25,
+    "yt_id": null
   },
   {
     "id": 108,
@@ -1293,7 +763,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 78.0,
     "dave_score": 82.0,
-    "yachtski": 80.25
+    "yachtski": 80.25,
+    "yt_id": null
   },
   {
     "id": 109,
@@ -1305,7 +776,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 53.0,
     "dave_score": 50.0,
-    "yachtski": 51.5
+    "yachtski": 51.5,
+    "yt_id": null
   },
   {
     "id": 110,
@@ -1317,7 +789,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 64.0,
     "dave_score": 52.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 111,
@@ -1329,7 +802,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 61.0,
     "dave_score": 64.0,
-    "yachtski": 68.0
+    "yachtski": 68.0,
+    "yt_id": null
   },
   {
     "id": 112,
@@ -1341,7 +815,528 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 54.0,
     "dave_score": 50.0,
-    "yachtski": 52.25
+    "yachtski": 52.25,
+    "yt_id": null
+  },
+  {
+    "id": 58,
+    "title": "Lucky",
+    "artist": "Brenda Russell",
+    "year": 1981,
+    "episode": "BYR53",
+    "jd_score": 87.0,
+    "hunter_score": 72.0,
+    "steve_score": 66.0,
+    "dave_score": 78.0,
+    "yachtski": 75.75,
+    "yt_id": "4vvBAONkYwI"
+  },
+  {
+    "id": 59,
+    "title": "Paradise",
+    "artist": "Herbie Hancock",
+    "year": 1982,
+    "episode": "BYR54",
+    "jd_score": 81.0,
+    "hunter_score": 84.0,
+    "steve_score": 72.0,
+    "dave_score": 75.0,
+    "yachtski": 78.0,
+    "yt_id": "1G4isv_Fylg"
+  },
+  {
+    "id": 60,
+    "title": "I Gotta Try",
+    "artist": "Kenny Loggins",
+    "year": 1982,
+    "episode": "BYR55",
+    "jd_score": 85.0,
+    "hunter_score": 89.0,
+    "steve_score": 79.0,
+    "dave_score": 80.0,
+    "yachtski": 83.25,
+    "yt_id": "alSUZP0_7o4"
+  },
+  {
+    "id": 61,
+    "title": "I Gotta Try",
+    "artist": "Michael McDonald",
+    "year": 1982,
+    "episode": "BYR55",
+    "jd_score": 95.0,
+    "hunter_score": 85.0,
+    "steve_score": 81.0,
+    "dave_score": 92.0,
+    "yachtski": 88.25,
+    "yt_id": "alSUZP0_7o4"
+  },
+  {
+    "id": 62,
+    "title": "Don't Talk",
+    "artist": "Larry Lee",
+    "year": 1982,
+    "episode": "BYR56",
+    "jd_score": 90.0,
+    "hunter_score": 88.0,
+    "steve_score": 88.0,
+    "dave_score": 89.0,
+    "yachtski": 88.75,
+    "yt_id": "hDM-XA0-8g4"
+  },
+  {
+    "id": 64,
+    "title": "Do You Love Me",
+    "artist": "Patti Austin",
+    "year": 1981,
+    "episode": "BYR58",
+    "jd_score": 85.0,
+    "hunter_score": 73.0,
+    "steve_score": 87.0,
+    "dave_score": 82.0,
+    "yachtski": 81.75,
+    "yt_id": "loHOhxsglKI"
+  },
+  {
+    "id": 65,
+    "title": "Boys of Autumn",
+    "artist": "David Roberts",
+    "year": 1982,
+    "episode": "BYR59",
+    "jd_score": 90.0,
+    "hunter_score": 83.0,
+    "steve_score": 89.5,
+    "dave_score": 89.0,
+    "yachtski": 87.875,
+    "yt_id": "-cHt5HLNEKU"
+  },
+  {
+    "id": 66,
+    "title": "Keep On Running",
+    "artist": "Byrne & Barnes",
+    "year": 1981,
+    "episode": "BYR60",
+    "jd_score": 87.0,
+    "hunter_score": 88.0,
+    "steve_score": 81.0,
+    "dave_score": 78.0,
+    "yachtski": 83.5,
+    "yt_id": "a4apyYG5My0"
+  },
+  {
+    "id": 67,
+    "title": "The Fool In Me",
+    "artist": "Dave Loggins",
+    "year": 1979,
+    "episode": "BYR60",
+    "jd_score": 55.0,
+    "hunter_score": 59.0,
+    "steve_score": 54.0,
+    "dave_score": 61.0,
+    "yachtski": 57.25,
+    "yt_id": "tRLbKiKJims"
+  },
+  {
+    "id": 68,
+    "title": "Same Old Fool",
+    "artist": "Dolly Parton",
+    "year": 1980,
+    "episode": "BYR60",
+    "jd_score": 84.0,
+    "hunter_score": 81.0,
+    "steve_score": 64.0,
+    "dave_score": 71.0,
+    "yachtski": 75.0,
+    "yt_id": "YPECEFYtUVE"
+  },
+  {
+    "id": 69,
+    "title": "Carry Me Away",
+    "artist": "Doobie Brothers",
+    "year": 1976,
+    "episode": "BYR60",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 53.0,
+    "dave_score": 55.0,
+    "yachtski": 52.75,
+    "yt_id": "6YDwBktDthA"
+  },
+  {
+    "id": 70,
+    "title": "Caught Up in the Middle",
+    "artist": "England Dan & John Ford Coley",
+    "year": 1979,
+    "episode": "BYR60",
+    "jd_score": 81.0,
+    "hunter_score": 78.0,
+    "steve_score": 80.0,
+    "dave_score": 78.0,
+    "yachtski": 79.25,
+    "yt_id": "zZufuZLwCpk"
+  },
+  {
+    "id": 71,
+    "title": "Cryin' Shame",
+    "artist": "Gregg Allman Band",
+    "year": 1977,
+    "episode": "BYR60",
+    "jd_score": 51.0,
+    "hunter_score": 61.0,
+    "steve_score": 52.0,
+    "dave_score": 58.0,
+    "yachtski": 55.5,
+    "yt_id": "1KON6wTonUM"
+  },
+  {
+    "id": 72,
+    "title": "Heart To Heart",
+    "artist": "Kenny Rogers",
+    "year": 1984,
+    "episode": "BYR60",
+    "jd_score": 72.0,
+    "hunter_score": 69.0,
+    "steve_score": 67.0,
+    "dave_score": 72.0,
+    "yachtski": 70.0,
+    "yt_id": "qBoQzo98EpQ"
+  },
+  {
+    "id": 73,
+    "title": "Red Steamliner",
+    "artist": "Little Feat",
+    "year": 1977,
+    "episode": "BYR60",
+    "jd_score": 57.0,
+    "hunter_score": 61.0,
+    "steve_score": 57.0,
+    "dave_score": 58.0,
+    "yachtski": 58.25,
+    "yt_id": "mqiaVAQIFSU"
+  },
+  {
+    "id": 74,
+    "title": "You",
+    "artist": "Max Gronenthal",
+    "year": 1979,
+    "episode": "BYR60",
+    "jd_score": 65.0,
+    "hunter_score": 71.0,
+    "steve_score": 65.0,
+    "dave_score": 57.0,
+    "yachtski": 64.5,
+    "yt_id": "fa0o_g84TlE"
+  },
+  {
+    "id": 76,
+    "title": "If And Any Day",
+    "artist": "Seals & Crofts",
+    "year": 1980,
+    "episode": "BYR60",
+    "jd_score": 88.0,
+    "hunter_score": 74.0,
+    "steve_score": 79.0,
+    "dave_score": 76.0,
+    "yachtski": 79.25,
+    "yt_id": "1lHQqGYjIgs"
+  },
+  {
+    "id": 77,
+    "title": "Fly",
+    "artist": "Steve Cropper",
+    "year": 1981,
+    "episode": "BYR60",
+    "jd_score": 81.0,
+    "hunter_score": 82.0,
+    "steve_score": 68.0,
+    "dave_score": 81.0,
+    "yachtski": 78.0,
+    "yt_id": "KfDr_7LN-Ew"
+  },
+  {
+    "id": 78,
+    "title": "Biggest Part of Me",
+    "artist": "Ambrosia",
+    "year": 1980,
+    "episode": "BYR61",
+    "jd_score": 62.0,
+    "hunter_score": 72.0,
+    "steve_score": 91.0,
+    "dave_score": 65.0,
+    "yachtski": 72.5,
+    "yt_id": "RuMnXi7L7wE"
+  },
+  {
+    "id": 79,
+    "title": "Can't Hide Love",
+    "artist": "Jaye P. Morgan",
+    "year": 1976,
+    "episode": "BYR62",
+    "jd_score": 55.0,
+    "hunter_score": 54.0,
+    "steve_score": 59.0,
+    "dave_score": 62.0,
+    "yachtski": 57.5,
+    "yt_id": "1TxgfbPl9Qg"
+  },
+  {
+    "id": 80,
+    "title": "Paradise (Let Me Take You Into)",
+    "artist": "Pablo Cruise",
+    "year": 1981,
+    "episode": "BYR63",
+    "jd_score": 82.0,
+    "hunter_score": 74.0,
+    "steve_score": 69.0,
+    "dave_score": 71.0,
+    "yachtski": 74.0,
+    "yt_id": "Z_pqhk1DrqY"
+  },
+  {
+    "id": 81,
+    "title": "Come Back",
+    "artist": "Benny Hester",
+    "year": 1981,
+    "episode": "BYR64",
+    "jd_score": 68.0,
+    "hunter_score": 77.0,
+    "steve_score": 68.0,
+    "dave_score": 73.0,
+    "yachtski": 71.5,
+    "yt_id": "MXIpw1s0O9c"
+  },
+  {
+    "id": 82,
+    "title": "Sunset Drivers",
+    "artist": "Lee Ritenour",
+    "year": 1984,
+    "episode": "BYR65",
+    "jd_score": 65.0,
+    "hunter_score": 66.0,
+    "steve_score": 67.0,
+    "dave_score": 62.0,
+    "yachtski": 65.0,
+    "yt_id": "DWNU2UKgses"
+  },
+  {
+    "id": 83,
+    "title": "Jagged Edge",
+    "artist": "Alessi",
+    "year": 1982,
+    "episode": "BYR66",
+    "jd_score": 86.0,
+    "hunter_score": 90.0,
+    "steve_score": 88.0,
+    "dave_score": 87.0,
+    "yachtski": 87.75,
+    "yt_id": "XAa4kZ8Gnt4"
+  },
+  {
+    "id": 84,
+    "title": "You Make Me Feel Like Dancing",
+    "artist": "Lee Ritenour",
+    "year": 1979,
+    "episode": "BYR67",
+    "jd_score": 42.0,
+    "hunter_score": 50.0,
+    "steve_score": 40.0,
+    "dave_score": 51.0,
+    "yachtski": 45.75,
+    "yt_id": "HhSjwU8gEsI"
+  },
+  {
+    "id": 85,
+    "title": "Two Eyes",
+    "artist": "Brenda Russell",
+    "year": 1983,
+    "episode": "BYR68",
+    "jd_score": 66.0,
+    "hunter_score": 63.0,
+    "steve_score": 67.0,
+    "dave_score": 59.0,
+    "yachtski": 63.75,
+    "yt_id": "3xS0utOqnIg"
+  },
+  {
+    "id": 86,
+    "title": "Cool Fool",
+    "artist": "Bruce Roberts",
+    "year": 1980,
+    "episode": "BYR69",
+    "jd_score": 62.0,
+    "hunter_score": 76.0,
+    "steve_score": 63.0,
+    "dave_score": 58.0,
+    "yachtski": 64.75,
+    "yt_id": "v2jmQAnhs-U"
+  },
+  {
+    "id": 87,
+    "title": "New York Bars",
+    "artist": "Brenda Russell",
+    "year": 1983,
+    "episode": "BYR70",
+    "jd_score": 79.0,
+    "hunter_score": 80.0,
+    "steve_score": 76.0,
+    "dave_score": 66.0,
+    "yachtski": 75.25,
+    "yt_id": "dWe_YFc6u4k"
+  },
+  {
+    "id": 89,
+    "title": "Lucky One (New York Boy)",
+    "artist": "Carrera",
+    "year": 1983,
+    "episode": "BYR70",
+    "jd_score": 57.0,
+    "hunter_score": 71.0,
+    "steve_score": 77.0,
+    "dave_score": 68.0,
+    "yachtski": 68.25,
+    "yt_id": "2TKm2L_v9o4"
+  },
+  {
+    "id": 90,
+    "title": "Arthur's Theme (Best That You Can Do)",
+    "artist": "Christopher Cross",
+    "year": 1981,
+    "episode": "BYR70",
+    "jd_score": 50.0,
+    "hunter_score": 56.0,
+    "steve_score": 62.0,
+    "dave_score": 57.0,
+    "yachtski": 56.25,
+    "yt_id": "wJ6zs2WSCjk"
+  },
+  {
+    "id": 91,
+    "title": "Ask Me to Say \"I Do\" (And I Will)",
+    "artist": "David Pomeranz",
+    "year": 1980,
+    "episode": "BYR70",
+    "jd_score": 75.0,
+    "hunter_score": 68.0,
+    "steve_score": 66.0,
+    "dave_score": 63.0,
+    "yachtski": 68.0,
+    "yt_id": "C_rhO0b73w0"
+  },
+  {
+    "id": 92,
+    "title": "Love Is Like a Light",
+    "artist": "Frank Stallone",
+    "year": 1984,
+    "episode": "BYR70",
+    "jd_score": 52.0,
+    "hunter_score": 70.0,
+    "steve_score": 63.0,
+    "dave_score": 61.0,
+    "yachtski": 61.5,
+    "yt_id": "IJ8CzFuDpyM"
+  },
+  {
+    "id": 93,
+    "title": "On the Boulevard",
+    "artist": "Manhattan Transfer",
+    "year": 1981,
+    "episode": "BYR70",
+    "jd_score": 66.0,
+    "hunter_score": 66.0,
+    "steve_score": 79.0,
+    "dave_score": 55.0,
+    "yachtski": 66.5,
+    "yt_id": "WSXkVXz_oys"
+  },
+  {
+    "id": 94,
+    "title": "Looking for the Perfect Ahh",
+    "artist": "Melissa Manchester",
+    "year": 1982,
+    "episode": "BYR70",
+    "jd_score": 82.0,
+    "hunter_score": 65.0,
+    "steve_score": 61.0,
+    "dave_score": 59.0,
+    "yachtski": 66.75,
+    "yt_id": "TNH7dnQGWWg"
+  },
+  {
+    "id": 95,
+    "title": "Jealousy",
+    "artist": "Michael Franks",
+    "year": 1982,
+    "episode": "BYR70",
+    "jd_score": 61.0,
+    "hunter_score": 63.0,
+    "steve_score": 59.0,
+    "dave_score": 56.0,
+    "yachtski": 59.75,
+    "yt_id": "NPQZXUQomXo"
+  },
+  {
+    "id": 96,
+    "title": "Bi-Coastal",
+    "artist": "Peter Allen",
+    "year": 1982,
+    "episode": "BYR70",
+    "jd_score": 87.0,
+    "hunter_score": 91.0,
+    "steve_score": 81.0,
+    "dave_score": 78.0,
+    "yachtski": 84.25,
+    "yt_id": "oztOoicmkP4"
+  },
+  {
+    "id": 97,
+    "title": "Brooklyn Girls",
+    "artist": "Robbie Dupree",
+    "year": 1981,
+    "episode": "BYR70",
+    "jd_score": 89.0,
+    "hunter_score": 92.0,
+    "steve_score": 84.0,
+    "dave_score": 88.0,
+    "yachtski": 88.25,
+    "yt_id": "hiR5CBmK_Wk"
+  },
+  {
+    "id": 98,
+    "title": "Just Another Notch on the Bedpost",
+    "artist": "Robert Kraft ",
+    "year": 1982,
+    "episode": "BYR70",
+    "jd_score": 85.0,
+    "hunter_score": 69.0,
+    "steve_score": 67.0,
+    "dave_score": 76.0,
+    "yachtski": 74.25,
+    "yt_id": "YoBuQjK1QQw"
+  },
+  {
+    "id": 99,
+    "title": "Not Tonight",
+    "artist": "The Brecker Brothers",
+    "year": 1980,
+    "episode": "BYR70",
+    "jd_score": 86.0,
+    "hunter_score": 84.0,
+    "steve_score": 86.0,
+    "dave_score": 86.0,
+    "yachtski": 85.5,
+    "yt_id": "8k5hSHTt52Q"
+  },
+  {
+    "id": 100,
+    "title": "We're In This Love Together",
+    "artist": "Al Jarreau",
+    "year": 1981,
+    "episode": "BYR71",
+    "jd_score": 85.0,
+    "hunter_score": 76.0,
+    "steve_score": 87.0,
+    "dave_score": 75.0,
+    "yachtski": 80.75,
+    "yt_id": "otVH5cv9z1A"
   },
   {
     "id": 113,
@@ -1353,7 +1348,8 @@ const data = [
     "hunter_score": 87.0,
     "steve_score": 78.0,
     "dave_score": 85.0,
-    "yachtski": 83.25
+    "yachtski": 83.25,
+    "yt_id": null
   },
   {
     "id": 114,
@@ -1365,7 +1361,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 63.0,
     "dave_score": 61.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 115,
@@ -1377,7 +1374,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 82.0,
     "dave_score": 87.0,
-    "yachtski": 88.5
+    "yachtski": 88.5,
+    "yt_id": null
   },
   {
     "id": 116,
@@ -1389,7 +1387,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 67.0,
     "dave_score": 53.0,
-    "yachtski": 62.75
+    "yachtski": 62.75,
+    "yt_id": null
   },
   {
     "id": 117,
@@ -1401,7 +1400,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 81.0,
     "dave_score": 87.0,
-    "yachtski": 84.0
+    "yachtski": 84.0,
+    "yt_id": null
   },
   {
     "id": 118,
@@ -1413,7 +1413,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 85.0,
     "dave_score": 82.0,
-    "yachtski": 81.5
+    "yachtski": 81.5,
+    "yt_id": null
   },
   {
     "id": 119,
@@ -1425,7 +1426,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 47.0,
     "dave_score": 27.0,
-    "yachtski": 31.5
+    "yachtski": 31.5,
+    "yt_id": null
   },
   {
     "id": 120,
@@ -1437,7 +1439,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 100.0,
     "dave_score": 99.0,
-    "yachtski": 95.75
+    "yachtski": 95.75,
+    "yt_id": null
   },
   {
     "id": 121,
@@ -1449,7 +1452,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 79.0,
     "dave_score": 68.0,
-    "yachtski": 78.75
+    "yachtski": 78.75,
+    "yt_id": null
   },
   {
     "id": 122,
@@ -1461,7 +1465,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 64.0,
     "dave_score": 55.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 123,
@@ -1473,7 +1478,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 41.0,
     "dave_score": 62.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 124,
@@ -1485,7 +1491,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 45.0,
     "dave_score": 38.0,
-    "yachtski": 44.0
+    "yachtski": 44.0,
+    "yt_id": null
   },
   {
     "id": 125,
@@ -1497,7 +1504,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 43.0,
     "dave_score": 49.0,
-    "yachtski": 42.0
+    "yachtski": 42.0,
+    "yt_id": null
   },
   {
     "id": 126,
@@ -1509,7 +1517,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 37.0,
     "dave_score": 42.0,
-    "yachtski": 41.25
+    "yachtski": 41.25,
+    "yt_id": null
   },
   {
     "id": 127,
@@ -1521,7 +1530,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 28.0,
     "dave_score": 30.0,
-    "yachtski": 31.5
+    "yachtski": 31.5,
+    "yt_id": null
   },
   {
     "id": 128,
@@ -1533,7 +1543,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 15.0,
     "dave_score": 8.0,
-    "yachtski": 9.75
+    "yachtski": 9.75,
+    "yt_id": null
   },
   {
     "id": 129,
@@ -1545,7 +1556,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 98.0,
     "dave_score": 90.0,
-    "yachtski": 94.5
+    "yachtski": 94.5,
+    "yt_id": null
   },
   {
     "id": 130,
@@ -1557,7 +1569,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 15.0,
     "dave_score": 30.0,
-    "yachtski": 28.5
+    "yachtski": 28.5,
+    "yt_id": null
   },
   {
     "id": 131,
@@ -1569,7 +1582,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 8.0,
     "dave_score": 25.0,
-    "yachtski": 24.25
+    "yachtski": 24.25,
+    "yt_id": null
   },
   {
     "id": 132,
@@ -1581,7 +1595,8 @@ const data = [
     "hunter_score": 95.0,
     "steve_score": 94.0,
     "dave_score": 90.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 133,
@@ -1593,7 +1608,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 30.0,
     "dave_score": 18.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 134,
@@ -1605,7 +1621,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 65.0,
     "dave_score": 15.0,
-    "yachtski": 26.25
+    "yachtski": 26.25,
+    "yt_id": null
   },
   {
     "id": 135,
@@ -1617,7 +1634,8 @@ const data = [
     "hunter_score": 96.0,
     "steve_score": 89.0,
     "dave_score": 84.0,
-    "yachtski": 89.75
+    "yachtski": 89.75,
+    "yt_id": null
   },
   {
     "id": 136,
@@ -1629,7 +1647,8 @@ const data = [
     "hunter_score": 5.0,
     "steve_score": 8.3,
     "dave_score": 15.0,
-    "yachtski": 9.575
+    "yachtski": 9.575,
+    "yt_id": null
   },
   {
     "id": 137,
@@ -1641,7 +1660,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 92.0,
     "dave_score": 90.0,
-    "yachtski": 92.0
+    "yachtski": 92.0,
+    "yt_id": null
   },
   {
     "id": 138,
@@ -1653,7 +1673,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 77.0,
     "dave_score": 90.0,
-    "yachtski": 89.25
+    "yachtski": 89.25,
+    "yt_id": null
   },
   {
     "id": 139,
@@ -1665,7 +1686,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 26.0,
     "dave_score": 30.0,
-    "yachtski": 42.5
+    "yachtski": 42.5,
+    "yt_id": null
   },
   {
     "id": 140,
@@ -1677,7 +1699,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 44.0,
     "dave_score": 70.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": null
   },
   {
     "id": 141,
@@ -1689,7 +1712,8 @@ const data = [
     "hunter_score": 3.0,
     "steve_score": 0.8,
     "dave_score": 3.0,
-    "yachtski": 3.95
+    "yachtski": 3.95,
+    "yt_id": null
   },
   {
     "id": 142,
@@ -1701,7 +1725,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 43.0,
     "dave_score": 30.0,
-    "yachtski": 39.75
+    "yachtski": 39.75,
+    "yt_id": null
   },
   {
     "id": 143,
@@ -1713,7 +1738,8 @@ const data = [
     "hunter_score": 17.0,
     "steve_score": 10.0,
     "dave_score": 5.0,
-    "yachtski": 13.0
+    "yachtski": 13.0,
+    "yt_id": null
   },
   {
     "id": 144,
@@ -1725,7 +1751,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 72.0,
     "dave_score": 60.0,
-    "yachtski": 72.25
+    "yachtski": 72.25,
+    "yt_id": null
   },
   {
     "id": 145,
@@ -1737,7 +1764,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 87.0,
     "dave_score": 85.0,
-    "yachtski": 87.5
+    "yachtski": 87.5,
+    "yt_id": null
   },
   {
     "id": 146,
@@ -1749,7 +1777,8 @@ const data = [
     "hunter_score": 79.5,
     "steve_score": 84.0,
     "dave_score": 85.0,
-    "yachtski": 82.625
+    "yachtski": 82.625,
+    "yt_id": null
   },
   {
     "id": 147,
@@ -1761,7 +1790,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 5.0,
     "dave_score": 10.0,
-    "yachtski": 13.0
+    "yachtski": 13.0,
+    "yt_id": null
   },
   {
     "id": 148,
@@ -1773,7 +1803,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 41.0,
     "dave_score": 35.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": null
   },
   {
     "id": 149,
@@ -1785,7 +1816,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 100.0,
     "dave_score": 95.0,
-    "yachtski": 96.75
+    "yachtski": 96.75,
+    "yt_id": null
   },
   {
     "id": 150,
@@ -1797,7 +1829,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 13.0,
     "dave_score": 15.0,
-    "yachtski": 14.5
+    "yachtski": 14.5,
+    "yt_id": null
   },
   {
     "id": 151,
@@ -1809,7 +1842,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 38.0,
     "dave_score": 35.0,
-    "yachtski": 40.25
+    "yachtski": 40.25,
+    "yt_id": null
   },
   {
     "id": 152,
@@ -1821,7 +1855,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 83.0,
     "dave_score": 70.0,
-    "yachtski": 80.0
+    "yachtski": 80.0,
+    "yt_id": null
   },
   {
     "id": 153,
@@ -1833,7 +1868,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 26.0,
     "dave_score": 10.0,
-    "yachtski": 30.25
+    "yachtski": 30.25,
+    "yt_id": null
   },
   {
     "id": 154,
@@ -1845,7 +1881,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 85.0,
     "dave_score": 85.0,
-    "yachtski": 85.0
+    "yachtski": 85.0,
+    "yt_id": null
   },
   {
     "id": 155,
@@ -1857,7 +1894,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 75.0,
     "dave_score": 75.0,
-    "yachtski": 58.75
+    "yachtski": 58.75,
+    "yt_id": null
   },
   {
     "id": 156,
@@ -1869,7 +1907,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 90.0,
     "dave_score": 85.0,
-    "yachtski": 85.25
+    "yachtski": 85.25,
+    "yt_id": null
   },
   {
     "id": 157,
@@ -1881,7 +1920,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 29.0,
     "dave_score": 25.0,
-    "yachtski": 34.0
+    "yachtski": 34.0,
+    "yt_id": null
   },
   {
     "id": 158,
@@ -1893,7 +1933,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 64.0,
     "dave_score": 52.0,
-    "yachtski": 60.25
+    "yachtski": 60.25,
+    "yt_id": null
   },
   {
     "id": 159,
@@ -1905,7 +1946,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 14.0,
     "dave_score": 15.0,
-    "yachtski": 17.5
+    "yachtski": 17.5,
+    "yt_id": null
   },
   {
     "id": 160,
@@ -1917,7 +1959,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 40.0,
     "dave_score": 58.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 161,
@@ -1929,7 +1972,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 79.0,
     "dave_score": 77.0,
-    "yachtski": 77.5
+    "yachtski": 77.5,
+    "yt_id": null
   },
   {
     "id": 162,
@@ -1941,7 +1985,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 16.0,
     "dave_score": 20.0,
-    "yachtski": 20.75
+    "yachtski": 20.75,
+    "yt_id": null
   },
   {
     "id": 163,
@@ -1953,7 +1998,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 38.0,
     "dave_score": 45.0,
-    "yachtski": 51.25
+    "yachtski": 51.25,
+    "yt_id": null
   },
   {
     "id": 164,
@@ -1965,7 +2011,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 22.0,
     "dave_score": 20.0,
-    "yachtski": 24.25
+    "yachtski": 24.25,
+    "yt_id": null
   },
   {
     "id": 165,
@@ -1977,7 +2024,8 @@ const data = [
     "hunter_score": 10.0,
     "steve_score": 8.0,
     "dave_score": 15.0,
-    "yachtski": 9.5
+    "yachtski": 9.5,
+    "yt_id": null
   },
   {
     "id": 166,
@@ -1989,7 +2037,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 46.0,
     "dave_score": 48.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 167,
@@ -2001,7 +2050,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 100.0,
     "dave_score": 100.0,
-    "yachtski": 100.0
+    "yachtski": 100.0,
+    "yt_id": null
   },
   {
     "id": 168,
@@ -2013,7 +2063,8 @@ const data = [
     "hunter_score": 99.0,
     "steve_score": 99.0,
     "dave_score": 98.0,
-    "yachtski": 98.25
+    "yachtski": 98.25,
+    "yt_id": null
   },
   {
     "id": 169,
@@ -2025,7 +2076,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 58.0,
     "dave_score": 40.0,
-    "yachtski": 51.75
+    "yachtski": 51.75,
+    "yt_id": null
   },
   {
     "id": 170,
@@ -2037,7 +2089,8 @@ const data = [
     "hunter_score": 15.0,
     "steve_score": 27.0,
     "dave_score": 10.0,
-    "yachtski": 15.125
+    "yachtski": 15.125,
+    "yt_id": null
   },
   {
     "id": 171,
@@ -2049,7 +2102,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 53.0,
     "dave_score": 54.0,
-    "yachtski": 54.0
+    "yachtski": 54.0,
+    "yt_id": null
   },
   {
     "id": 172,
@@ -2061,7 +2115,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 62.0,
     "dave_score": 48.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 173,
@@ -2073,7 +2128,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 48.0,
     "dave_score": 48.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": null
   },
   {
     "id": 174,
@@ -2085,7 +2141,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 39.0,
     "dave_score": 40.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 175,
@@ -2097,7 +2154,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 70.0,
     "dave_score": 64.0,
-    "yachtski": 64.75
+    "yachtski": 64.75,
+    "yt_id": null
   },
   {
     "id": 176,
@@ -2109,7 +2167,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 41.0,
     "dave_score": 48.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 177,
@@ -2121,7 +2180,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 24.0,
     "dave_score": 41.0,
-    "yachtski": 29.25
+    "yachtski": 29.25,
+    "yt_id": null
   },
   {
     "id": 178,
@@ -2133,7 +2193,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 70.0,
     "dave_score": 65.0,
-    "yachtski": 73.5
+    "yachtski": 73.5,
+    "yt_id": null
   },
   {
     "id": 179,
@@ -2145,7 +2206,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 62.0,
     "dave_score": 60.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 180,
@@ -2157,7 +2219,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 18.0,
     "dave_score": 15.0,
-    "yachtski": 17.75
+    "yachtski": 17.75,
+    "yt_id": null
   },
   {
     "id": 181,
@@ -2169,7 +2232,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 18.0,
     "dave_score": 15.0,
-    "yachtski": 17.0
+    "yachtski": 17.0,
+    "yt_id": null
   },
   {
     "id": 182,
@@ -2181,7 +2245,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 46.0,
     "dave_score": 32.0,
-    "yachtski": 42.0
+    "yachtski": 42.0,
+    "yt_id": null
   },
   {
     "id": 183,
@@ -2193,7 +2258,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 30.0,
     "dave_score": 60.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 184,
@@ -2205,7 +2271,8 @@ const data = [
     "hunter_score": 8.0,
     "steve_score": 15.0,
     "dave_score": 15.0,
-    "yachtski": 13.25
+    "yachtski": 13.25,
+    "yt_id": null
   },
   {
     "id": 185,
@@ -2217,7 +2284,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 60.0,
     "dave_score": 55.0,
-    "yachtski": 61.5
+    "yachtski": 61.5,
+    "yt_id": null
   },
   {
     "id": 186,
@@ -2229,7 +2297,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 86.0,
     "dave_score": 80.0,
-    "yachtski": 83.25
+    "yachtski": 83.25,
+    "yt_id": null
   },
   {
     "id": 187,
@@ -2241,7 +2310,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 8.0,
     "dave_score": 30.0,
-    "yachtski": 19.5
+    "yachtski": 19.5,
+    "yt_id": null
   },
   {
     "id": 188,
@@ -2253,7 +2323,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 48.0,
     "dave_score": 58.0,
-    "yachtski": 53.0
+    "yachtski": 53.0,
+    "yt_id": null
   },
   {
     "id": 189,
@@ -2265,7 +2336,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 53.0,
     "dave_score": 72.0,
-    "yachtski": 65.0
+    "yachtski": 65.0,
+    "yt_id": null
   },
   {
     "id": 190,
@@ -2277,7 +2349,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 34.0,
     "dave_score": 20.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 191,
@@ -2289,7 +2362,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 40.0,
     "dave_score": 42.0,
-    "yachtski": 48.75
+    "yachtski": 48.75,
+    "yt_id": null
   },
   {
     "id": 192,
@@ -2301,7 +2375,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 38.0,
     "dave_score": 37.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 193,
@@ -2313,7 +2388,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 73.0,
     "dave_score": 25.0,
-    "yachtski": 42.75
+    "yachtski": 42.75,
+    "yt_id": null
   },
   {
     "id": 194,
@@ -2325,7 +2401,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 17.0,
     "dave_score": 13.0,
-    "yachtski": 15.75
+    "yachtski": 15.75,
+    "yt_id": null
   },
   {
     "id": 195,
@@ -2337,7 +2414,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 92.0,
     "dave_score": 91.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 196,
@@ -2349,7 +2427,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 22.0,
     "dave_score": 20.0,
-    "yachtski": 25.25
+    "yachtski": 25.25,
+    "yt_id": null
   },
   {
     "id": 197,
@@ -2361,7 +2440,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 83.0,
     "dave_score": 79.0,
-    "yachtski": 82.0
+    "yachtski": 82.0,
+    "yt_id": null
   },
   {
     "id": 198,
@@ -2373,7 +2453,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 31.0,
     "dave_score": 35.0,
-    "yachtski": 40.0
+    "yachtski": 40.0,
+    "yt_id": null
   },
   {
     "id": 199,
@@ -2385,7 +2466,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 12.0,
     "dave_score": 25.0,
-    "yachtski": 21.75
+    "yachtski": 21.75,
+    "yt_id": null
   },
   {
     "id": 200,
@@ -2397,7 +2479,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 74.0,
     "dave_score": 55.0,
-    "yachtski": 65.0
+    "yachtski": 65.0,
+    "yt_id": null
   },
   {
     "id": 201,
@@ -2409,7 +2492,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 17.0,
     "dave_score": 28.0,
-    "yachtski": 26.25
+    "yachtski": 26.25,
+    "yt_id": null
   },
   {
     "id": 202,
@@ -2421,7 +2505,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 60.0,
     "dave_score": 42.0,
-    "yachtski": 54.0
+    "yachtski": 54.0,
+    "yt_id": null
   },
   {
     "id": 203,
@@ -2433,7 +2518,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 59.0,
     "dave_score": 30.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 204,
@@ -2445,7 +2531,8 @@ const data = [
     "hunter_score": 16.0,
     "steve_score": 6.0,
     "dave_score": 9.0,
-    "yachtski": 9.25
+    "yachtski": 9.25,
+    "yt_id": null
   },
   {
     "id": 205,
@@ -2457,7 +2544,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 54.0,
     "dave_score": 35.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 206,
@@ -2469,7 +2557,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 38.0,
     "dave_score": 35.0,
-    "yachtski": 37.25
+    "yachtski": 37.25,
+    "yt_id": null
   },
   {
     "id": 207,
@@ -2481,7 +2570,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 43.0,
     "dave_score": 45.0,
-    "yachtski": 39.75
+    "yachtski": 39.75,
+    "yt_id": null
   },
   {
     "id": 208,
@@ -2493,7 +2583,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 83.0,
     "dave_score": 75.0,
-    "yachtski": 81.25
+    "yachtski": 81.25,
+    "yt_id": null
   },
   {
     "id": 209,
@@ -2505,7 +2596,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 67.0,
     "dave_score": 70.0,
-    "yachtski": 70.75
+    "yachtski": 70.75,
+    "yt_id": null
   },
   {
     "id": 210,
@@ -2517,7 +2609,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 70.0,
     "dave_score": 65.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 211,
@@ -2529,7 +2622,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 37.0,
     "dave_score": 28.0,
-    "yachtski": 32.25
+    "yachtski": 32.25,
+    "yt_id": null
   },
   {
     "id": 212,
@@ -2541,7 +2635,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 77.0,
     "dave_score": 75.0,
-    "yachtski": 78.25
+    "yachtski": 78.25,
+    "yt_id": null
   },
   {
     "id": 213,
@@ -2553,7 +2648,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 36.0,
     "dave_score": 25.0,
-    "yachtski": 36.5
+    "yachtski": 36.5,
+    "yt_id": null
   },
   {
     "id": 214,
@@ -2565,7 +2661,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 39.0,
     "dave_score": 45.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 215,
@@ -2577,7 +2674,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 62.0,
     "dave_score": 55.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 216,
@@ -2589,7 +2687,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 42.0,
     "dave_score": 60.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 217,
@@ -2601,7 +2700,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 41.0,
     "dave_score": 57.0,
-    "yachtski": 48.0
+    "yachtski": 48.0,
+    "yt_id": null
   },
   {
     "id": 218,
@@ -2613,7 +2713,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 23.0,
     "dave_score": 45.0,
-    "yachtski": 43.0
+    "yachtski": 43.0,
+    "yt_id": null
   },
   {
     "id": 219,
@@ -2625,7 +2726,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 61.0,
     "dave_score": 51.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 220,
@@ -2637,7 +2739,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 69.0,
     "dave_score": 74.0,
-    "yachtski": 76.25
+    "yachtski": 76.25,
+    "yt_id": null
   },
   {
     "id": 221,
@@ -2649,7 +2752,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 54.0,
     "dave_score": 65.0,
-    "yachtski": 65.5
+    "yachtski": 65.5,
+    "yt_id": null
   },
   {
     "id": 222,
@@ -2661,7 +2765,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 38.0,
     "dave_score": 35.0,
-    "yachtski": 41.25
+    "yachtski": 41.25,
+    "yt_id": null
   },
   {
     "id": 223,
@@ -2673,7 +2778,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 12.0,
     "dave_score": 25.0,
-    "yachtski": 23.0
+    "yachtski": 23.0,
+    "yt_id": null
   },
   {
     "id": 224,
@@ -2685,7 +2791,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 48.0,
     "dave_score": 67.0,
-    "yachtski": 61.25
+    "yachtski": 61.25,
+    "yt_id": null
   },
   {
     "id": 225,
@@ -2697,7 +2804,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 68.0,
     "dave_score": 68.0,
-    "yachtski": 67.0
+    "yachtski": 67.0,
+    "yt_id": null
   },
   {
     "id": 226,
@@ -2709,7 +2817,8 @@ const data = [
     "hunter_score": 25.0,
     "steve_score": 15.0,
     "dave_score": 15.0,
-    "yachtski": 22.5
+    "yachtski": 22.5,
+    "yt_id": null
   },
   {
     "id": 227,
@@ -2721,7 +2830,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 35.0,
     "dave_score": 25.0,
-    "yachtski": 38.25
+    "yachtski": 38.25,
+    "yt_id": null
   },
   {
     "id": 228,
@@ -2733,7 +2843,8 @@ const data = [
     "hunter_score": 24.0,
     "steve_score": 19.0,
     "dave_score": 20.0,
-    "yachtski": 19.25
+    "yachtski": 19.25,
+    "yt_id": null
   },
   {
     "id": 229,
@@ -2745,7 +2856,8 @@ const data = [
     "hunter_score": 26.0,
     "steve_score": 30.0,
     "dave_score": 25.0,
-    "yachtski": 29.75
+    "yachtski": 29.75,
+    "yt_id": null
   },
   {
     "id": 230,
@@ -2757,7 +2869,8 @@ const data = [
     "hunter_score": 66.0,
     "steve_score": 75.0,
     "dave_score": 55.0,
-    "yachtski": 63.75
+    "yachtski": 63.75,
+    "yt_id": null
   },
   {
     "id": 231,
@@ -2769,7 +2882,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 22.0,
     "dave_score": 35.0,
-    "yachtski": 34.5
+    "yachtski": 34.5,
+    "yt_id": null
   },
   {
     "id": 232,
@@ -2781,7 +2895,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 12.0,
     "dave_score": 35.0,
-    "yachtski": 33.75
+    "yachtski": 33.75,
+    "yt_id": null
   },
   {
     "id": 233,
@@ -2793,7 +2908,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 5.0,
     "dave_score": 12.0,
-    "yachtski": 12.0
+    "yachtski": 12.0,
+    "yt_id": null
   },
   {
     "id": 234,
@@ -2805,7 +2921,8 @@ const data = [
     "hunter_score": 1.0,
     "steve_score": 0.0,
     "dave_score": 3.0,
-    "yachtski": 2.25
+    "yachtski": 2.25,
+    "yt_id": null
   },
   {
     "id": 235,
@@ -2817,7 +2934,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 98.0,
     "dave_score": 97.0,
-    "yachtski": 98.5
+    "yachtski": 98.5,
+    "yt_id": null
   },
   {
     "id": 236,
@@ -2829,7 +2947,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 33.3,
     "dave_score": 55.0,
-    "yachtski": 51.62175
+    "yachtski": 51.62175,
+    "yt_id": null
   },
   {
     "id": 237,
@@ -2841,7 +2960,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 47.0,
     "dave_score": 48.0,
-    "yachtski": 51.5
+    "yachtski": 51.5,
+    "yt_id": null
   },
   {
     "id": 238,
@@ -2853,7 +2973,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 64.0,
     "dave_score": 75.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 239,
@@ -2865,7 +2986,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 4.0,
     "dave_score": 5.0,
-    "yachtski": 8.25
+    "yachtski": 8.25,
+    "yt_id": null
   },
   {
     "id": 240,
@@ -2877,7 +2999,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 56.0,
     "dave_score": 65.0,
-    "yachtski": 60.0
+    "yachtski": 60.0,
+    "yt_id": null
   },
   {
     "id": 241,
@@ -2889,7 +3012,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 16.0,
     "dave_score": 12.0,
-    "yachtski": 18.75
+    "yachtski": 18.75,
+    "yt_id": null
   },
   {
     "id": 242,
@@ -2901,7 +3025,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 21.0,
     "dave_score": 25.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 243,
@@ -2913,7 +3038,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 5.0,
     "dave_score": 9.0,
-    "yachtski": 7.75
+    "yachtski": 7.75,
+    "yt_id": null
   },
   {
     "id": 244,
@@ -2925,7 +3051,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 34.0,
     "dave_score": 40.0,
-    "yachtski": 39.25
+    "yachtski": 39.25,
+    "yt_id": null
   },
   {
     "id": 245,
@@ -2937,7 +3064,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 70.0,
     "dave_score": 75.0,
-    "yachtski": 73.5
+    "yachtski": 73.5,
+    "yt_id": null
   },
   {
     "id": 246,
@@ -2949,7 +3077,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 20.0,
     "dave_score": 32.0,
-    "yachtski": 28.0
+    "yachtski": 28.0,
+    "yt_id": null
   },
   {
     "id": 247,
@@ -2961,7 +3090,8 @@ const data = [
     "hunter_score": 2.0,
     "steve_score": 0.9,
     "dave_score": 5.0,
-    "yachtski": 2.475
+    "yachtski": 2.475,
+    "yt_id": null
   },
   {
     "id": 248,
@@ -2973,7 +3103,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 53.0,
     "dave_score": 40.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 249,
@@ -2985,7 +3116,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 88.0,
     "dave_score": 80.0,
-    "yachtski": 85.25
+    "yachtski": 85.25,
+    "yt_id": null
   },
   {
     "id": 250,
@@ -2997,7 +3129,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 43.0,
     "dave_score": 40.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 251,
@@ -3009,7 +3142,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 39.0,
     "dave_score": 50.0,
-    "yachtski": 55.75
+    "yachtski": 55.75,
+    "yt_id": null
   },
   {
     "id": 252,
@@ -3021,7 +3155,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 83.0,
     "dave_score": 80.0,
-    "yachtski": 82.25
+    "yachtski": 82.25,
+    "yt_id": null
   },
   {
     "id": 253,
@@ -3033,7 +3168,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 40.0,
     "dave_score": 46.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 254,
@@ -3045,7 +3181,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 56.0,
     "dave_score": 45.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 255,
@@ -3057,7 +3194,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 85.0,
     "dave_score": 84.0,
-    "yachtski": 83.0
+    "yachtski": 83.0,
+    "yt_id": null
   },
   {
     "id": 256,
@@ -3069,7 +3207,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 35.0,
     "dave_score": 28.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 257,
@@ -3081,7 +3220,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 19.0,
     "dave_score": 30.0,
-    "yachtski": 30.25
+    "yachtski": 30.25,
+    "yt_id": null
   },
   {
     "id": 258,
@@ -3093,7 +3233,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 67.0,
     "dave_score": 65.0,
-    "yachtski": 63.5
+    "yachtski": 63.5,
+    "yt_id": null
   },
   {
     "id": 259,
@@ -3105,7 +3246,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 62.0,
     "dave_score": 54.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 260,
@@ -3117,7 +3259,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 42.0,
     "dave_score": 40.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 261,
@@ -3129,7 +3272,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 56.0,
     "dave_score": 45.0,
-    "yachtski": 48.5
+    "yachtski": 48.5,
+    "yt_id": null
   },
   {
     "id": 262,
@@ -3141,7 +3285,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 22.0,
     "dave_score": 10.0,
-    "yachtski": 10.75
+    "yachtski": 10.75,
+    "yt_id": null
   },
   {
     "id": 263,
@@ -3153,7 +3298,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 38.0,
     "dave_score": 38.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 264,
@@ -3165,7 +3311,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 34.0,
     "dave_score": 35.0,
-    "yachtski": 38.75
+    "yachtski": 38.75,
+    "yt_id": null
   },
   {
     "id": 265,
@@ -3177,7 +3324,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 65.0,
     "dave_score": 65.0,
-    "yachtski": 66.0
+    "yachtski": 66.0,
+    "yt_id": null
   },
   {
     "id": 266,
@@ -3189,7 +3337,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 67.0,
     "dave_score": 55.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 267,
@@ -3201,7 +3350,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 72.0,
     "dave_score": 69.0,
-    "yachtski": 74.25
+    "yachtski": 74.25,
+    "yt_id": null
   },
   {
     "id": 268,
@@ -3213,7 +3363,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 69.0,
     "dave_score": 60.0,
-    "yachtski": 69.0
+    "yachtski": 69.0,
+    "yt_id": null
   },
   {
     "id": 269,
@@ -3225,7 +3376,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 61.0,
     "dave_score": 65.0,
-    "yachtski": 70.75
+    "yachtski": 70.75,
+    "yt_id": null
   },
   {
     "id": 270,
@@ -3237,7 +3389,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 25.0,
     "dave_score": 29.0,
-    "yachtski": 28.25
+    "yachtski": 28.25,
+    "yt_id": null
   },
   {
     "id": 271,
@@ -3249,7 +3402,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 22.0,
     "dave_score": 20.0,
-    "yachtski": 28.25
+    "yachtski": 28.25,
+    "yt_id": null
   },
   {
     "id": 272,
@@ -3261,7 +3415,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 63.0,
     "dave_score": 65.0,
-    "yachtski": 73.5
+    "yachtski": 73.5,
+    "yt_id": null
   },
   {
     "id": 273,
@@ -3273,7 +3428,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 92.0,
     "dave_score": 74.0,
-    "yachtski": 77.0
+    "yachtski": 77.0,
+    "yt_id": null
   },
   {
     "id": 274,
@@ -3285,7 +3441,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 47.0,
     "dave_score": 40.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": null
   },
   {
     "id": 275,
@@ -3297,7 +3454,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 77.0,
     "dave_score": 70.0,
-    "yachtski": 71.25
+    "yachtski": 71.25,
+    "yt_id": null
   },
   {
     "id": 276,
@@ -3309,7 +3467,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 39.0,
     "dave_score": 42.0,
-    "yachtski": 38.75
+    "yachtski": 38.75,
+    "yt_id": null
   },
   {
     "id": 277,
@@ -3321,7 +3480,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 34.0,
     "dave_score": 25.0,
-    "yachtski": 27.5
+    "yachtski": 27.5,
+    "yt_id": null
   },
   {
     "id": 278,
@@ -3333,7 +3493,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 20.0,
     "dave_score": 40.0,
-    "yachtski": 35.5
+    "yachtski": 35.5,
+    "yt_id": null
   },
   {
     "id": 279,
@@ -3345,7 +3506,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 82.0,
     "dave_score": 78.0,
-    "yachtski": 71.75
+    "yachtski": 71.75,
+    "yt_id": null
   },
   {
     "id": 280,
@@ -3357,7 +3519,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 68.0,
     "dave_score": 75.0,
-    "yachtski": 71.25
+    "yachtski": 71.25,
+    "yt_id": null
   },
   {
     "id": 281,
@@ -3369,7 +3532,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 62.0,
     "dave_score": 73.0,
-    "yachtski": 64.0
+    "yachtski": 64.0,
+    "yt_id": null
   },
   {
     "id": 282,
@@ -3381,7 +3545,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 56.0,
     "dave_score": 57.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 283,
@@ -3393,7 +3558,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 26.5,
     "dave_score": 35.0,
-    "yachtski": 37.625
+    "yachtski": 37.625,
+    "yt_id": null
   },
   {
     "id": 284,
@@ -3405,7 +3571,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 85.0,
     "dave_score": 58.0,
-    "yachtski": 68.25
+    "yachtski": 68.25,
+    "yt_id": null
   },
   {
     "id": 285,
@@ -3417,7 +3584,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 23.0,
     "dave_score": 30.0,
-    "yachtski": 33.5
+    "yachtski": 33.5,
+    "yt_id": null
   },
   {
     "id": 286,
@@ -3429,7 +3597,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 70.0,
     "dave_score": 48.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 287,
@@ -3441,7 +3610,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 42.0,
     "dave_score": 45.0,
-    "yachtski": 43.75
+    "yachtski": 43.75,
+    "yt_id": null
   },
   {
     "id": 288,
@@ -3453,7 +3623,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 35.0,
     "dave_score": 30.0,
-    "yachtski": 31.75
+    "yachtski": 31.75,
+    "yt_id": null
   },
   {
     "id": 289,
@@ -3465,7 +3636,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 36.0,
     "dave_score": 38.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 290,
@@ -3477,7 +3649,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 21.0,
     "dave_score": 35.0,
-    "yachtski": 29.5
+    "yachtski": 29.5,
+    "yt_id": null
   },
   {
     "id": 291,
@@ -3489,7 +3662,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 59.0,
     "dave_score": 45.0,
-    "yachtski": 50.75
+    "yachtski": 50.75,
+    "yt_id": null
   },
   {
     "id": 292,
@@ -3501,7 +3675,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 8.0,
     "dave_score": 15.0,
-    "yachtski": 12.0
+    "yachtski": 12.0,
+    "yt_id": null
   },
   {
     "id": 293,
@@ -3513,7 +3688,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 58.0,
     "dave_score": 60.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 294,
@@ -3525,7 +3701,8 @@ const data = [
     "hunter_score": 36.0,
     "steve_score": 32.0,
     "dave_score": 35.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 295,
@@ -3537,7 +3714,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 73.0,
     "dave_score": 60.0,
-    "yachtski": 69.0
+    "yachtski": 69.0,
+    "yt_id": null
   },
   {
     "id": 296,
@@ -3549,7 +3727,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 31.0,
     "dave_score": 25.0,
-    "yachtski": 30.0
+    "yachtski": 30.0,
+    "yt_id": null
   },
   {
     "id": 297,
@@ -3561,7 +3740,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 40.0,
     "dave_score": 40.0,
-    "yachtski": 47.5
+    "yachtski": 47.5,
+    "yt_id": null
   },
   {
     "id": 298,
@@ -3573,7 +3753,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 94.0,
     "dave_score": 94.0,
-    "yachtski": 93.5
+    "yachtski": 93.5,
+    "yt_id": null
   },
   {
     "id": 299,
@@ -3585,7 +3766,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 36.0,
     "dave_score": 35.0,
-    "yachtski": 42.75
+    "yachtski": 42.75,
+    "yt_id": null
   },
   {
     "id": 300,
@@ -3597,7 +3779,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 53.0,
     "dave_score": 45.0,
-    "yachtski": 56.5
+    "yachtski": 56.5,
+    "yt_id": null
   },
   {
     "id": 301,
@@ -3609,7 +3792,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 65.0,
     "dave_score": 42.0,
-    "yachtski": 52.5
+    "yachtski": 52.5,
+    "yt_id": null
   },
   {
     "id": 302,
@@ -3621,7 +3805,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 63.0,
     "dave_score": 51.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 303,
@@ -3633,7 +3818,8 @@ const data = [
     "hunter_score": 2.0,
     "steve_score": 0.0,
     "dave_score": 10.0,
-    "yachtski": 5.5
+    "yachtski": 5.5,
+    "yt_id": null
   },
   {
     "id": 304,
@@ -3645,7 +3831,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 3.0,
     "dave_score": 4.0,
-    "yachtski": 5.75
+    "yachtski": 5.75,
+    "yt_id": null
   },
   {
     "id": 305,
@@ -3657,7 +3844,8 @@ const data = [
     "hunter_score": 26.0,
     "steve_score": 10.0,
     "dave_score": 16.0,
-    "yachtski": 20.0
+    "yachtski": 20.0,
+    "yt_id": null
   },
   {
     "id": 306,
@@ -3669,7 +3857,8 @@ const data = [
     "hunter_score": 11.0,
     "steve_score": 0.0,
     "dave_score": 0.0,
-    "yachtski": 4.5
+    "yachtski": 4.5,
+    "yt_id": null
   },
   {
     "id": 307,
@@ -3681,7 +3870,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 65.0,
     "dave_score": 55.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 308,
@@ -3693,7 +3883,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 33.3,
     "dave_score": 42.0,
-    "yachtski": 36.825
+    "yachtski": 36.825,
+    "yt_id": null
   },
   {
     "id": 309,
@@ -3705,7 +3896,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 80.0,
     "dave_score": 85.0,
-    "yachtski": 84.25
+    "yachtski": 84.25,
+    "yt_id": null
   },
   {
     "id": 310,
@@ -3717,7 +3909,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 74.0,
     "dave_score": 78.0,
-    "yachtski": 78.5
+    "yachtski": 78.5,
+    "yt_id": null
   },
   {
     "id": 311,
@@ -3729,7 +3922,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 84.0,
     "dave_score": 72.0,
-    "yachtski": 76.75
+    "yachtski": 76.75,
+    "yt_id": null
   },
   {
     "id": 312,
@@ -3741,7 +3935,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 36.0,
     "dave_score": 42.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 313,
@@ -3753,7 +3948,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 41.0,
     "dave_score": 55.0,
-    "yachtski": 50.25
+    "yachtski": 50.25,
+    "yt_id": null
   },
   {
     "id": 314,
@@ -3765,7 +3961,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 40.0,
     "dave_score": 45.0,
-    "yachtski": 42.0
+    "yachtski": 42.0,
+    "yt_id": null
   },
   {
     "id": 315,
@@ -3777,7 +3974,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 38.0,
     "dave_score": 27.0,
-    "yachtski": 31.75
+    "yachtski": 31.75,
+    "yt_id": null
   },
   {
     "id": 316,
@@ -3789,7 +3987,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 49.0,
     "dave_score": 43.0,
-    "yachtski": 47.5
+    "yachtski": 47.5,
+    "yt_id": null
   },
   {
     "id": 317,
@@ -3801,7 +4000,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 22.0,
     "dave_score": 22.0,
-    "yachtski": 22.5
+    "yachtski": 22.5,
+    "yt_id": null
   },
   {
     "id": 318,
@@ -3813,7 +4013,8 @@ const data = [
     "hunter_score": 4.0,
     "steve_score": 9.0,
     "dave_score": 5.0,
-    "yachtski": 5.25
+    "yachtski": 5.25,
+    "yt_id": null
   },
   {
     "id": 319,
@@ -3825,7 +4026,8 @@ const data = [
     "hunter_score": 25.0,
     "steve_score": 30.0,
     "dave_score": 22.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 320,
@@ -3837,7 +4039,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 13.0,
     "dave_score": 27.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 321,
@@ -3849,7 +4052,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 20.0,
     "dave_score": 27.0,
-    "yachtski": 24.25
+    "yachtski": 24.25,
+    "yt_id": null
   },
   {
     "id": 322,
@@ -3861,7 +4065,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 56.0,
     "dave_score": 52.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 323,
@@ -3873,7 +4078,8 @@ const data = [
     "hunter_score": 16.0,
     "steve_score": 12.0,
     "dave_score": 22.0,
-    "yachtski": 20.5
+    "yachtski": 20.5,
+    "yt_id": null
   },
   {
     "id": 324,
@@ -3885,7 +4091,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 23.0,
     "dave_score": 20.0,
-    "yachtski": 26.75
+    "yachtski": 26.75,
+    "yt_id": null
   },
   {
     "id": 325,
@@ -3897,7 +4104,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 78.0,
     "dave_score": 82.0,
-    "yachtski": 81.0
+    "yachtski": 81.0,
+    "yt_id": null
   },
   {
     "id": 326,
@@ -3909,7 +4117,8 @@ const data = [
     "hunter_score": 6.66,
     "steve_score": 0.0,
     "dave_score": 7.0,
-    "yachtski": 7.165
+    "yachtski": 7.165,
+    "yt_id": null
   },
   {
     "id": 327,
@@ -3921,7 +4130,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 12.0,
     "dave_score": 25.0,
-    "yachtski": 21.75
+    "yachtski": 21.75,
+    "yt_id": null
   },
   {
     "id": 328,
@@ -3933,7 +4143,8 @@ const data = [
     "hunter_score": 3.0,
     "steve_score": 2.0,
     "dave_score": 1.0,
-    "yachtski": 2.75
+    "yachtski": 2.75,
+    "yt_id": null
   },
   {
     "id": 329,
@@ -3945,7 +4156,8 @@ const data = [
     "hunter_score": 100.0,
     "steve_score": 100.0,
     "dave_score": 99.5,
-    "yachtski": 99.625
+    "yachtski": 99.625,
+    "yt_id": null
   },
   {
     "id": 330,
@@ -3957,7 +4169,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 75.0,
     "dave_score": 75.0,
-    "yachtski": 76.75
+    "yachtski": 76.75,
+    "yt_id": null
   },
   {
     "id": 331,
@@ -3969,7 +4182,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 58.0,
     "dave_score": 62.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 332,
@@ -3981,7 +4195,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 95.0,
     "dave_score": 88.0,
-    "yachtski": 91.25
+    "yachtski": 91.25,
+    "yt_id": null
   },
   {
     "id": 333,
@@ -3993,7 +4208,8 @@ const data = [
     "hunter_score": 92.0,
     "steve_score": 88.0,
     "dave_score": 86.0,
-    "yachtski": 87.75
+    "yachtski": 87.75,
+    "yt_id": null
   },
   {
     "id": 334,
@@ -4005,7 +4221,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 55.0,
     "dave_score": 53.0,
-    "yachtski": 55.5
+    "yachtski": 55.5,
+    "yt_id": null
   },
   {
     "id": 335,
@@ -4017,7 +4234,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 32.0,
     "dave_score": 32.5,
-    "yachtski": 36.875
+    "yachtski": 36.875,
+    "yt_id": null
   },
   {
     "id": 336,
@@ -4029,7 +4247,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 78.0,
     "dave_score": 72.0,
-    "yachtski": 77.5
+    "yachtski": 77.5,
+    "yt_id": null
   },
   {
     "id": 337,
@@ -4041,7 +4260,8 @@ const data = [
     "hunter_score": 4.0,
     "steve_score": 3.0,
     "dave_score": 6.0,
-    "yachtski": 4.5
+    "yachtski": 4.5,
+    "yt_id": null
   },
   {
     "id": 338,
@@ -4053,7 +4273,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 63.0,
     "dave_score": 58.0,
-    "yachtski": 60.0
+    "yachtski": 60.0,
+    "yt_id": null
   },
   {
     "id": 339,
@@ -4065,7 +4286,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 41.0,
     "dave_score": 23.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 340,
@@ -4077,7 +4299,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 36.0,
     "dave_score": 42.0,
-    "yachtski": 40.5
+    "yachtski": 40.5,
+    "yt_id": null
   },
   {
     "id": 341,
@@ -4089,7 +4312,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 39.0,
     "dave_score": 18.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 342,
@@ -4101,7 +4325,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 38.0,
     "dave_score": 10.0,
-    "yachtski": 34.5
+    "yachtski": 34.5,
+    "yt_id": null
   },
   {
     "id": 343,
@@ -4113,7 +4338,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 60.0,
     "dave_score": 55.0,
-    "yachtski": 56.5
+    "yachtski": 56.5,
+    "yt_id": null
   },
   {
     "id": 344,
@@ -4125,7 +4351,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 20.0,
     "dave_score": 15.0,
-    "yachtski": 19.25
+    "yachtski": 19.25,
+    "yt_id": null
   },
   {
     "id": 345,
@@ -4137,7 +4364,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 80.0,
     "dave_score": 78.0,
-    "yachtski": 81.25
+    "yachtski": 81.25,
+    "yt_id": null
   },
   {
     "id": 346,
@@ -4149,7 +4377,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 85.0,
     "dave_score": 88.0,
-    "yachtski": 87.5
+    "yachtski": 87.5,
+    "yt_id": null
   },
   {
     "id": 347,
@@ -4161,7 +4390,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 74.0,
     "dave_score": 68.0,
-    "yachtski": 71.25
+    "yachtski": 71.25,
+    "yt_id": null
   },
   {
     "id": 348,
@@ -4173,7 +4403,8 @@ const data = [
     "hunter_score": 14.0,
     "steve_score": 15.0,
     "dave_score": 21.0,
-    "yachtski": 15.5
+    "yachtski": 15.5,
+    "yt_id": null
   },
   {
     "id": 349,
@@ -4185,7 +4416,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 37.0,
     "dave_score": 42.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 350,
@@ -4197,7 +4429,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 39.0,
     "dave_score": 45.0,
-    "yachtski": 46.5
+    "yachtski": 46.5,
+    "yt_id": null
   },
   {
     "id": 351,
@@ -4209,7 +4442,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 12.0,
     "dave_score": 28.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 352,
@@ -4221,7 +4455,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 40.0,
     "dave_score": 48.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": null
   },
   {
     "id": 353,
@@ -4233,7 +4468,8 @@ const data = [
     "hunter_score": 15.0,
     "steve_score": 10.0,
     "dave_score": 12.0,
-    "yachtski": 13.5
+    "yachtski": 13.5,
+    "yt_id": null
   },
   {
     "id": 354,
@@ -4245,7 +4481,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 52.0,
     "dave_score": 42.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 355,
@@ -4257,7 +4494,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 49.0,
     "dave_score": 42.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 356,
@@ -4269,7 +4507,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 68.0,
     "dave_score": 58.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 357,
@@ -4281,7 +4520,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 72.0,
     "dave_score": 72.0,
-    "yachtski": 74.25
+    "yachtski": 74.25,
+    "yt_id": null
   },
   {
     "id": 358,
@@ -4293,7 +4533,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 76.0,
     "dave_score": 61.0,
-    "yachtski": 65.0
+    "yachtski": 65.0,
+    "yt_id": null
   },
   {
     "id": 359,
@@ -4305,7 +4546,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 59.0,
     "dave_score": 61.0,
-    "yachtski": 59.5
+    "yachtski": 59.5,
+    "yt_id": null
   },
   {
     "id": 360,
@@ -4317,7 +4559,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 23.0,
     "dave_score": 48.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 361,
@@ -4329,7 +4572,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 44.0,
     "dave_score": 45.0,
-    "yachtski": 39.25
+    "yachtski": 39.25,
+    "yt_id": null
   },
   {
     "id": 362,
@@ -4341,7 +4585,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 13.0,
     "dave_score": 15.0,
-    "yachtski": 17.25
+    "yachtski": 17.25,
+    "yt_id": null
   },
   {
     "id": 363,
@@ -4353,7 +4598,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 21.0,
     "dave_score": 27.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 364,
@@ -4365,7 +4611,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 71.0,
     "dave_score": 72.0,
-    "yachtski": 67.25
+    "yachtski": 67.25,
+    "yt_id": null
   },
   {
     "id": 365,
@@ -4377,7 +4624,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 29.0,
     "dave_score": 38.0,
-    "yachtski": 32.75
+    "yachtski": 32.75,
+    "yt_id": null
   },
   {
     "id": 366,
@@ -4389,7 +4637,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 35.0,
     "dave_score": 25.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 367,
@@ -4401,7 +4650,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 25.0,
     "dave_score": 21.0,
-    "yachtski": 26.0
+    "yachtski": 26.0,
+    "yt_id": null
   },
   {
     "id": 368,
@@ -4413,7 +4663,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 43.0,
     "dave_score": 44.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 369,
@@ -4425,7 +4676,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 73.0,
     "dave_score": 57.0,
-    "yachtski": 65.75
+    "yachtski": 65.75,
+    "yt_id": null
   },
   {
     "id": 370,
@@ -4437,7 +4689,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 51.0,
     "dave_score": 48.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 371,
@@ -4449,7 +4702,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 18.0,
     "dave_score": 20.0,
-    "yachtski": 19.75
+    "yachtski": 19.75,
+    "yt_id": null
   },
   {
     "id": 372,
@@ -4461,7 +4715,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 83.0,
     "dave_score": 85.0,
-    "yachtski": 84.75
+    "yachtski": 84.75,
+    "yt_id": null
   },
   {
     "id": 373,
@@ -4473,7 +4728,8 @@ const data = [
     "hunter_score": 66.0,
     "steve_score": 62.0,
     "dave_score": 58.0,
-    "yachtski": 61.5
+    "yachtski": 61.5,
+    "yt_id": null
   },
   {
     "id": 374,
@@ -4485,7 +4741,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 22.0,
     "dave_score": 28.0,
-    "yachtski": 25.0
+    "yachtski": 25.0,
+    "yt_id": null
   },
   {
     "id": 375,
@@ -4497,7 +4754,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 93.0,
     "dave_score": 86.0,
-    "yachtski": 90.0
+    "yachtski": 90.0,
+    "yt_id": null
   },
   {
     "id": 376,
@@ -4509,7 +4767,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 33.0,
     "dave_score": 28.0,
-    "yachtski": 33.0
+    "yachtski": 33.0,
+    "yt_id": null
   },
   {
     "id": 377,
@@ -4521,7 +4780,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 59.0,
     "dave_score": 68.0,
-    "yachtski": 66.75
+    "yachtski": 66.75,
+    "yt_id": null
   },
   {
     "id": 378,
@@ -4533,7 +4793,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 61.0,
     "dave_score": 72.0,
-    "yachtski": 70.0
+    "yachtski": 70.0,
+    "yt_id": null
   },
   {
     "id": 379,
@@ -4545,7 +4806,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 55.0,
     "dave_score": 52.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 380,
@@ -4557,7 +4819,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 3.0,
     "dave_score": 25.0,
-    "yachtski": 21.5
+    "yachtski": 21.5,
+    "yt_id": null
   },
   {
     "id": 381,
@@ -4569,7 +4832,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 22.0,
     "dave_score": 35.0,
-    "yachtski": 40.25
+    "yachtski": 40.25,
+    "yt_id": null
   },
   {
     "id": 382,
@@ -4581,7 +4845,8 @@ const data = [
     "hunter_score": 16.0,
     "steve_score": 13.0,
     "dave_score": 23.0,
-    "yachtski": 15.25
+    "yachtski": 15.25,
+    "yt_id": null
   },
   {
     "id": 383,
@@ -4593,7 +4858,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 37.0,
     "dave_score": 42.0,
-    "yachtski": 38.5
+    "yachtski": 38.5,
+    "yt_id": null
   },
   {
     "id": 384,
@@ -4605,7 +4871,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 51.0,
     "dave_score": 35.0,
-    "yachtski": 39.25
+    "yachtski": 39.25,
+    "yt_id": null
   },
   {
     "id": 385,
@@ -4617,7 +4884,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 41.0,
     "dave_score": 42.0,
-    "yachtski": 45.75
+    "yachtski": 45.75,
+    "yt_id": null
   },
   {
     "id": 386,
@@ -4629,7 +4897,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 15.0,
     "dave_score": 22.0,
-    "yachtski": 21.25
+    "yachtski": 21.25,
+    "yt_id": null
   },
   {
     "id": 387,
@@ -4641,7 +4910,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 68.0,
     "dave_score": 62.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 388,
@@ -4653,7 +4923,8 @@ const data = [
     "hunter_score": 27.0,
     "steve_score": 27.0,
     "dave_score": 20.0,
-    "yachtski": 24.75
+    "yachtski": 24.75,
+    "yt_id": null
   },
   {
     "id": 389,
@@ -4665,7 +4936,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 54.0,
     "dave_score": 55.0,
-    "yachtski": 52.0
+    "yachtski": 52.0,
+    "yt_id": null
   },
   {
     "id": 390,
@@ -4677,7 +4949,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 33.0,
     "dave_score": 42.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 391,
@@ -4689,7 +4962,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 47.0,
     "dave_score": 48.0,
-    "yachtski": 46.0
+    "yachtski": 46.0,
+    "yt_id": null
   },
   {
     "id": 392,
@@ -4701,7 +4975,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 70.0,
     "dave_score": 79.0,
-    "yachtski": 74.75
+    "yachtski": 74.75,
+    "yt_id": null
   },
   {
     "id": 393,
@@ -4713,7 +4988,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 38.0,
     "dave_score": 35.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 394,
@@ -4725,7 +5001,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 91.0,
     "dave_score": 87.0,
-    "yachtski": 90.0
+    "yachtski": 90.0,
+    "yt_id": null
   },
   {
     "id": 395,
@@ -4737,7 +5014,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 40.0,
     "dave_score": 42.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 396,
@@ -4749,7 +5027,8 @@ const data = [
     "hunter_score": 75.0,
     "steve_score": 70.0,
     "dave_score": 78.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 397,
@@ -4761,7 +5040,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 35.0,
     "dave_score": 42.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 398,
@@ -4773,7 +5053,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 77.0,
     "dave_score": 62.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 399,
@@ -4785,7 +5066,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 58.0,
     "dave_score": 65.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 400,
@@ -4797,7 +5079,8 @@ const data = [
     "hunter_score": 95.0,
     "steve_score": 94.0,
     "dave_score": 95.0,
-    "yachtski": 93.75
+    "yachtski": 93.75,
+    "yt_id": null
   },
   {
     "id": 401,
@@ -4809,7 +5092,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 73.0,
     "dave_score": 67.0,
-    "yachtski": 70.0
+    "yachtski": 70.0,
+    "yt_id": null
   },
   {
     "id": 402,
@@ -4821,7 +5105,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 44.0,
     "dave_score": 55.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 403,
@@ -4833,7 +5118,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 76.0,
     "dave_score": 72.0,
-    "yachtski": 74.75
+    "yachtski": 74.75,
+    "yt_id": null
   },
   {
     "id": 404,
@@ -4845,7 +5131,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 32.0,
     "dave_score": 30.0,
-    "yachtski": 31.0
+    "yachtski": 31.0,
+    "yt_id": null
   },
   {
     "id": 405,
@@ -4857,7 +5144,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 63.0,
     "dave_score": 62.0,
-    "yachtski": 62.0
+    "yachtski": 62.0,
+    "yt_id": null
   },
   {
     "id": 406,
@@ -4869,7 +5157,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 39.0,
     "dave_score": 48.0,
-    "yachtski": 42.25
+    "yachtski": 42.25,
+    "yt_id": null
   },
   {
     "id": 407,
@@ -4881,7 +5170,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 23.0,
     "dave_score": 20.0,
-    "yachtski": 18.25
+    "yachtski": 18.25,
+    "yt_id": null
   },
   {
     "id": 408,
@@ -4893,7 +5183,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 64.0,
     "dave_score": 71.0,
-    "yachtski": 66.0
+    "yachtski": 66.0,
+    "yt_id": null
   },
   {
     "id": 409,
@@ -4905,7 +5196,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 89.0,
     "dave_score": 82.0,
-    "yachtski": 86.0
+    "yachtski": 86.0,
+    "yt_id": null
   },
   {
     "id": 410,
@@ -4917,7 +5209,8 @@ const data = [
     "hunter_score": 8.0,
     "steve_score": 8.0,
     "dave_score": 15.0,
-    "yachtski": 10.25
+    "yachtski": 10.25,
+    "yt_id": null
   },
   {
     "id": 411,
@@ -4929,7 +5222,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 53.0,
     "dave_score": 51.0,
-    "yachtski": 54.25
+    "yachtski": 54.25,
+    "yt_id": null
   },
   {
     "id": 412,
@@ -4941,7 +5235,8 @@ const data = [
     "hunter_score": 13.0,
     "steve_score": 16.0,
     "dave_score": 17.0,
-    "yachtski": 18.5
+    "yachtski": 18.5,
+    "yt_id": null
   },
   {
     "id": 413,
@@ -4953,7 +5248,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 45.0,
     "dave_score": 48.0,
-    "yachtski": 47.75
+    "yachtski": 47.75,
+    "yt_id": null
   },
   {
     "id": 414,
@@ -4965,7 +5261,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 44.0,
     "dave_score": 49.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 415,
@@ -4977,7 +5274,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 16.0,
     "dave_score": 15.0,
-    "yachtski": 17.0
+    "yachtski": 17.0,
+    "yt_id": null
   },
   {
     "id": 416,
@@ -4989,7 +5287,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 63.0,
     "dave_score": 65.0,
-    "yachtski": 66.25
+    "yachtski": 66.25,
+    "yt_id": null
   },
   {
     "id": 417,
@@ -5001,7 +5300,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 43.0,
     "dave_score": 48.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 418,
@@ -5013,7 +5313,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 41.0,
     "dave_score": 59.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 419,
@@ -5025,7 +5326,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 46.0,
     "dave_score": 53.0,
-    "yachtski": 49.5
+    "yachtski": 49.5,
+    "yt_id": null
   },
   {
     "id": 420,
@@ -5037,7 +5339,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 41.0,
     "dave_score": 42.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 421,
@@ -5049,7 +5352,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 52.0,
     "dave_score": 55.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 422,
@@ -5061,7 +5365,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 90.0,
     "dave_score": 88.0,
-    "yachtski": 91.5
+    "yachtski": 91.5,
+    "yt_id": null
   },
   {
     "id": 423,
@@ -5073,7 +5378,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 73.0,
     "dave_score": 78.0,
-    "yachtski": 73.75
+    "yachtski": 73.75,
+    "yt_id": null
   },
   {
     "id": 424,
@@ -5085,7 +5391,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 64.0,
     "dave_score": 58.0,
-    "yachtski": 62.75
+    "yachtski": 62.75,
+    "yt_id": null
   },
   {
     "id": 425,
@@ -5097,7 +5404,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 78.0,
     "dave_score": 73.0,
-    "yachtski": 76.75
+    "yachtski": 76.75,
+    "yt_id": null
   },
   {
     "id": 426,
@@ -5109,7 +5417,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 55.0,
     "dave_score": 55.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 427,
@@ -5121,7 +5430,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 56.0,
     "dave_score": 48.0,
-    "yachtski": 52.0
+    "yachtski": 52.0,
+    "yt_id": null
   },
   {
     "id": 428,
@@ -5133,7 +5443,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 93.0,
     "dave_score": 92.0,
-    "yachtski": 92.0
+    "yachtski": 92.0,
+    "yt_id": null
   },
   {
     "id": 429,
@@ -5145,7 +5456,8 @@ const data = [
     "hunter_score": 96.0,
     "steve_score": 94.0,
     "dave_score": 79.0,
-    "yachtski": 89.0
+    "yachtski": 89.0,
+    "yt_id": null
   },
   {
     "id": 430,
@@ -5157,7 +5469,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 36.0,
     "dave_score": 38.0,
-    "yachtski": 37.25
+    "yachtski": 37.25,
+    "yt_id": null
   },
   {
     "id": 431,
@@ -5169,7 +5482,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 47.0,
     "dave_score": 43.0,
-    "yachtski": 46.5
+    "yachtski": 46.5,
+    "yt_id": null
   },
   {
     "id": 432,
@@ -5181,7 +5495,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 43.0,
     "dave_score": 48.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 433,
@@ -5193,7 +5508,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 40.0,
     "dave_score": 42.0,
-    "yachtski": 38.75
+    "yachtski": 38.75,
+    "yt_id": null
   },
   {
     "id": 434,
@@ -5205,7 +5521,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 27.0,
     "dave_score": 15.0,
-    "yachtski": 20.5
+    "yachtski": 20.5,
+    "yt_id": null
   },
   {
     "id": 435,
@@ -5217,7 +5534,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 37.0,
     "dave_score": 40.0,
-    "yachtski": 39.25
+    "yachtski": 39.25,
+    "yt_id": null
   },
   {
     "id": 436,
@@ -5229,7 +5547,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 23.0,
     "dave_score": 28.0,
-    "yachtski": 27.5
+    "yachtski": 27.5,
+    "yt_id": null
   },
   {
     "id": 437,
@@ -5241,7 +5560,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 81.0,
     "dave_score": 76.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 438,
@@ -5253,7 +5573,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 47.0,
     "dave_score": 42.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 439,
@@ -5265,7 +5586,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 51.0,
     "dave_score": 58.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 440,
@@ -5277,7 +5599,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 45.0,
     "dave_score": 59.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 441,
@@ -5289,7 +5612,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 54.0,
     "dave_score": 60.0,
-    "yachtski": 56.5
+    "yachtski": 56.5,
+    "yt_id": null
   },
   {
     "id": 442,
@@ -5301,7 +5625,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 46.0,
     "dave_score": 52.0,
-    "yachtski": 50.25
+    "yachtski": 50.25,
+    "yt_id": null
   },
   {
     "id": 443,
@@ -5313,7 +5638,8 @@ const data = [
     "hunter_score": 85.1,
     "steve_score": 84.0,
     "dave_score": 81.0,
-    "yachtski": 85.0
+    "yachtski": 85.0,
+    "yt_id": null
   },
   {
     "id": 444,
@@ -5325,7 +5651,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 39.5,
     "dave_score": 38.0,
-    "yachtski": 41.375
+    "yachtski": 41.375,
+    "yt_id": null
   },
   {
     "id": 445,
@@ -5337,7 +5664,8 @@ const data = [
     "hunter_score": 26.0,
     "steve_score": 34.0,
     "dave_score": 30.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 446,
@@ -5349,7 +5677,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 46.0,
     "dave_score": 41.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 447,
@@ -5361,7 +5690,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 31.0,
     "dave_score": 37.0,
-    "yachtski": 34.75
+    "yachtski": 34.75,
+    "yt_id": null
   },
   {
     "id": 448,
@@ -5373,7 +5703,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 33.0,
     "dave_score": 35.0,
-    "yachtski": 36.25
+    "yachtski": 36.25,
+    "yt_id": null
   },
   {
     "id": 449,
@@ -5385,7 +5716,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 83.0,
     "dave_score": 83.0,
-    "yachtski": 85.0
+    "yachtski": 85.0,
+    "yt_id": null
   },
   {
     "id": 450,
@@ -5397,7 +5729,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 63.0,
     "dave_score": 76.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 451,
@@ -5409,7 +5742,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 81.0,
     "dave_score": 54.0,
-    "yachtski": 64.5
+    "yachtski": 64.5,
+    "yt_id": null
   },
   {
     "id": 452,
@@ -5421,7 +5755,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 36.0,
     "dave_score": 42.0,
-    "yachtski": 40.25
+    "yachtski": 40.25,
+    "yt_id": null
   },
   {
     "id": 453,
@@ -5433,7 +5768,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 41.0,
     "dave_score": 32.0,
-    "yachtski": 42.25
+    "yachtski": 42.25,
+    "yt_id": null
   },
   {
     "id": 454,
@@ -5445,7 +5781,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 52.0,
     "dave_score": 38.0,
-    "yachtski": 48.5
+    "yachtski": 48.5,
+    "yt_id": null
   },
   {
     "id": 455,
@@ -5457,7 +5794,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 16.5,
     "dave_score": 6.0,
-    "yachtski": 14.875
+    "yachtski": 14.875,
+    "yt_id": null
   },
   {
     "id": 456,
@@ -5469,7 +5807,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 58.0,
     "dave_score": 62.0,
-    "yachtski": 58.0
+    "yachtski": 58.0,
+    "yt_id": null
   },
   {
     "id": 457,
@@ -5481,7 +5820,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 36.0,
     "dave_score": 39.0,
-    "yachtski": 42.5
+    "yachtski": 42.5,
+    "yt_id": null
   },
   {
     "id": 458,
@@ -5493,7 +5833,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 28.0,
     "dave_score": 32.0,
-    "yachtski": 32.25
+    "yachtski": 32.25,
+    "yt_id": null
   },
   {
     "id": 459,
@@ -5505,7 +5846,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 75.0,
     "dave_score": 77.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 460,
@@ -5517,7 +5859,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 34.0,
     "dave_score": 42.0,
-    "yachtski": 40.0
+    "yachtski": 40.0,
+    "yt_id": null
   },
   {
     "id": 461,
@@ -5529,7 +5872,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 66.0,
     "dave_score": 64.0,
-    "yachtski": 69.0
+    "yachtski": 69.0,
+    "yt_id": null
   },
   {
     "id": 462,
@@ -5541,7 +5885,8 @@ const data = [
     "hunter_score": 94.0,
     "steve_score": 85.0,
     "dave_score": 88.0,
-    "yachtski": 89.0
+    "yachtski": 89.0,
+    "yt_id": null
   },
   {
     "id": 463,
@@ -5553,7 +5898,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 46.0,
     "dave_score": 48.0,
-    "yachtski": 48.0
+    "yachtski": 48.0,
+    "yt_id": null
   },
   {
     "id": 464,
@@ -5565,7 +5911,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 91.0,
     "dave_score": 92.0,
-    "yachtski": 90.75
+    "yachtski": 90.75,
+    "yt_id": null
   },
   {
     "id": 465,
@@ -5577,7 +5924,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 54.0,
     "dave_score": 52.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 466,
@@ -5589,7 +5937,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 79.0,
     "dave_score": 82.0,
-    "yachtski": 83.75
+    "yachtski": 83.75,
+    "yt_id": null
   },
   {
     "id": 467,
@@ -5601,7 +5950,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 22.0,
     "dave_score": 22.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 468,
@@ -5613,7 +5963,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 54.0,
     "dave_score": 54.0,
-    "yachtski": 53.75
+    "yachtski": 53.75,
+    "yt_id": null
   },
   {
     "id": 469,
@@ -5625,7 +5976,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 53.0,
     "dave_score": 49.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 470,
@@ -5637,7 +5989,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 62.0,
     "dave_score": 53.0,
-    "yachtski": 58.75
+    "yachtski": 58.75,
+    "yt_id": null
   },
   {
     "id": 471,
@@ -5649,7 +6002,8 @@ const data = [
     "hunter_score": 24.0,
     "steve_score": 23.0,
     "dave_score": 18.0,
-    "yachtski": 21.25
+    "yachtski": 21.25,
+    "yt_id": null
   },
   {
     "id": 472,
@@ -5661,7 +6015,8 @@ const data = [
     "hunter_score": 98.0,
     "steve_score": 93.0,
     "dave_score": 96.0,
-    "yachtski": 94.25
+    "yachtski": 94.25,
+    "yt_id": null
   },
   {
     "id": 473,
@@ -5673,7 +6028,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 40.0,
     "dave_score": 22.0,
-    "yachtski": 35.25
+    "yachtski": 35.25,
+    "yt_id": null
   },
   {
     "id": 474,
@@ -5685,7 +6041,8 @@ const data = [
     "hunter_score": 15.0,
     "steve_score": 29.0,
     "dave_score": 14.0,
-    "yachtski": 16.75
+    "yachtski": 16.75,
+    "yt_id": null
   },
   {
     "id": 475,
@@ -5697,7 +6054,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 34.0,
     "dave_score": 31.0,
-    "yachtski": 34.0
+    "yachtski": 34.0,
+    "yt_id": null
   },
   {
     "id": 476,
@@ -5709,7 +6067,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 36.0,
     "dave_score": 42.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 477,
@@ -5721,7 +6080,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 61.0,
     "dave_score": 72.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 478,
@@ -5733,7 +6093,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 73.0,
     "dave_score": 75.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 479,
@@ -5745,7 +6106,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 40.0,
     "dave_score": 20.0,
-    "yachtski": 33.5
+    "yachtski": 33.5,
+    "yt_id": null
   },
   {
     "id": 480,
@@ -5757,7 +6119,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 21.0,
     "dave_score": 22.0,
-    "yachtski": 24.0
+    "yachtski": 24.0,
+    "yt_id": null
   },
   {
     "id": 481,
@@ -5769,7 +6132,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 86.0,
     "dave_score": 78.0,
-    "yachtski": 83.75
+    "yachtski": 83.75,
+    "yt_id": null
   },
   {
     "id": 482,
@@ -5781,7 +6145,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 30.0,
     "dave_score": 38.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 483,
@@ -5793,7 +6158,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 37.0,
     "dave_score": 38.0,
-    "yachtski": 38.5
+    "yachtski": 38.5,
+    "yt_id": null
   },
   {
     "id": 484,
@@ -5805,7 +6171,8 @@ const data = [
     "hunter_score": 36.0,
     "steve_score": 24.0,
     "dave_score": 42.0,
-    "yachtski": 35.25
+    "yachtski": 35.25,
+    "yt_id": null
   },
   {
     "id": 485,
@@ -5817,7 +6184,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 24.0,
     "dave_score": 28.0,
-    "yachtski": 29.5
+    "yachtski": 29.5,
+    "yt_id": null
   },
   {
     "id": 486,
@@ -5829,7 +6197,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 78.0,
     "dave_score": 83.0,
-    "yachtski": 79.0
+    "yachtski": 79.0,
+    "yt_id": null
   },
   {
     "id": 487,
@@ -5841,7 +6210,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 92.0,
     "dave_score": 91.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 488,
@@ -5853,7 +6223,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 67.0,
     "dave_score": 77.0,
-    "yachtski": 78.5
+    "yachtski": 78.5,
+    "yt_id": null
   },
   {
     "id": 489,
@@ -5865,7 +6236,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 34.0,
     "dave_score": 32.0,
-    "yachtski": 36.0
+    "yachtski": 36.0,
+    "yt_id": null
   },
   {
     "id": 490,
@@ -5877,7 +6249,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 44.0,
     "dave_score": 37.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 491,
@@ -5889,7 +6262,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 59.0,
     "dave_score": 58.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": null
   },
   {
     "id": 492,
@@ -5901,7 +6275,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 60.0,
     "dave_score": 48.0,
-    "yachtski": 54.25
+    "yachtski": 54.25,
+    "yt_id": null
   },
   {
     "id": 493,
@@ -5913,7 +6288,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 55.0,
     "dave_score": 30.0,
-    "yachtski": 42.75
+    "yachtski": 42.75,
+    "yt_id": null
   },
   {
     "id": 494,
@@ -5925,7 +6301,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 34.0,
     "dave_score": 25.0,
-    "yachtski": 31.75
+    "yachtski": 31.75,
+    "yt_id": null
   },
   {
     "id": 495,
@@ -5937,7 +6314,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 22.0,
     "dave_score": 25.0,
-    "yachtski": 21.75
+    "yachtski": 21.75,
+    "yt_id": null
   },
   {
     "id": 496,
@@ -5949,7 +6327,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 20.0,
     "dave_score": 15.0,
-    "yachtski": 17.5
+    "yachtski": 17.5,
+    "yt_id": null
   },
   {
     "id": 497,
@@ -5961,7 +6340,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 56.0,
     "dave_score": 58.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 498,
@@ -5973,7 +6353,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 93.0,
     "dave_score": 84.0,
-    "yachtski": 89.25
+    "yachtski": 89.25,
+    "yt_id": null
   },
   {
     "id": 499,
@@ -5985,7 +6366,8 @@ const data = [
     "hunter_score": 96.0,
     "steve_score": 95.0,
     "dave_score": 72.0,
-    "yachtski": 85.5
+    "yachtski": 85.5,
+    "yt_id": null
   },
   {
     "id": 500,
@@ -5997,7 +6379,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 53.0,
     "dave_score": 54.0,
-    "yachtski": 51.25
+    "yachtski": 51.25,
+    "yt_id": null
   },
   {
     "id": 501,
@@ -6009,7 +6392,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 48.0,
     "dave_score": 40.0,
-    "yachtski": 46.0
+    "yachtski": 46.0,
+    "yt_id": null
   },
   {
     "id": 502,
@@ -6021,7 +6405,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 73.0,
     "dave_score": 72.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 503,
@@ -6033,7 +6418,8 @@ const data = [
     "hunter_score": 99.0,
     "steve_score": 97.0,
     "dave_score": 94.0,
-    "yachtski": 95.5
+    "yachtski": 95.5,
+    "yt_id": null
   },
   {
     "id": 504,
@@ -6045,7 +6431,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 53.0,
     "dave_score": 56.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 505,
@@ -6057,7 +6444,8 @@ const data = [
     "hunter_score": 26.0,
     "steve_score": 29.0,
     "dave_score": 25.0,
-    "yachtski": 28.25
+    "yachtski": 28.25,
+    "yt_id": null
   },
   {
     "id": 506,
@@ -6069,7 +6457,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 31.0,
     "dave_score": 35.0,
-    "yachtski": 37.0
+    "yachtski": 37.0,
+    "yt_id": null
   },
   {
     "id": 507,
@@ -6081,7 +6470,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 37.0,
     "dave_score": 42.0,
-    "yachtski": 38.25
+    "yachtski": 38.25,
+    "yt_id": null
   },
   {
     "id": 508,
@@ -6093,7 +6483,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 54.0,
     "dave_score": 38.0,
-    "yachtski": 46.5
+    "yachtski": 46.5,
+    "yt_id": null
   },
   {
     "id": 509,
@@ -6105,7 +6496,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 40.0,
     "dave_score": 38.0,
-    "yachtski": 43.25
+    "yachtski": 43.25,
+    "yt_id": null
   },
   {
     "id": 510,
@@ -6117,7 +6509,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 23.0,
     "dave_score": 30.0,
-    "yachtski": 27.75
+    "yachtski": 27.75,
+    "yt_id": null
   },
   {
     "id": 511,
@@ -6129,7 +6522,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 39.0,
     "dave_score": 45.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 512,
@@ -6141,7 +6535,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 31.0,
     "dave_score": 28.0,
-    "yachtski": 34.25
+    "yachtski": 34.25,
+    "yt_id": null
   },
   {
     "id": 513,
@@ -6153,7 +6548,8 @@ const data = [
     "hunter_score": 36.0,
     "steve_score": 36.0,
     "dave_score": 43.0,
-    "yachtski": 39.75
+    "yachtski": 39.75,
+    "yt_id": null
   },
   {
     "id": 514,
@@ -6165,7 +6561,8 @@ const data = [
     "hunter_score": 25.0,
     "steve_score": 14.0,
     "dave_score": 12.0,
-    "yachtski": 17.0
+    "yachtski": 17.0,
+    "yt_id": null
   },
   {
     "id": 515,
@@ -6177,7 +6574,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 17.0,
     "dave_score": 29.0,
-    "yachtski": 23.0
+    "yachtski": 23.0,
+    "yt_id": null
   },
   {
     "id": 516,
@@ -6189,7 +6587,8 @@ const data = [
     "hunter_score": 1.0,
     "steve_score": 3.0,
     "dave_score": 5.0,
-    "yachtski": 2.75
+    "yachtski": 2.75,
+    "yt_id": null
   },
   {
     "id": 517,
@@ -6201,7 +6600,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 44.0,
     "dave_score": 38.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 518,
@@ -6213,7 +6613,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 58.0,
     "dave_score": 65.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 519,
@@ -6225,7 +6626,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 41.0,
     "dave_score": 42.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 520,
@@ -6237,7 +6639,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 51.0,
     "dave_score": 32.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 521,
@@ -6249,7 +6652,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 85.0,
     "dave_score": 82.0,
-    "yachtski": 83.75
+    "yachtski": 83.75,
+    "yt_id": null
   },
   {
     "id": 522,
@@ -6261,7 +6665,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 42.0,
     "dave_score": 42.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 523,
@@ -6273,7 +6678,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 33.0,
     "dave_score": 41.0,
-    "yachtski": 37.25
+    "yachtski": 37.25,
+    "yt_id": null
   },
   {
     "id": 524,
@@ -6285,7 +6691,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 61.0,
     "dave_score": 58.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 525,
@@ -6297,7 +6704,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 49.0,
     "dave_score": 32.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 526,
@@ -6309,7 +6717,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 56.0,
     "dave_score": 63.0,
-    "yachtski": 62.75
+    "yachtski": 62.75,
+    "yt_id": null
   },
   {
     "id": 527,
@@ -6321,7 +6730,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 52.0,
     "dave_score": 43.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 528,
@@ -6333,7 +6743,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 38.0,
     "dave_score": 47.0,
-    "yachtski": 43.75
+    "yachtski": 43.75,
+    "yt_id": null
   },
   {
     "id": 529,
@@ -6345,7 +6756,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 79.0,
     "dave_score": 81.0,
-    "yachtski": 81.25
+    "yachtski": 81.25,
+    "yt_id": null
   },
   {
     "id": 530,
@@ -6357,7 +6769,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 64.0,
     "dave_score": 52.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": null
   },
   {
     "id": 531,
@@ -6369,7 +6782,8 @@ const data = [
     "hunter_score": 93.0,
     "steve_score": 86.0,
     "dave_score": 83.0,
-    "yachtski": 88.25
+    "yachtski": 88.25,
+    "yt_id": null
   },
   {
     "id": 532,
@@ -6381,7 +6795,8 @@ const data = [
     "hunter_score": 8.0,
     "steve_score": 23.0,
     "dave_score": 12.0,
-    "yachtski": 12.0
+    "yachtski": 12.0,
+    "yt_id": null
   },
   {
     "id": 533,
@@ -6393,7 +6808,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 85.0,
     "dave_score": 81.0,
-    "yachtski": 80.25
+    "yachtski": 80.25,
+    "yt_id": null
   },
   {
     "id": 534,
@@ -6405,7 +6821,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 58.0,
     "dave_score": 48.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 535,
@@ -6417,7 +6834,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 53.0,
     "dave_score": 65.0,
-    "yachtski": 61.75
+    "yachtski": 61.75,
+    "yt_id": null
   },
   {
     "id": 536,
@@ -6429,7 +6847,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 85.0,
     "dave_score": 69.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 537,
@@ -6441,7 +6860,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 70.0,
     "dave_score": 57.0,
-    "yachtski": 67.5
+    "yachtski": 67.5,
+    "yt_id": null
   },
   {
     "id": 538,
@@ -6453,7 +6873,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 62.0,
     "dave_score": 53.0,
-    "yachtski": 57.0
+    "yachtski": 57.0,
+    "yt_id": null
   },
   {
     "id": 539,
@@ -6465,7 +6886,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 42.0,
     "dave_score": 43.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 540,
@@ -6477,7 +6899,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 61.0,
     "dave_score": 66.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 541,
@@ -6489,7 +6912,8 @@ const data = [
     "hunter_score": 10.0,
     "steve_score": 18.0,
     "dave_score": 15.0,
-    "yachtski": 14.0
+    "yachtski": 14.0,
+    "yt_id": null
   },
   {
     "id": 542,
@@ -6501,7 +6925,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 52.0,
     "dave_score": 56.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 543,
@@ -6513,7 +6938,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 59.0,
     "dave_score": 72.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 544,
@@ -6525,7 +6951,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 74.0,
     "dave_score": 75.0,
-    "yachtski": 77.75
+    "yachtski": 77.75,
+    "yt_id": null
   },
   {
     "id": 545,
@@ -6537,7 +6964,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 56.0,
     "dave_score": 58.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 546,
@@ -6549,7 +6977,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 53.0,
     "dave_score": 48.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 547,
@@ -6561,7 +6990,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 32.0,
     "dave_score": 42.0,
-    "yachtski": 38.5
+    "yachtski": 38.5,
+    "yt_id": null
   },
   {
     "id": 548,
@@ -6573,7 +7003,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 29.0,
     "dave_score": 32.0,
-    "yachtski": 29.75
+    "yachtski": 29.75,
+    "yt_id": null
   },
   {
     "id": 549,
@@ -6585,7 +7016,8 @@ const data = [
     "hunter_score": 36.0,
     "steve_score": 23.0,
     "dave_score": 20.0,
-    "yachtski": 24.25
+    "yachtski": 24.25,
+    "yt_id": null
   },
   {
     "id": 550,
@@ -6597,7 +7029,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 63.0,
     "dave_score": 49.0,
-    "yachtski": 53.25
+    "yachtski": 53.25,
+    "yt_id": null
   },
   {
     "id": 551,
@@ -6609,7 +7042,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 93.0,
     "dave_score": 90.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 552,
@@ -6621,7 +7055,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 67.0,
     "dave_score": 63.0,
-    "yachtski": 69.0
+    "yachtski": 69.0,
+    "yt_id": null
   },
   {
     "id": 553,
@@ -6633,7 +7068,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 58.0,
     "dave_score": 55.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 554,
@@ -6645,7 +7081,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 46.0,
     "dave_score": 47.0,
-    "yachtski": 48.25
+    "yachtski": 48.25,
+    "yt_id": null
   },
   {
     "id": 555,
@@ -6657,7 +7094,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 62.0,
     "dave_score": 66.0,
-    "yachtski": 65.75
+    "yachtski": 65.75,
+    "yt_id": null
   },
   {
     "id": 556,
@@ -6669,7 +7107,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 22.0,
     "dave_score": 18.0,
-    "yachtski": 19.5
+    "yachtski": 19.5,
+    "yt_id": null
   },
   {
     "id": 557,
@@ -6681,7 +7120,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 49.0,
     "dave_score": 34.0,
-    "yachtski": 43.25
+    "yachtski": 43.25,
+    "yt_id": null
   },
   {
     "id": 558,
@@ -6693,7 +7133,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 38.0,
     "dave_score": 32.0,
-    "yachtski": 38.25
+    "yachtski": 38.25,
+    "yt_id": null
   },
   {
     "id": 559,
@@ -6705,7 +7146,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 71.0,
     "dave_score": 58.0,
-    "yachtski": 62.0
+    "yachtski": 62.0,
+    "yt_id": null
   },
   {
     "id": 560,
@@ -6717,7 +7159,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 28.0,
     "dave_score": 26.0,
-    "yachtski": 26.75
+    "yachtski": 26.75,
+    "yt_id": null
   },
   {
     "id": 561,
@@ -6729,7 +7172,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 49.0,
     "dave_score": 44.0,
-    "yachtski": 49.0
+    "yachtski": 49.0,
+    "yt_id": null
   },
   {
     "id": 562,
@@ -6741,7 +7185,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 86.0,
     "dave_score": 82.0,
-    "yachtski": 83.5
+    "yachtski": 83.5,
+    "yt_id": null
   },
   {
     "id": 563,
@@ -6753,7 +7198,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 60.0,
     "dave_score": 45.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 564,
@@ -6765,7 +7211,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 58.0,
     "dave_score": 58.0,
-    "yachtski": 55.75
+    "yachtski": 55.75,
+    "yt_id": null
   },
   {
     "id": 565,
@@ -6777,7 +7224,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 45.0,
     "dave_score": 54.0,
-    "yachtski": 53.25
+    "yachtski": 53.25,
+    "yt_id": null
   },
   {
     "id": 566,
@@ -6789,7 +7237,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 27.0,
     "dave_score": 30.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 567,
@@ -6801,7 +7250,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 81.0,
     "dave_score": 75.0,
-    "yachtski": 72.5
+    "yachtski": 72.5,
+    "yt_id": null
   },
   {
     "id": 568,
@@ -6813,7 +7263,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 40.0,
     "dave_score": 58.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 569,
@@ -6825,7 +7276,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 63.0,
     "dave_score": 78.0,
-    "yachtski": 75.75
+    "yachtski": 75.75,
+    "yt_id": null
   },
   {
     "id": 570,
@@ -6837,7 +7289,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 52.0,
     "dave_score": 42.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 571,
@@ -6849,7 +7302,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 51.0,
     "dave_score": 52.0,
-    "yachtski": 52.25
+    "yachtski": 52.25,
+    "yt_id": null
   },
   {
     "id": 572,
@@ -6861,7 +7315,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 48.0,
     "dave_score": 53.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 573,
@@ -6873,7 +7328,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 58.0,
     "dave_score": 62.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 574,
@@ -6885,7 +7341,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 37.0,
     "dave_score": 33.0,
-    "yachtski": 35.0
+    "yachtski": 35.0,
+    "yt_id": null
   },
   {
     "id": 575,
@@ -6897,7 +7354,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 39.0,
     "dave_score": 38.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 576,
@@ -6909,7 +7367,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 44.0,
     "dave_score": 45.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 577,
@@ -6921,7 +7380,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 73.0,
     "dave_score": 67.0,
-    "yachtski": 76.0
+    "yachtski": 76.0,
+    "yt_id": null
   },
   {
     "id": 578,
@@ -6933,7 +7393,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 84.0,
     "dave_score": 77.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 579,
@@ -6945,7 +7406,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 74.0,
     "dave_score": 65.0,
-    "yachtski": 64.75
+    "yachtski": 64.75,
+    "yt_id": null
   },
   {
     "id": 580,
@@ -6957,7 +7419,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 37.0,
     "dave_score": 25.0,
-    "yachtski": 34.25
+    "yachtski": 34.25,
+    "yt_id": null
   },
   {
     "id": 581,
@@ -6969,7 +7432,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 38.0,
     "dave_score": 35.0,
-    "yachtski": 36.25
+    "yachtski": 36.25,
+    "yt_id": null
   },
   {
     "id": 582,
@@ -6981,7 +7445,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 58.0,
     "dave_score": 52.0,
-    "yachtski": 53.75
+    "yachtski": 53.75,
+    "yt_id": null
   },
   {
     "id": 583,
@@ -6993,7 +7458,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 72.0,
     "dave_score": 67.0,
-    "yachtski": 66.5
+    "yachtski": 66.5,
+    "yt_id": null
   },
   {
     "id": 584,
@@ -7005,7 +7471,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 43.0,
     "dave_score": 49.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 585,
@@ -7017,7 +7484,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 61.0,
     "dave_score": 62.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": null
   },
   {
     "id": 586,
@@ -7029,7 +7497,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 41.0,
     "dave_score": 45.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 587,
@@ -7041,7 +7510,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 63.0,
     "dave_score": 59.0,
-    "yachtski": 64.75
+    "yachtski": 64.75,
+    "yt_id": null
   },
   {
     "id": 588,
@@ -7053,7 +7523,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 66.0,
     "dave_score": 71.0,
-    "yachtski": 69.75
+    "yachtski": 69.75,
+    "yt_id": null
   },
   {
     "id": 589,
@@ -7065,7 +7536,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 32.0,
     "dave_score": 38.0,
-    "yachtski": 35.75
+    "yachtski": 35.75,
+    "yt_id": null
   },
   {
     "id": 590,
@@ -7077,7 +7549,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 33.0,
     "dave_score": 32.0,
-    "yachtski": 36.25
+    "yachtski": 36.25,
+    "yt_id": null
   },
   {
     "id": 591,
@@ -7089,7 +7562,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 73.0,
     "dave_score": 75.0,
-    "yachtski": 76.0
+    "yachtski": 76.0,
+    "yt_id": null
   },
   {
     "id": 592,
@@ -7101,7 +7575,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 57.0,
     "dave_score": 39.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 593,
@@ -7113,7 +7588,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 94.0,
     "dave_score": 89.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 594,
@@ -7125,7 +7601,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 40.0,
     "dave_score": 42.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 595,
@@ -7137,7 +7614,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 88.0,
     "dave_score": 90.0,
-    "yachtski": 88.75
+    "yachtski": 88.75,
+    "yt_id": null
   },
   {
     "id": 596,
@@ -7149,7 +7627,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 42.0,
     "dave_score": 42.0,
-    "yachtski": 45.5
+    "yachtski": 45.5,
+    "yt_id": null
   },
   {
     "id": 597,
@@ -7161,7 +7640,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 29.0,
     "dave_score": 32.0,
-    "yachtski": 24.75
+    "yachtski": 24.75,
+    "yt_id": null
   },
   {
     "id": 598,
@@ -7173,7 +7653,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 38.0,
     "dave_score": 42.0,
-    "yachtski": 42.75
+    "yachtski": 42.75,
+    "yt_id": null
   },
   {
     "id": 599,
@@ -7185,7 +7666,8 @@ const data = [
     "hunter_score": 87.0,
     "steve_score": 81.0,
     "dave_score": 79.0,
-    "yachtski": 82.5
+    "yachtski": 82.5,
+    "yt_id": null
   },
   {
     "id": 600,
@@ -7197,7 +7679,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 87.0,
     "dave_score": 90.0,
-    "yachtski": 86.5
+    "yachtski": 86.5,
+    "yt_id": null
   },
   {
     "id": 601,
@@ -7209,7 +7692,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 35.0,
     "dave_score": 28.0,
-    "yachtski": 29.5
+    "yachtski": 29.5,
+    "yt_id": null
   },
   {
     "id": 602,
@@ -7221,7 +7705,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 33.0,
     "dave_score": 41.0,
-    "yachtski": 34.75
+    "yachtski": 34.75,
+    "yt_id": null
   },
   {
     "id": 603,
@@ -7233,7 +7718,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 31.0,
     "dave_score": 38.0,
-    "yachtski": 37.75
+    "yachtski": 37.75,
+    "yt_id": null
   },
   {
     "id": 604,
@@ -7245,7 +7731,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 48.0,
     "dave_score": 50.0,
-    "yachtski": 49.5
+    "yachtski": 49.5,
+    "yt_id": null
   },
   {
     "id": 605,
@@ -7257,7 +7744,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 36.0,
     "dave_score": 28.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 606,
@@ -7269,7 +7757,8 @@ const data = [
     "hunter_score": 9.0,
     "steve_score": 14.0,
     "dave_score": 15.0,
-    "yachtski": 9.75
+    "yachtski": 9.75,
+    "yt_id": null
   },
   {
     "id": 607,
@@ -7281,7 +7770,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 37.0,
     "dave_score": 35.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 608,
@@ -7293,7 +7783,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 43.0,
     "dave_score": 45.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 609,
@@ -7305,7 +7796,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 77.0,
     "dave_score": 80.0,
-    "yachtski": 81.25
+    "yachtski": 81.25,
+    "yt_id": null
   },
   {
     "id": 610,
@@ -7317,7 +7809,8 @@ const data = [
     "hunter_score": 3.0,
     "steve_score": 2.0,
     "dave_score": 4.0,
-    "yachtski": 3.5
+    "yachtski": 3.5,
+    "yt_id": null
   },
   {
     "id": 611,
@@ -7329,7 +7822,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 49.0,
     "dave_score": 55.0,
-    "yachtski": 53.0
+    "yachtski": 53.0,
+    "yt_id": null
   },
   {
     "id": 612,
@@ -7341,7 +7835,8 @@ const data = [
     "hunter_score": 93.0,
     "steve_score": 94.0,
     "dave_score": 90.0,
-    "yachtski": 93.75
+    "yachtski": 93.75,
+    "yt_id": null
   },
   {
     "id": 613,
@@ -7353,7 +7848,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 20.0,
     "dave_score": 28.0,
-    "yachtski": 18.0
+    "yachtski": 18.0,
+    "yt_id": null
   },
   {
     "id": 614,
@@ -7365,7 +7861,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 52.0,
     "dave_score": 51.0,
-    "yachtski": 52.5
+    "yachtski": 52.5,
+    "yt_id": null
   },
   {
     "id": 615,
@@ -7377,7 +7874,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 86.0,
     "dave_score": 85.0,
-    "yachtski": 87.75
+    "yachtski": 87.75,
+    "yt_id": null
   },
   {
     "id": 616,
@@ -7389,7 +7887,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 53.0,
     "dave_score": 45.0,
-    "yachtski": 49.5
+    "yachtski": 49.5,
+    "yt_id": null
   },
   {
     "id": 617,
@@ -7401,7 +7900,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 36.0,
     "dave_score": 32.0,
-    "yachtski": 34.0
+    "yachtski": 34.0,
+    "yt_id": null
   },
   {
     "id": 618,
@@ -7413,7 +7913,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 19.0,
     "dave_score": 31.0,
-    "yachtski": 20.0
+    "yachtski": 20.0,
+    "yt_id": null
   },
   {
     "id": 619,
@@ -7425,7 +7926,8 @@ const data = [
     "hunter_score": 7.0,
     "steve_score": 8.0,
     "dave_score": 15.0,
-    "yachtski": 9.75
+    "yachtski": 9.75,
+    "yt_id": null
   },
   {
     "id": 620,
@@ -7437,7 +7939,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 31.0,
     "dave_score": 25.0,
-    "yachtski": 29.75
+    "yachtski": 29.75,
+    "yt_id": null
   },
   {
     "id": 621,
@@ -7449,7 +7952,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 63.0,
     "dave_score": 65.0,
-    "yachtski": 65.25
+    "yachtski": 65.25,
+    "yt_id": null
   },
   {
     "id": 622,
@@ -7461,7 +7965,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 68.0,
     "dave_score": 59.0,
-    "yachtski": 63.0
+    "yachtski": 63.0,
+    "yt_id": null
   },
   {
     "id": 623,
@@ -7473,7 +7978,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 74.0,
     "dave_score": 68.0,
-    "yachtski": 66.75
+    "yachtski": 66.75,
+    "yt_id": null
   },
   {
     "id": 624,
@@ -7485,7 +7991,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 40.0,
     "dave_score": 41.0,
-    "yachtski": 39.25
+    "yachtski": 39.25,
+    "yt_id": null
   },
   {
     "id": 625,
@@ -7497,7 +8004,8 @@ const data = [
     "hunter_score": 5.0,
     "steve_score": 9.0,
     "dave_score": 5.0,
-    "yachtski": 5.25
+    "yachtski": 5.25,
+    "yt_id": null
   },
   {
     "id": 626,
@@ -7509,7 +8017,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 34.0,
     "dave_score": 25.0,
-    "yachtski": 32.5
+    "yachtski": 32.5,
+    "yt_id": null
   },
   {
     "id": 627,
@@ -7521,7 +8030,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 66.0,
     "dave_score": 62.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 628,
@@ -7533,7 +8043,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 79.0,
     "dave_score": 75.0,
-    "yachtski": 73.25
+    "yachtski": 73.25,
+    "yt_id": null
   },
   {
     "id": 629,
@@ -7545,7 +8056,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 77.0,
     "dave_score": 80.0,
-    "yachtski": 80.25
+    "yachtski": 80.25,
+    "yt_id": null
   },
   {
     "id": 630,
@@ -7557,7 +8069,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 52.0,
     "dave_score": 60.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 631,
@@ -7569,7 +8082,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 38.0,
     "dave_score": 42.0,
-    "yachtski": 40.5
+    "yachtski": 40.5,
+    "yt_id": null
   },
   {
     "id": 632,
@@ -7581,7 +8095,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 47.0,
     "dave_score": 32.0,
-    "yachtski": 41.25
+    "yachtski": 41.25,
+    "yt_id": null
   },
   {
     "id": 633,
@@ -7593,7 +8108,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 47.0,
     "dave_score": 45.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 634,
@@ -7605,7 +8121,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 31.0,
     "dave_score": 18.0,
-    "yachtski": 24.5
+    "yachtski": 24.5,
+    "yt_id": null
   },
   {
     "id": 635,
@@ -7617,7 +8134,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 56.0,
     "dave_score": 58.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 636,
@@ -7629,7 +8147,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 62.0,
     "dave_score": 68.0,
-    "yachtski": 66.75
+    "yachtski": 66.75,
+    "yt_id": null
   },
   {
     "id": 637,
@@ -7641,7 +8160,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 55.0,
     "dave_score": 46.0,
-    "yachtski": 50.75
+    "yachtski": 50.75,
+    "yt_id": null
   },
   {
     "id": 638,
@@ -7653,7 +8173,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 75.0,
     "dave_score": 58.0,
-    "yachtski": 67.75
+    "yachtski": 67.75,
+    "yt_id": null
   },
   {
     "id": 639,
@@ -7665,7 +8186,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 41.0,
     "dave_score": 44.0,
-    "yachtski": 45.0
+    "yachtski": 45.0,
+    "yt_id": null
   },
   {
     "id": 640,
@@ -7677,7 +8199,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 63.0,
     "dave_score": 49.0,
-    "yachtski": 56.25
+    "yachtski": 56.25,
+    "yt_id": null
   },
   {
     "id": 641,
@@ -7689,7 +8212,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 36.0,
     "dave_score": 28.0,
-    "yachtski": 35.75
+    "yachtski": 35.75,
+    "yt_id": null
   },
   {
     "id": 642,
@@ -7701,7 +8225,8 @@ const data = [
     "hunter_score": 13.0,
     "steve_score": 10.0,
     "dave_score": 8.0,
-    "yachtski": 10.5
+    "yachtski": 10.5,
+    "yt_id": null
   },
   {
     "id": 643,
@@ -7713,7 +8238,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 42.0,
     "dave_score": 32.0,
-    "yachtski": 44.75
+    "yachtski": 44.75,
+    "yt_id": null
   },
   {
     "id": 644,
@@ -7725,7 +8251,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 73.0,
     "dave_score": 71.0,
-    "yachtski": 67.25
+    "yachtski": 67.25,
+    "yt_id": null
   },
   {
     "id": 645,
@@ -7737,7 +8264,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 61.0,
     "dave_score": 63.0,
-    "yachtski": 66.5
+    "yachtski": 66.5,
+    "yt_id": null
   },
   {
     "id": 646,
@@ -7749,7 +8277,8 @@ const data = [
     "hunter_score": 37.0,
     "steve_score": 38.0,
     "dave_score": 30.0,
-    "yachtski": 36.0
+    "yachtski": 36.0,
+    "yt_id": null
   },
   {
     "id": 647,
@@ -7761,7 +8290,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 65.0,
     "dave_score": 68.0,
-    "yachtski": 64.5
+    "yachtski": 64.5,
+    "yt_id": null
   },
   {
     "id": 648,
@@ -7773,7 +8303,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 66.0,
     "dave_score": 65.0,
-    "yachtski": 67.25
+    "yachtski": 67.25,
+    "yt_id": null
   },
   {
     "id": 649,
@@ -7785,7 +8316,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 40.0,
     "dave_score": 26.0,
-    "yachtski": 31.25
+    "yachtski": 31.25,
+    "yt_id": null
   },
   {
     "id": 650,
@@ -7797,7 +8329,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 71.0,
     "dave_score": 64.0,
-    "yachtski": 66.5
+    "yachtski": 66.5,
+    "yt_id": null
   },
   {
     "id": 651,
@@ -7809,7 +8342,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 59.0,
     "dave_score": 62.0,
-    "yachtski": 61.25
+    "yachtski": 61.25,
+    "yt_id": null
   },
   {
     "id": 652,
@@ -7821,7 +8355,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 33.0,
     "dave_score": 29.0,
-    "yachtski": 33.75
+    "yachtski": 33.75,
+    "yt_id": null
   },
   {
     "id": 653,
@@ -7833,7 +8368,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 58.0,
     "dave_score": 43.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 654,
@@ -7845,7 +8381,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 62.0,
     "dave_score": 51.0,
-    "yachtski": 57.0
+    "yachtski": 57.0,
+    "yt_id": null
   },
   {
     "id": 655,
@@ -7857,7 +8394,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 34.0,
     "dave_score": 32.0,
-    "yachtski": 33.0
+    "yachtski": 33.0,
+    "yt_id": null
   },
   {
     "id": 656,
@@ -7869,7 +8407,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 69.0,
     "dave_score": 67.0,
-    "yachtski": 72.0
+    "yachtski": 72.0,
+    "yt_id": null
   },
   {
     "id": 657,
@@ -7881,7 +8420,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 61.0,
     "dave_score": 47.0,
-    "yachtski": 54.0
+    "yachtski": 54.0,
+    "yt_id": null
   },
   {
     "id": 658,
@@ -7893,7 +8433,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 65.0,
     "dave_score": 59.0,
-    "yachtski": 56.25
+    "yachtski": 56.25,
+    "yt_id": null
   },
   {
     "id": 659,
@@ -7905,7 +8446,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 71.0,
     "dave_score": 65.0,
-    "yachtski": 70.75
+    "yachtski": 70.75,
+    "yt_id": null
   },
   {
     "id": 660,
@@ -7917,7 +8459,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 48.0,
     "dave_score": 50.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 661,
@@ -7929,7 +8472,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 38.0,
     "dave_score": 38.0,
-    "yachtski": 40.75
+    "yachtski": 40.75,
+    "yt_id": null
   },
   {
     "id": 662,
@@ -7941,7 +8485,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 51.0,
     "dave_score": 52.0,
-    "yachtski": 48.5
+    "yachtski": 48.5,
+    "yt_id": null
   },
   {
     "id": 663,
@@ -7953,7 +8498,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 79.0,
     "dave_score": 84.0,
-    "yachtski": 76.5
+    "yachtski": 76.5,
+    "yt_id": null
   },
   {
     "id": 664,
@@ -7965,7 +8511,8 @@ const data = [
     "hunter_score": 81.0,
     "steve_score": 74.0,
     "dave_score": 78.0,
-    "yachtski": 77.75
+    "yachtski": 77.75,
+    "yt_id": null
   },
   {
     "id": 665,
@@ -7977,7 +8524,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 76.0,
     "dave_score": 75.0,
-    "yachtski": 74.5
+    "yachtski": 74.5,
+    "yt_id": null
   },
   {
     "id": 666,
@@ -7989,7 +8537,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 41.0,
     "dave_score": 31.0,
-    "yachtski": 36.75
+    "yachtski": 36.75,
+    "yt_id": null
   },
   {
     "id": 667,
@@ -8001,7 +8550,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 28.0,
     "dave_score": 25.0,
-    "yachtski": 28.5
+    "yachtski": 28.5,
+    "yt_id": null
   },
   {
     "id": 668,
@@ -8013,7 +8563,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 62.0,
     "dave_score": 50.0,
-    "yachtski": 53.0
+    "yachtski": 53.0,
+    "yt_id": null
   },
   {
     "id": 669,
@@ -8025,7 +8576,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 68.0,
     "dave_score": 53.0,
-    "yachtski": 60.0
+    "yachtski": 60.0,
+    "yt_id": null
   },
   {
     "id": 670,
@@ -8037,7 +8589,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 25.0,
     "dave_score": 25.0,
-    "yachtski": 27.5
+    "yachtski": 27.5,
+    "yt_id": null
   },
   {
     "id": 671,
@@ -8049,7 +8602,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 52.0,
     "dave_score": 35.0,
-    "yachtski": 43.75
+    "yachtski": 43.75,
+    "yt_id": null
   },
   {
     "id": 672,
@@ -8061,7 +8615,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 38.0,
     "dave_score": 44.0,
-    "yachtski": 41.75
+    "yachtski": 41.75,
+    "yt_id": null
   },
   {
     "id": 673,
@@ -8073,7 +8628,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 59.0,
     "dave_score": 48.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 674,
@@ -8085,7 +8641,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 64.0,
     "dave_score": 65.0,
-    "yachtski": 65.25
+    "yachtski": 65.25,
+    "yt_id": null
   },
   {
     "id": 675,
@@ -8097,7 +8654,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 47.0,
     "dave_score": 34.0,
-    "yachtski": 41.25
+    "yachtski": 41.25,
+    "yt_id": null
   },
   {
     "id": 676,
@@ -8109,7 +8667,8 @@ const data = [
     "hunter_score": 87.0,
     "steve_score": 93.0,
     "dave_score": 89.0,
-    "yachtski": 90.5
+    "yachtski": 90.5,
+    "yt_id": null
   },
   {
     "id": 677,
@@ -8121,7 +8680,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 56.0,
     "dave_score": 52.0,
-    "yachtski": 54.25
+    "yachtski": 54.25,
+    "yt_id": null
   },
   {
     "id": 678,
@@ -8133,7 +8693,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 86.0,
     "dave_score": 82.0,
-    "yachtski": 83.0
+    "yachtski": 83.0,
+    "yt_id": null
   },
   {
     "id": 679,
@@ -8145,7 +8706,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 58.0,
     "dave_score": 55.0,
-    "yachtski": 60.75
+    "yachtski": 60.75,
+    "yt_id": null
   },
   {
     "id": 680,
@@ -8157,7 +8719,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 67.0,
     "dave_score": 63.0,
-    "yachtski": 70.0
+    "yachtski": 70.0,
+    "yt_id": null
   },
   {
     "id": 681,
@@ -8169,7 +8732,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 33.0,
     "dave_score": 27.0,
-    "yachtski": 26.25
+    "yachtski": 26.25,
+    "yt_id": null
   },
   {
     "id": 682,
@@ -8181,7 +8745,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 9.0,
     "dave_score": 11.0,
-    "yachtski": 14.5
+    "yachtski": 14.5,
+    "yt_id": null
   },
   {
     "id": 683,
@@ -8193,7 +8758,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 40.0,
     "dave_score": 28.0,
-    "yachtski": 31.5
+    "yachtski": 31.5,
+    "yt_id": null
   },
   {
     "id": 684,
@@ -8205,7 +8771,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 30.0,
     "dave_score": 10.0,
-    "yachtski": 15.0
+    "yachtski": 15.0,
+    "yt_id": null
   },
   {
     "id": 685,
@@ -8217,7 +8784,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 16.0,
     "dave_score": 12.0,
-    "yachtski": 14.75
+    "yachtski": 14.75,
+    "yt_id": null
   },
   {
     "id": 686,
@@ -8229,7 +8797,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 22.0,
     "dave_score": 15.0,
-    "yachtski": 15.75
+    "yachtski": 15.75,
+    "yt_id": null
   },
   {
     "id": 687,
@@ -8241,7 +8810,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 15.0,
     "dave_score": 2.0,
-    "yachtski": 9.25
+    "yachtski": 9.25,
+    "yt_id": null
   },
   {
     "id": 688,
@@ -8253,7 +8823,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 11.0,
     "dave_score": 4.0,
-    "yachtski": 8.875
+    "yachtski": 8.875,
+    "yt_id": null
   },
   {
     "id": 689,
@@ -8265,7 +8836,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 70.0,
     "dave_score": 90.0,
-    "yachtski": 81.0
+    "yachtski": 81.0,
+    "yt_id": null
   },
   {
     "id": 690,
@@ -8277,7 +8849,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 54.0,
     "dave_score": 28.0,
-    "yachtski": 43.75
+    "yachtski": 43.75,
+    "yt_id": null
   },
   {
     "id": 691,
@@ -8289,7 +8862,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 45.0,
     "dave_score": 45.0,
-    "yachtski": 48.75
+    "yachtski": 48.75,
+    "yt_id": null
   },
   {
     "id": 692,
@@ -8301,7 +8875,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 92.0,
     "dave_score": 91.0,
-    "yachtski": 91.0
+    "yachtski": 91.0,
+    "yt_id": null
   },
   {
     "id": 693,
@@ -8313,7 +8888,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 52.0,
     "dave_score": 56.0,
-    "yachtski": 54.75
+    "yachtski": 54.75,
+    "yt_id": null
   },
   {
     "id": 694,
@@ -8325,7 +8901,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 17.0,
     "dave_score": 25.0,
-    "yachtski": 26.25
+    "yachtski": 26.25,
+    "yt_id": null
   },
   {
     "id": 695,
@@ -8337,7 +8914,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 72.0,
     "dave_score": 75.0,
-    "yachtski": 71.75
+    "yachtski": 71.75,
+    "yt_id": null
   },
   {
     "id": 696,
@@ -8349,7 +8927,8 @@ const data = [
     "hunter_score": 9.0,
     "steve_score": 21.0,
     "dave_score": 14.0,
-    "yachtski": 18.0
+    "yachtski": 18.0,
+    "yt_id": null
   },
   {
     "id": 697,
@@ -8361,7 +8940,8 @@ const data = [
     "hunter_score": 7.0,
     "steve_score": 1.0,
     "dave_score": 7.0,
-    "yachtski": 4.5
+    "yachtski": 4.5,
+    "yt_id": null
   },
   {
     "id": 698,
@@ -8373,7 +8953,8 @@ const data = [
     "hunter_score": 21.0,
     "steve_score": 14.0,
     "dave_score": 18.0,
-    "yachtski": 15.5
+    "yachtski": 15.5,
+    "yt_id": null
   },
   {
     "id": 699,
@@ -8385,7 +8966,8 @@ const data = [
     "hunter_score": 16.0,
     "steve_score": 25.0,
     "dave_score": 12.0,
-    "yachtski": 15.25
+    "yachtski": 15.25,
+    "yt_id": null
   },
   {
     "id": 700,
@@ -8397,7 +8979,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 92.0,
     "dave_score": 87.0,
-    "yachtski": 89.5
+    "yachtski": 89.5,
+    "yt_id": null
   },
   {
     "id": 701,
@@ -8409,7 +8992,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 30.0,
     "dave_score": 15.0,
-    "yachtski": 21.0
+    "yachtski": 21.0,
+    "yt_id": null
   },
   {
     "id": 702,
@@ -8421,7 +9005,8 @@ const data = [
     "hunter_score": 11.0,
     "steve_score": 2.0,
     "dave_score": 3.0,
-    "yachtski": 4.5
+    "yachtski": 4.5,
+    "yt_id": null
   },
   {
     "id": 703,
@@ -8433,7 +9018,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 43.0,
     "dave_score": 45.0,
-    "yachtski": 42.75
+    "yachtski": 42.75,
+    "yt_id": null
   },
   {
     "id": 704,
@@ -8445,7 +9031,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 32.0,
     "dave_score": 33.0,
-    "yachtski": 32.25
+    "yachtski": 32.25,
+    "yt_id": null
   },
   {
     "id": 705,
@@ -8457,7 +9044,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 38.0,
     "dave_score": 28.0,
-    "yachtski": 27.5
+    "yachtski": 27.5,
+    "yt_id": null
   },
   {
     "id": 706,
@@ -8469,7 +9057,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 74.0,
     "dave_score": 86.0,
-    "yachtski": 80.75
+    "yachtski": 80.75,
+    "yt_id": null
   },
   {
     "id": 707,
@@ -8481,7 +9070,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 48.0,
     "dave_score": 23.0,
-    "yachtski": 30.5
+    "yachtski": 30.5,
+    "yt_id": null
   },
   {
     "id": 708,
@@ -8493,7 +9083,8 @@ const data = [
     "hunter_score": 10.0,
     "steve_score": 22.0,
     "dave_score": 12.0,
-    "yachtski": 15.25
+    "yachtski": 15.25,
+    "yt_id": null
   },
   {
     "id": 709,
@@ -8505,7 +9096,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 49.0,
     "dave_score": 40.0,
-    "yachtski": 44.0
+    "yachtski": 44.0,
+    "yt_id": null
   },
   {
     "id": 710,
@@ -8517,7 +9109,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 35.0,
     "dave_score": 25.0,
-    "yachtski": 29.5
+    "yachtski": 29.5,
+    "yt_id": null
   },
   {
     "id": 711,
@@ -8529,7 +9122,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 44.0,
     "dave_score": 32.0,
-    "yachtski": 36.5
+    "yachtski": 36.5,
+    "yt_id": null
   },
   {
     "id": 712,
@@ -8541,7 +9135,8 @@ const data = [
     "hunter_score": 9.0,
     "steve_score": 15.0,
     "dave_score": 10.0,
-    "yachtski": 11.5
+    "yachtski": 11.5,
+    "yt_id": null
   },
   {
     "id": 713,
@@ -8553,7 +9148,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 24.0,
     "dave_score": 21.0,
-    "yachtski": 23.75
+    "yachtski": 23.75,
+    "yt_id": null
   },
   {
     "id": 714,
@@ -8565,7 +9161,8 @@ const data = [
     "hunter_score": 16.0,
     "steve_score": 32.0,
     "dave_score": 9.0,
-    "yachtski": 17.25
+    "yachtski": 17.25,
+    "yt_id": null
   },
   {
     "id": 715,
@@ -8577,7 +9174,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 35.0,
     "dave_score": 22.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 716,
@@ -8589,7 +9187,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 23.0,
     "dave_score": 25.0,
-    "yachtski": 26.5
+    "yachtski": 26.5,
+    "yt_id": null
   },
   {
     "id": 717,
@@ -8601,7 +9200,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 40.0,
     "dave_score": 40.0,
-    "yachtski": 37.5
+    "yachtski": 37.5,
+    "yt_id": null
   },
   {
     "id": 718,
@@ -8613,7 +9213,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 68.0,
     "dave_score": 64.0,
-    "yachtski": 69.75
+    "yachtski": 69.75,
+    "yt_id": null
   },
   {
     "id": 719,
@@ -8625,7 +9226,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 17.0,
     "dave_score": 30.0,
-    "yachtski": 27.5
+    "yachtski": 27.5,
+    "yt_id": null
   },
   {
     "id": 720,
@@ -8637,7 +9239,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 55.0,
     "dave_score": 38.0,
-    "yachtski": 47.0
+    "yachtski": 47.0,
+    "yt_id": null
   },
   {
     "id": 721,
@@ -8649,7 +9252,8 @@ const data = [
     "hunter_score": 94.0,
     "steve_score": 93.0,
     "dave_score": 87.0,
-    "yachtski": 90.75
+    "yachtski": 90.75,
+    "yt_id": null
   },
   {
     "id": 722,
@@ -8661,7 +9265,8 @@ const data = [
     "hunter_score": 92.0,
     "steve_score": 78.0,
     "dave_score": 67.0,
-    "yachtski": 78.75
+    "yachtski": 78.75,
+    "yt_id": null
   },
   {
     "id": 723,
@@ -8673,7 +9278,8 @@ const data = [
     "hunter_score": 72.0,
     "steve_score": 73.0,
     "dave_score": 73.0,
-    "yachtski": 73.25
+    "yachtski": 73.25,
+    "yt_id": null
   },
   {
     "id": 724,
@@ -8685,7 +9291,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 95.0,
     "dave_score": 83.0,
-    "yachtski": 83.75
+    "yachtski": 83.75,
+    "yt_id": null
   },
   {
     "id": 725,
@@ -8697,7 +9304,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 57.0,
     "dave_score": 54.0,
-    "yachtski": 53.25
+    "yachtski": 53.25,
+    "yt_id": null
   },
   {
     "id": 726,
@@ -8709,7 +9317,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 86.0,
     "dave_score": 88.0,
-    "yachtski": 89.0
+    "yachtski": 89.0,
+    "yt_id": null
   },
   {
     "id": 727,
@@ -8721,7 +9330,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 56.0,
     "dave_score": 55.0,
-    "yachtski": 50.75
+    "yachtski": 50.75,
+    "yt_id": null
   },
   {
     "id": 728,
@@ -8733,7 +9343,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 42.0,
     "dave_score": 40.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 729,
@@ -8745,7 +9356,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 68.0,
     "dave_score": 72.0,
-    "yachtski": 72.25
+    "yachtski": 72.25,
+    "yt_id": null
   },
   {
     "id": 730,
@@ -8757,7 +9369,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 47.0,
     "dave_score": 38.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 731,
@@ -8769,7 +9382,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 65.0,
     "dave_score": 48.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 732,
@@ -8781,7 +9395,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 53.0,
     "dave_score": 40.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 733,
@@ -8793,7 +9408,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 74.0,
     "dave_score": 61.0,
-    "yachtski": 65.75
+    "yachtski": 65.75,
+    "yt_id": null
   },
   {
     "id": 734,
@@ -8805,7 +9421,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 77.0,
     "dave_score": 80.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 735,
@@ -8817,7 +9434,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 41.0,
     "dave_score": 35.0,
-    "yachtski": 41.75
+    "yachtski": 41.75,
+    "yt_id": null
   },
   {
     "id": 736,
@@ -8829,7 +9447,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 76.0,
     "dave_score": 65.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 737,
@@ -8841,7 +9460,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 66.0,
     "dave_score": 62.0,
-    "yachtski": 63.5
+    "yachtski": 63.5,
+    "yt_id": null
   },
   {
     "id": 738,
@@ -8853,7 +9473,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 73.0,
     "dave_score": 76.0,
-    "yachtski": 76.0
+    "yachtski": 76.0,
+    "yt_id": null
   },
   {
     "id": 739,
@@ -8865,7 +9486,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 93.0,
     "dave_score": 85.0,
-    "yachtski": 89.0
+    "yachtski": 89.0,
+    "yt_id": null
   },
   {
     "id": 740,
@@ -8877,7 +9499,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 61.0,
     "dave_score": 55.0,
-    "yachtski": 60.75
+    "yachtski": 60.75,
+    "yt_id": null
   },
   {
     "id": 741,
@@ -8889,7 +9512,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 60.0,
     "dave_score": 48.0,
-    "yachtski": 55.0
+    "yachtski": 55.0,
+    "yt_id": null
   },
   {
     "id": 742,
@@ -8901,7 +9525,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 63.0,
     "dave_score": 68.0,
-    "yachtski": 66.25
+    "yachtski": 66.25,
+    "yt_id": null
   },
   {
     "id": 743,
@@ -8913,7 +9538,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 58.0,
     "dave_score": 49.0,
-    "yachtski": 56.75
+    "yachtski": 56.75,
+    "yt_id": null
   },
   {
     "id": 744,
@@ -8925,7 +9551,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 39.0,
     "dave_score": 43.0,
-    "yachtski": 42.5
+    "yachtski": 42.5,
+    "yt_id": null
   },
   {
     "id": 745,
@@ -8937,7 +9564,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 61.0,
     "dave_score": 45.0,
-    "yachtski": 53.75
+    "yachtski": 53.75,
+    "yt_id": null
   },
   {
     "id": 746,
@@ -8949,7 +9577,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 69.0,
     "dave_score": 57.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 747,
@@ -8961,7 +9590,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 64.0,
     "dave_score": 46.0,
-    "yachtski": 52.25
+    "yachtski": 52.25,
+    "yt_id": null
   },
   {
     "id": 748,
@@ -8973,7 +9603,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 40.0,
     "dave_score": 35.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 749,
@@ -8985,7 +9616,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 77.0,
     "dave_score": 52.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 750,
@@ -8997,7 +9629,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 46.0,
     "dave_score": 41.0,
-    "yachtski": 38.25
+    "yachtski": 38.25,
+    "yt_id": null
   },
   {
     "id": 751,
@@ -9009,7 +9642,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 34.0,
     "dave_score": 33.0,
-    "yachtski": 33.5
+    "yachtski": 33.5,
+    "yt_id": null
   },
   {
     "id": 752,
@@ -9021,7 +9655,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 75.0,
     "dave_score": 52.0,
-    "yachtski": 60.0
+    "yachtski": 60.0,
+    "yt_id": null
   },
   {
     "id": 753,
@@ -9033,7 +9668,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 62.0,
     "dave_score": 55.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 754,
@@ -9045,7 +9681,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 37.0,
     "dave_score": 38.0,
-    "yachtski": 38.75
+    "yachtski": 38.75,
+    "yt_id": null
   },
   {
     "id": 755,
@@ -9057,7 +9694,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 57.0,
     "dave_score": 49.0,
-    "yachtski": 52.25
+    "yachtski": 52.25,
+    "yt_id": null
   },
   {
     "id": 756,
@@ -9069,7 +9707,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 56.0,
     "dave_score": 64.0,
-    "yachtski": 62.0
+    "yachtski": 62.0,
+    "yt_id": null
   },
   {
     "id": 757,
@@ -9081,7 +9720,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 44.0,
     "dave_score": 43.0,
-    "yachtski": 44.25
+    "yachtski": 44.25,
+    "yt_id": null
   },
   {
     "id": 758,
@@ -9093,7 +9733,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 68.0,
     "dave_score": 55.0,
-    "yachtski": 59.25
+    "yachtski": 59.25,
+    "yt_id": null
   },
   {
     "id": 759,
@@ -9105,7 +9746,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 30.0,
     "dave_score": 32.0,
-    "yachtski": 29.5
+    "yachtski": 29.5,
+    "yt_id": null
   },
   {
     "id": 760,
@@ -9117,7 +9759,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 38.0,
     "dave_score": 39.0,
-    "yachtski": 37.25
+    "yachtski": 37.25,
+    "yt_id": null
   },
   {
     "id": 761,
@@ -9129,7 +9772,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 70.0,
     "dave_score": 72.0,
-    "yachtski": 70.75
+    "yachtski": 70.75,
+    "yt_id": null
   },
   {
     "id": 762,
@@ -9141,7 +9785,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 28.0,
     "dave_score": 31.0,
-    "yachtski": 28.0
+    "yachtski": 28.0,
+    "yt_id": null
   },
   {
     "id": 763,
@@ -9153,7 +9798,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 69.0,
     "dave_score": 75.0,
-    "yachtski": 68.0
+    "yachtski": 68.0,
+    "yt_id": null
   },
   {
     "id": 764,
@@ -9165,7 +9811,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 77.0,
     "dave_score": 76.0,
-    "yachtski": 73.5
+    "yachtski": 73.5,
+    "yt_id": null
   },
   {
     "id": 765,
@@ -9177,7 +9824,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 66.0,
     "dave_score": 50.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 766,
@@ -9189,7 +9837,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 73.0,
     "dave_score": 63.0,
-    "yachtski": 61.25
+    "yachtski": 61.25,
+    "yt_id": null
   },
   {
     "id": 767,
@@ -9201,7 +9850,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 84.0,
     "dave_score": 86.0,
-    "yachtski": 87.75
+    "yachtski": 87.75,
+    "yt_id": null
   },
   {
     "id": 768,
@@ -9213,7 +9863,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 64.0,
     "dave_score": 57.0,
-    "yachtski": 62.0
+    "yachtski": 62.0,
+    "yt_id": null
   },
   {
     "id": 769,
@@ -9225,7 +9876,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 35.0,
     "dave_score": 22.0,
-    "yachtski": 30.25
+    "yachtski": 30.25,
+    "yt_id": null
   },
   {
     "id": 770,
@@ -9237,7 +9889,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 79.0,
     "dave_score": 78.0,
-    "yachtski": 76.75
+    "yachtski": 76.75,
+    "yt_id": null
   },
   {
     "id": 771,
@@ -9249,7 +9902,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 72.0,
     "dave_score": 66.0,
-    "yachtski": 73.75
+    "yachtski": 73.75,
+    "yt_id": null
   },
   {
     "id": 772,
@@ -9261,7 +9915,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 62.0,
     "dave_score": 60.0,
-    "yachtski": 61.0
+    "yachtski": 61.0,
+    "yt_id": null
   },
   {
     "id": 773,
@@ -9273,7 +9928,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 45.0,
     "dave_score": 39.0,
-    "yachtski": 41.75
+    "yachtski": 41.75,
+    "yt_id": null
   },
   {
     "id": 774,
@@ -9285,7 +9941,8 @@ const data = [
     "hunter_score": 89.0,
     "steve_score": 93.0,
     "dave_score": 79.5,
-    "yachtski": 87.85
+    "yachtski": 87.85,
+    "yt_id": null
   },
   {
     "id": 775,
@@ -9297,7 +9954,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 76.0,
     "dave_score": 83.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 776,
@@ -9309,7 +9967,8 @@ const data = [
     "hunter_score": 75.0,
     "steve_score": 74.0,
     "dave_score": 75.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 777,
@@ -9321,7 +9980,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 46.0,
     "dave_score": 49.0,
-    "yachtski": 48.25
+    "yachtski": 48.25,
+    "yt_id": null
   },
   {
     "id": 778,
@@ -9333,7 +9993,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 68.0,
     "dave_score": 54.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 779,
@@ -9345,7 +10006,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 54.0,
     "dave_score": 49.0,
-    "yachtski": 47.5
+    "yachtski": 47.5,
+    "yt_id": null
   },
   {
     "id": 780,
@@ -9357,7 +10019,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 44.0,
     "dave_score": 39.0,
-    "yachtski": 45.25
+    "yachtski": 45.25,
+    "yt_id": null
   },
   {
     "id": 781,
@@ -9369,7 +10032,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 50.0,
     "dave_score": 55.0,
-    "yachtski": 53.5
+    "yachtski": 53.5,
+    "yt_id": null
   },
   {
     "id": 782,
@@ -9381,7 +10045,8 @@ const data = [
     "hunter_score": 9.0,
     "steve_score": 17.0,
     "dave_score": 19.0,
-    "yachtski": 14.0
+    "yachtski": 14.0,
+    "yt_id": null
   },
   {
     "id": 783,
@@ -9393,7 +10058,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 48.0,
     "dave_score": 51.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 784,
@@ -9405,7 +10071,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 12.0,
     "dave_score": 24.0,
-    "yachtski": 19.75
+    "yachtski": 19.75,
+    "yt_id": null
   },
   {
     "id": 785,
@@ -9417,7 +10084,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 26.0,
     "dave_score": 26.0,
-    "yachtski": 24.75
+    "yachtski": 24.75,
+    "yt_id": null
   },
   {
     "id": 786,
@@ -9429,7 +10097,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 38.0,
     "dave_score": 40.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 787,
@@ -9441,7 +10110,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 76.0,
     "dave_score": 82.0,
-    "yachtski": 76.5
+    "yachtski": 76.5,
+    "yt_id": null
   },
   {
     "id": 788,
@@ -9453,7 +10123,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 78.0,
     "dave_score": 53.0,
-    "yachtski": 62.75
+    "yachtski": 62.75,
+    "yt_id": null
   },
   {
     "id": 789,
@@ -9465,7 +10136,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 35.0,
     "dave_score": 32.0,
-    "yachtski": 34.0
+    "yachtski": 34.0,
+    "yt_id": null
   },
   {
     "id": 790,
@@ -9477,7 +10149,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 77.0,
     "dave_score": 81.0,
-    "yachtski": 78.75
+    "yachtski": 78.75,
+    "yt_id": null
   },
   {
     "id": 791,
@@ -9489,7 +10162,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 21.0,
     "dave_score": 32.0,
-    "yachtski": 25.0
+    "yachtski": 25.0,
+    "yt_id": null
   },
   {
     "id": 792,
@@ -9501,7 +10175,8 @@ const data = [
     "hunter_score": 11.0,
     "steve_score": 10.0,
     "dave_score": 2.0,
-    "yachtski": 5.75
+    "yachtski": 5.75,
+    "yt_id": null
   },
   {
     "id": 793,
@@ -9513,7 +10188,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 71.0,
     "dave_score": 64.0,
-    "yachtski": 68.75
+    "yachtski": 68.75,
+    "yt_id": null
   },
   {
     "id": 794,
@@ -9525,7 +10201,8 @@ const data = [
     "hunter_score": 68.0,
     "steve_score": 64.0,
     "dave_score": 48.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 795,
@@ -9537,7 +10214,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 72.0,
     "dave_score": 78.0,
-    "yachtski": 69.75
+    "yachtski": 69.75,
+    "yt_id": null
   },
   {
     "id": 796,
@@ -9549,7 +10227,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 30.0,
     "dave_score": 25.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 797,
@@ -9561,7 +10240,8 @@ const data = [
     "hunter_score": 93.0,
     "steve_score": 89.0,
     "dave_score": 93.0,
-    "yachtski": 92.5
+    "yachtski": 92.5,
+    "yt_id": null
   },
   {
     "id": 798,
@@ -9573,7 +10253,8 @@ const data = [
     "hunter_score": 78.0,
     "steve_score": 84.0,
     "dave_score": 82.0,
-    "yachtski": 82.0
+    "yachtski": 82.0,
+    "yt_id": null
   },
   {
     "id": 799,
@@ -9585,7 +10266,8 @@ const data = [
     "hunter_score": 26.0,
     "steve_score": 33.0,
     "dave_score": 20.0,
-    "yachtski": 28.5
+    "yachtski": 28.5,
+    "yt_id": null
   },
   {
     "id": 800,
@@ -9597,7 +10279,8 @@ const data = [
     "hunter_score": 13.0,
     "steve_score": 18.0,
     "dave_score": 10.0,
-    "yachtski": 13.0
+    "yachtski": 13.0,
+    "yt_id": null
   },
   {
     "id": 801,
@@ -9609,7 +10292,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 40.0,
     "dave_score": 42.0,
-    "yachtski": 44.75
+    "yachtski": 44.75,
+    "yt_id": null
   },
   {
     "id": 802,
@@ -9621,7 +10305,8 @@ const data = [
     "hunter_score": 22.0,
     "steve_score": 28.0,
     "dave_score": 20.0,
-    "yachtski": 22.0
+    "yachtski": 22.0,
+    "yt_id": null
   },
   {
     "id": 803,
@@ -9633,7 +10318,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 61.0,
     "dave_score": 57.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 804,
@@ -9645,7 +10331,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 55.0,
     "dave_score": 62.0,
-    "yachtski": 62.5
+    "yachtski": 62.5,
+    "yt_id": null
   },
   {
     "id": 805,
@@ -9657,7 +10344,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 16.0,
     "dave_score": 20.0,
-    "yachtski": 21.25
+    "yachtski": 21.25,
+    "yt_id": null
   },
   {
     "id": 806,
@@ -9669,7 +10357,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 83.0,
     "dave_score": 70.0,
-    "yachtski": 75.25
+    "yachtski": 75.25,
+    "yt_id": null
   },
   {
     "id": 807,
@@ -9681,7 +10370,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 86.0,
     "dave_score": 79.0,
-    "yachtski": 85.25
+    "yachtski": 85.25,
+    "yt_id": null
   },
   {
     "id": 808,
@@ -9693,7 +10383,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 32.0,
     "dave_score": 28.0,
-    "yachtski": 34.25
+    "yachtski": 34.25,
+    "yt_id": null
   },
   {
     "id": 809,
@@ -9705,7 +10396,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 62.0,
     "dave_score": 62.0,
-    "yachtski": 63.0
+    "yachtski": 63.0,
+    "yt_id": null
   },
   {
     "id": 810,
@@ -9717,7 +10409,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 45.0,
     "dave_score": 26.0,
-    "yachtski": 30.25
+    "yachtski": 30.25,
+    "yt_id": null
   },
   {
     "id": 811,
@@ -9729,7 +10422,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 73.0,
     "dave_score": 64.0,
-    "yachtski": 69.0
+    "yachtski": 69.0,
+    "yt_id": null
   },
   {
     "id": 812,
@@ -9741,7 +10435,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 44.0,
     "dave_score": 42.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 813,
@@ -9753,7 +10448,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 85.0,
     "dave_score": 84.0,
-    "yachtski": 84.0
+    "yachtski": 84.0,
+    "yt_id": null
   },
   {
     "id": 814,
@@ -9765,7 +10461,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 42.0,
     "dave_score": 42.0,
-    "yachtski": 43.25
+    "yachtski": 43.25,
+    "yt_id": null
   },
   {
     "id": 815,
@@ -9777,7 +10474,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 47.0,
     "dave_score": 48.0,
-    "yachtski": 51.5
+    "yachtski": 51.5,
+    "yt_id": null
   },
   {
     "id": 816,
@@ -9789,7 +10487,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 37.0,
     "dave_score": 25.0,
-    "yachtski": 37.5
+    "yachtski": 37.5,
+    "yt_id": null
   },
   {
     "id": 817,
@@ -9801,7 +10500,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 38.0,
     "dave_score": 25.0,
-    "yachtski": 33.5
+    "yachtski": 33.5,
+    "yt_id": null
   },
   {
     "id": 818,
@@ -9813,7 +10513,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 64.0,
     "dave_score": 55.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 819,
@@ -9825,7 +10526,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 59.0,
     "dave_score": 56.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 820,
@@ -9837,7 +10539,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 34.0,
     "dave_score": 26.0,
-    "yachtski": 32.0
+    "yachtski": 32.0,
+    "yt_id": null
   },
   {
     "id": 821,
@@ -9849,7 +10552,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 87.0,
     "dave_score": 89.0,
-    "yachtski": 90.0
+    "yachtski": 90.0,
+    "yt_id": null
   },
   {
     "id": 822,
@@ -9861,7 +10565,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 86.0,
     "dave_score": 72.0,
-    "yachtski": 80.5
+    "yachtski": 80.5,
+    "yt_id": null
   },
   {
     "id": 823,
@@ -9873,7 +10578,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 84.0,
     "dave_score": 58.0,
-    "yachtski": 67.0
+    "yachtski": 67.0,
+    "yt_id": null
   },
   {
     "id": 824,
@@ -9885,7 +10591,8 @@ const data = [
     "hunter_score": 94.0,
     "steve_score": 87.0,
     "dave_score": 90.0,
-    "yachtski": 89.75
+    "yachtski": 89.75,
+    "yt_id": null
   },
   {
     "id": 825,
@@ -9897,7 +10604,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 44.0,
     "dave_score": 55.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 826,
@@ -9909,7 +10617,8 @@ const data = [
     "hunter_score": 34.0,
     "steve_score": 31.0,
     "dave_score": 42.0,
-    "yachtski": 33.75
+    "yachtski": 33.75,
+    "yt_id": null
   },
   {
     "id": 827,
@@ -9921,7 +10630,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 48.0,
     "dave_score": 50.0,
-    "yachtski": 50.75
+    "yachtski": 50.75,
+    "yt_id": null
   },
   {
     "id": 828,
@@ -9933,7 +10643,8 @@ const data = [
     "hunter_score": 44.0,
     "steve_score": 51.0,
     "dave_score": 38.0,
-    "yachtski": 47.0
+    "yachtski": 47.0,
+    "yt_id": null
   },
   {
     "id": 829,
@@ -9945,7 +10656,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 46.0,
     "dave_score": 40.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 830,
@@ -9957,7 +10669,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 40.0,
     "dave_score": 31.0,
-    "yachtski": 34.0
+    "yachtski": 34.0,
+    "yt_id": null
   },
   {
     "id": 831,
@@ -9969,7 +10682,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 56.0,
     "dave_score": 42.0,
-    "yachtski": 47.0
+    "yachtski": 47.0,
+    "yt_id": null
   },
   {
     "id": 832,
@@ -9981,7 +10695,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 80.0,
     "dave_score": 84.0,
-    "yachtski": 82.75
+    "yachtski": 82.75,
+    "yt_id": null
   },
   {
     "id": 833,
@@ -9993,7 +10708,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 53.0,
     "dave_score": 50.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 834,
@@ -10005,7 +10721,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 67.0,
     "dave_score": 58.0,
-    "yachtski": 60.0
+    "yachtski": 60.0,
+    "yt_id": null
   },
   {
     "id": 835,
@@ -10017,7 +10734,8 @@ const data = [
     "hunter_score": 24.0,
     "steve_score": 19.0,
     "dave_score": 18.0,
-    "yachtski": 21.5
+    "yachtski": 21.5,
+    "yt_id": null
   },
   {
     "id": 836,
@@ -10029,7 +10747,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 40.0,
     "dave_score": 43.0,
-    "yachtski": 42.25
+    "yachtski": 42.25,
+    "yt_id": null
   },
   {
     "id": 837,
@@ -10041,7 +10760,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 11.0,
     "dave_score": 10.0,
-    "yachtski": 7.25
+    "yachtski": 7.25,
+    "yt_id": null
   },
   {
     "id": 838,
@@ -10053,7 +10773,8 @@ const data = [
     "hunter_score": 24.0,
     "steve_score": 25.0,
     "dave_score": 20.0,
-    "yachtski": 22.25
+    "yachtski": 22.25,
+    "yt_id": null
   },
   {
     "id": 839,
@@ -10065,7 +10786,8 @@ const data = [
     "hunter_score": 2.0,
     "steve_score": 0.0,
     "dave_score": 0.0,
-    "yachtski": 1.25
+    "yachtski": 1.25,
+    "yt_id": null
   },
   {
     "id": 840,
@@ -10077,7 +10799,8 @@ const data = [
     "hunter_score": 15.0,
     "steve_score": 5.0,
     "dave_score": 18.0,
-    "yachtski": 12.5
+    "yachtski": 12.5,
+    "yt_id": null
   },
   {
     "id": 841,
@@ -10089,7 +10812,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 52.0,
     "dave_score": 52.0,
-    "yachtski": 51.25
+    "yachtski": 51.25,
+    "yt_id": null
   },
   {
     "id": 842,
@@ -10101,7 +10825,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 46.0,
     "dave_score": 45.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 843,
@@ -10113,7 +10838,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 34.0,
     "dave_score": 32.0,
-    "yachtski": 30.75
+    "yachtski": 30.75,
+    "yt_id": null
   },
   {
     "id": 844,
@@ -10125,7 +10851,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 37.0,
     "dave_score": 15.0,
-    "yachtski": 21.0
+    "yachtski": 21.0,
+    "yt_id": null
   },
   {
     "id": 845,
@@ -10137,7 +10864,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 77.0,
     "dave_score": 85.0,
-    "yachtski": 82.0
+    "yachtski": 82.0,
+    "yt_id": null
   },
   {
     "id": 846,
@@ -10149,7 +10877,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 51.0,
     "dave_score": 48.0,
-    "yachtski": 48.75
+    "yachtski": 48.75,
+    "yt_id": null
   },
   {
     "id": 847,
@@ -10161,7 +10890,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 59.0,
     "dave_score": 60.0,
-    "yachtski": 56.25
+    "yachtski": 56.25,
+    "yt_id": null
   },
   {
     "id": 848,
@@ -10173,7 +10903,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 64.0,
     "dave_score": 48.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 849,
@@ -10185,7 +10916,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 47.0,
     "dave_score": 42.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 850,
@@ -10197,7 +10929,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 56.0,
     "dave_score": 59.0,
-    "yachtski": 56.0
+    "yachtski": 56.0,
+    "yt_id": null
   },
   {
     "id": 851,
@@ -10209,7 +10942,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 69.0,
     "dave_score": 75.0,
-    "yachtski": 74.25
+    "yachtski": 74.25,
+    "yt_id": null
   },
   {
     "id": 852,
@@ -10221,7 +10955,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 61.0,
     "dave_score": 52.0,
-    "yachtski": 55.5
+    "yachtski": 55.5,
+    "yt_id": null
   },
   {
     "id": 853,
@@ -10233,7 +10968,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 50.0,
     "dave_score": 45.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 854,
@@ -10245,7 +10981,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 47.0,
     "dave_score": 56.0,
-    "yachtski": 51.0
+    "yachtski": 51.0,
+    "yt_id": null
   },
   {
     "id": 855,
@@ -10257,7 +10994,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 74.0,
     "dave_score": 71.0,
-    "yachtski": 66.5
+    "yachtski": 66.5,
+    "yt_id": null
   },
   {
     "id": 856,
@@ -10269,7 +11007,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 53.0,
     "dave_score": 55.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 857,
@@ -10281,7 +11020,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 37.0,
     "dave_score": 38.0,
-    "yachtski": 37.25
+    "yachtski": 37.25,
+    "yt_id": null
   },
   {
     "id": 858,
@@ -10293,7 +11033,8 @@ const data = [
     "hunter_score": 75.0,
     "steve_score": 77.0,
     "dave_score": 80.0,
-    "yachtski": 80.0
+    "yachtski": 80.0,
+    "yt_id": null
   },
   {
     "id": 859,
@@ -10305,7 +11046,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 58.0,
     "dave_score": 55.0,
-    "yachtski": 57.5
+    "yachtski": 57.5,
+    "yt_id": null
   },
   {
     "id": 860,
@@ -10317,7 +11059,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 46.0,
     "dave_score": 48.0,
-    "yachtski": 45.75
+    "yachtski": 45.75,
+    "yt_id": null
   },
   {
     "id": 861,
@@ -10329,7 +11072,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 88.0,
     "dave_score": 82.0,
-    "yachtski": 76.0
+    "yachtski": 76.0,
+    "yt_id": null
   },
   {
     "id": 862,
@@ -10341,7 +11085,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 51.0,
     "dave_score": 55.0,
-    "yachtski": 56.0
+    "yachtski": 56.0,
+    "yt_id": null
   },
   {
     "id": 863,
@@ -10353,7 +11098,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 56.0,
     "dave_score": 54.0,
-    "yachtski": 56.0
+    "yachtski": 56.0,
+    "yt_id": null
   },
   {
     "id": 864,
@@ -10365,7 +11111,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 26.0,
     "dave_score": 12.0,
-    "yachtski": 17.75
+    "yachtski": 17.75,
+    "yt_id": null
   },
   {
     "id": 865,
@@ -10377,7 +11124,8 @@ const data = [
     "hunter_score": 70.0,
     "steve_score": 61.0,
     "dave_score": 51.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 866,
@@ -10389,7 +11137,8 @@ const data = [
     "hunter_score": 36.0,
     "steve_score": 45.0,
     "dave_score": 40.0,
-    "yachtski": 39.75
+    "yachtski": 39.75,
+    "yt_id": null
   },
   {
     "id": 867,
@@ -10401,7 +11150,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 26.0,
     "dave_score": 18.0,
-    "yachtski": 18.5
+    "yachtski": 18.5,
+    "yt_id": null
   },
   {
     "id": 868,
@@ -10413,7 +11163,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 40.0,
     "dave_score": 48.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 869,
@@ -10425,7 +11176,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 44.0,
     "dave_score": 40.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 870,
@@ -10437,7 +11189,8 @@ const data = [
     "hunter_score": 7.0,
     "steve_score": 18.0,
     "dave_score": 12.0,
-    "yachtski": 11.75
+    "yachtski": 11.75,
+    "yt_id": null
   },
   {
     "id": 871,
@@ -10449,7 +11202,8 @@ const data = [
     "hunter_score": 2.0,
     "steve_score": 1.0,
     "dave_score": 3.0,
-    "yachtski": 1.5
+    "yachtski": 1.5,
+    "yt_id": null
   },
   {
     "id": 872,
@@ -10461,7 +11215,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 22.0,
     "dave_score": 30.0,
-    "yachtski": 27.75
+    "yachtski": 27.75,
+    "yt_id": null
   },
   {
     "id": 873,
@@ -10473,7 +11228,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 20.0,
     "dave_score": 8.0,
-    "yachtski": 14.75
+    "yachtski": 14.75,
+    "yt_id": null
   },
   {
     "id": 874,
@@ -10485,7 +11241,8 @@ const data = [
     "hunter_score": 18.0,
     "steve_score": 11.0,
     "dave_score": 9.0,
-    "yachtski": 10.75
+    "yachtski": 10.75,
+    "yt_id": null
   },
   {
     "id": 875,
@@ -10497,7 +11254,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 74.0,
     "dave_score": 80.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 876,
@@ -10509,7 +11267,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 40.0,
     "dave_score": 58.0,
-    "yachtski": 55.75
+    "yachtski": 55.75,
+    "yt_id": null
   },
   {
     "id": 877,
@@ -10521,7 +11280,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 35.0,
     "dave_score": 38.0,
-    "yachtski": 38.75
+    "yachtski": 38.75,
+    "yt_id": null
   },
   {
     "id": 878,
@@ -10533,7 +11293,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 51.0,
     "dave_score": 43.0,
-    "yachtski": 47.0
+    "yachtski": 47.0,
+    "yt_id": null
   },
   {
     "id": 879,
@@ -10545,7 +11306,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 72.0,
     "dave_score": 57.0,
-    "yachtski": 64.0
+    "yachtski": 64.0,
+    "yt_id": null
   },
   {
     "id": 880,
@@ -10557,7 +11319,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 68.0,
     "dave_score": 56.0,
-    "yachtski": 57.25
+    "yachtski": 57.25,
+    "yt_id": null
   },
   {
     "id": 881,
@@ -10569,7 +11332,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 73.0,
     "dave_score": 66.0,
-    "yachtski": 68.0
+    "yachtski": 68.0,
+    "yt_id": null
   },
   {
     "id": 882,
@@ -10581,7 +11345,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 66.0,
     "dave_score": 55.0,
-    "yachtski": 57.0
+    "yachtski": 57.0,
+    "yt_id": null
   },
   {
     "id": 883,
@@ -10593,7 +11358,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 70.0,
     "dave_score": 67.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 884,
@@ -10605,7 +11371,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 74.0,
     "dave_score": 65.0,
-    "yachtski": 75.0
+    "yachtski": 75.0,
+    "yt_id": null
   },
   {
     "id": 885,
@@ -10617,7 +11384,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 51.0,
     "dave_score": 35.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 886,
@@ -10629,7 +11397,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 73.0,
     "dave_score": 58.0,
-    "yachtski": 63.0
+    "yachtski": 63.0,
+    "yt_id": null
   },
   {
     "id": 887,
@@ -10641,7 +11410,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 44.0,
     "dave_score": 35.0,
-    "yachtski": 40.5
+    "yachtski": 40.5,
+    "yt_id": null
   },
   {
     "id": 888,
@@ -10653,7 +11423,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 69.0,
     "dave_score": 80.0,
-    "yachtski": 73.75
+    "yachtski": 73.75,
+    "yt_id": null
   },
   {
     "id": 889,
@@ -10665,7 +11436,8 @@ const data = [
     "hunter_score": 76.0,
     "steve_score": 77.0,
     "dave_score": 75.0,
-    "yachtski": 75.75
+    "yachtski": 75.75,
+    "yt_id": null
   },
   {
     "id": 890,
@@ -10677,7 +11449,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 56.0,
     "dave_score": 45.0,
-    "yachtski": 47.75
+    "yachtski": 47.75,
+    "yt_id": null
   },
   {
     "id": 891,
@@ -10689,7 +11462,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 29.0,
     "dave_score": 23.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 892,
@@ -10701,7 +11475,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 51.0,
     "dave_score": 49.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 893,
@@ -10713,7 +11488,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 42.0,
     "dave_score": 28.0,
-    "yachtski": 36.25
+    "yachtski": 36.25,
+    "yt_id": null
   },
   {
     "id": 894,
@@ -10725,7 +11501,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 53.0,
     "dave_score": 47.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 895,
@@ -10737,7 +11514,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 52.0,
     "dave_score": 55.0,
-    "yachtski": 52.5
+    "yachtski": 52.5,
+    "yt_id": null
   },
   {
     "id": 896,
@@ -10749,7 +11527,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 8.0,
     "dave_score": 18.0,
-    "yachtski": 19.0
+    "yachtski": 19.0,
+    "yt_id": null
   },
   {
     "id": 897,
@@ -10761,7 +11540,8 @@ const data = [
     "hunter_score": 65.0,
     "steve_score": 70.0,
     "dave_score": 60.0,
-    "yachtski": 65.5
+    "yachtski": 65.5,
+    "yt_id": null
   },
   {
     "id": 898,
@@ -10773,7 +11553,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 69.0,
     "dave_score": 68.0,
-    "yachtski": 64.75
+    "yachtski": 64.75,
+    "yt_id": null
   },
   {
     "id": 899,
@@ -10785,7 +11566,8 @@ const data = [
     "hunter_score": 9.0,
     "steve_score": 5.0,
     "dave_score": 16.0,
-    "yachtski": 10.25
+    "yachtski": 10.25,
+    "yt_id": null
   },
   {
     "id": 900,
@@ -10797,7 +11579,8 @@ const data = [
     "hunter_score": 10.0,
     "steve_score": 14.0,
     "dave_score": 12.0,
-    "yachtski": 9.25
+    "yachtski": 9.25,
+    "yt_id": null
   },
   {
     "id": 901,
@@ -10809,7 +11592,8 @@ const data = [
     "hunter_score": 11.0,
     "steve_score": 30.0,
     "dave_score": 35.0,
-    "yachtski": 28.5
+    "yachtski": 28.5,
+    "yt_id": null
   },
   {
     "id": 902,
@@ -10821,7 +11605,8 @@ const data = [
     "hunter_score": 30.0,
     "steve_score": 34.0,
     "dave_score": 25.0,
-    "yachtski": 32.75
+    "yachtski": 32.75,
+    "yt_id": null
   },
   {
     "id": 903,
@@ -10833,7 +11618,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 56.0,
     "dave_score": 44.0,
-    "yachtski": 50.0
+    "yachtski": 50.0,
+    "yt_id": null
   },
   {
     "id": 904,
@@ -10845,7 +11631,8 @@ const data = [
     "hunter_score": 46.0,
     "steve_score": 52.0,
     "dave_score": 54.0,
-    "yachtski": 49.0
+    "yachtski": 49.0,
+    "yt_id": null
   },
   {
     "id": 905,
@@ -10857,7 +11644,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 43.0,
     "dave_score": 40.0,
-    "yachtski": 44.0
+    "yachtski": 44.0,
+    "yt_id": null
   },
   {
     "id": 906,
@@ -10869,7 +11657,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 89.0,
     "dave_score": 90.5,
-    "yachtski": 90.125
+    "yachtski": 90.125,
+    "yt_id": null
   },
   {
     "id": 907,
@@ -10881,7 +11670,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 63.0,
     "dave_score": 49.0,
-    "yachtski": 54.5
+    "yachtski": 54.5,
+    "yt_id": null
   },
   {
     "id": 908,
@@ -10893,7 +11683,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 44.0,
     "dave_score": 30.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 909,
@@ -10905,7 +11696,8 @@ const data = [
     "hunter_score": 11.0,
     "steve_score": 17.0,
     "dave_score": 15.0,
-    "yachtski": 14.5
+    "yachtski": 14.5,
+    "yt_id": null
   },
   {
     "id": 910,
@@ -10917,7 +11709,8 @@ const data = [
     "hunter_score": 12.0,
     "steve_score": 26.0,
     "dave_score": 25.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 911,
@@ -10929,7 +11722,8 @@ const data = [
     "hunter_score": 15.0,
     "steve_score": 30.0,
     "dave_score": 31.0,
-    "yachtski": 27.75
+    "yachtski": 27.75,
+    "yt_id": null
   },
   {
     "id": 912,
@@ -10941,7 +11735,8 @@ const data = [
     "hunter_score": 75.0,
     "steve_score": 72.0,
     "dave_score": 79.0,
-    "yachtski": 74.0
+    "yachtski": 74.0,
+    "yt_id": null
   },
   {
     "id": 913,
@@ -10953,7 +11748,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 58.0,
     "dave_score": 60.0,
-    "yachtski": 56.0
+    "yachtski": 56.0,
+    "yt_id": null
   },
   {
     "id": 914,
@@ -10965,7 +11761,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 52.0,
     "dave_score": 37.0,
-    "yachtski": 42.5
+    "yachtski": 42.5,
+    "yt_id": null
   },
   {
     "id": 915,
@@ -10977,7 +11774,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 83.0,
     "dave_score": 65.0,
-    "yachtski": 71.0
+    "yachtski": 71.0,
+    "yt_id": null
   },
   {
     "id": 916,
@@ -10989,7 +11787,8 @@ const data = [
     "hunter_score": 91.0,
     "steve_score": 90.0,
     "dave_score": 90.0,
-    "yachtski": 89.75
+    "yachtski": 89.75,
+    "yt_id": null
   },
   {
     "id": 917,
@@ -11001,7 +11800,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 62.0,
     "dave_score": 52.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 918,
@@ -11013,7 +11813,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 42.0,
     "dave_score": 37.0,
-    "yachtski": 36.75
+    "yachtski": 36.75,
+    "yt_id": null
   },
   {
     "id": 919,
@@ -11025,7 +11826,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 60.0,
     "dave_score": 54.0,
-    "yachtski": 57.75
+    "yachtski": 57.75,
+    "yt_id": null
   },
   {
     "id": 920,
@@ -11037,7 +11839,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 50.0,
     "dave_score": 44.0,
-    "yachtski": 47.5
+    "yachtski": 47.5,
+    "yt_id": null
   },
   {
     "id": 921,
@@ -11049,7 +11852,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 52.0,
     "dave_score": 47.0,
-    "yachtski": 47.25
+    "yachtski": 47.25,
+    "yt_id": null
   },
   {
     "id": 922,
@@ -11061,7 +11865,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 64.0,
     "dave_score": 68.0,
-    "yachtski": 60.5
+    "yachtski": 60.5,
+    "yt_id": null
   },
   {
     "id": 923,
@@ -11073,7 +11878,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 61.0,
     "dave_score": 46.0,
-    "yachtski": 51.0
+    "yachtski": 51.0,
+    "yt_id": null
   },
   {
     "id": 924,
@@ -11085,7 +11891,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 66.0,
     "dave_score": 68.0,
-    "yachtski": 61.5
+    "yachtski": 61.5,
+    "yt_id": null
   },
   {
     "id": 925,
@@ -11097,7 +11904,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 42.0,
     "dave_score": 28.0,
-    "yachtski": 37.5
+    "yachtski": 37.5,
+    "yt_id": null
   },
   {
     "id": 926,
@@ -11109,7 +11917,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 38.0,
     "dave_score": 42.0,
-    "yachtski": 36.75
+    "yachtski": 36.75,
+    "yt_id": null
   },
   {
     "id": 927,
@@ -11121,7 +11930,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 70.0,
     "dave_score": 55.0,
-    "yachtski": 64.75
+    "yachtski": 64.75,
+    "yt_id": null
   },
   {
     "id": 928,
@@ -11133,7 +11943,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 72.0,
     "dave_score": 45.0,
-    "yachtski": 53.5
+    "yachtski": 53.5,
+    "yt_id": null
   },
   {
     "id": 929,
@@ -11145,7 +11956,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 78.0,
     "dave_score": 66.0,
-    "yachtski": 72.0
+    "yachtski": 72.0,
+    "yt_id": null
   },
   {
     "id": 930,
@@ -11157,7 +11969,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 62.0,
     "dave_score": 46.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 931,
@@ -11169,7 +11982,8 @@ const data = [
     "hunter_score": 74.0,
     "steve_score": 77.0,
     "dave_score": 85.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 932,
@@ -11181,7 +11995,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 72.0,
     "dave_score": 76.0,
-    "yachtski": 79.5
+    "yachtski": 79.5,
+    "yt_id": null
   },
   {
     "id": 933,
@@ -11193,7 +12008,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 51.0,
     "dave_score": 42.0,
-    "yachtski": 43.5
+    "yachtski": 43.5,
+    "yt_id": null
   },
   {
     "id": 934,
@@ -11205,7 +12021,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 53.0,
     "dave_score": 55.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 935,
@@ -11217,7 +12034,8 @@ const data = [
     "hunter_score": 55.0,
     "steve_score": 72.0,
     "dave_score": 68.0,
-    "yachtski": 65.75
+    "yachtski": 65.75,
+    "yt_id": null
   },
   {
     "id": 936,
@@ -11229,7 +12047,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 56.0,
     "dave_score": 55.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 937,
@@ -11241,7 +12060,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 61.0,
     "dave_score": 43.0,
-    "yachtski": 47.75
+    "yachtski": 47.75,
+    "yt_id": null
   },
   {
     "id": 938,
@@ -11253,7 +12073,8 @@ const data = [
     "hunter_score": 35.0,
     "steve_score": 51.0,
     "dave_score": 42.0,
-    "yachtski": 41.75
+    "yachtski": 41.75,
+    "yt_id": null
   },
   {
     "id": 939,
@@ -11265,7 +12086,8 @@ const data = [
     "hunter_score": 33.0,
     "steve_score": 50.0,
     "dave_score": 28.0,
-    "yachtski": 36.5
+    "yachtski": 36.5,
+    "yt_id": null
   },
   {
     "id": 940,
@@ -11277,7 +12099,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 45.0,
     "dave_score": 35.0,
-    "yachtski": 37.5
+    "yachtski": 37.5,
+    "yt_id": null
   },
   {
     "id": 941,
@@ -11289,7 +12112,8 @@ const data = [
     "hunter_score": 56.0,
     "steve_score": 69.0,
     "dave_score": 48.0,
-    "yachtski": 60.75
+    "yachtski": 60.75,
+    "yt_id": null
   },
   {
     "id": 942,
@@ -11301,7 +12125,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 91.0,
     "dave_score": 85.0,
-    "yachtski": 87.0
+    "yachtski": 87.0,
+    "yt_id": null
   },
   {
     "id": 943,
@@ -11313,7 +12138,8 @@ const data = [
     "hunter_score": 23.0,
     "steve_score": 37.0,
     "dave_score": 22.0,
-    "yachtski": 25.5
+    "yachtski": 25.5,
+    "yt_id": null
   },
   {
     "id": 944,
@@ -11325,7 +12151,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 47.0,
     "dave_score": 38.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 945,
@@ -11337,7 +12164,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 71.0,
     "dave_score": 58.0,
-    "yachtski": 66.75
+    "yachtski": 66.75,
+    "yt_id": null
   },
   {
     "id": 946,
@@ -11349,7 +12177,8 @@ const data = [
     "hunter_score": 5.0,
     "steve_score": 33.0,
     "dave_score": 18.0,
-    "yachtski": 22.75
+    "yachtski": 22.75,
+    "yt_id": null
   },
   {
     "id": 947,
@@ -11361,7 +12190,8 @@ const data = [
     "hunter_score": 69.0,
     "steve_score": 81.0,
     "dave_score": 79.0,
-    "yachtski": 78.25
+    "yachtski": 78.25,
+    "yt_id": null
   },
   {
     "id": 948,
@@ -11373,7 +12203,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 54.0,
     "dave_score": 45.0,
-    "yachtski": 49.75
+    "yachtski": 49.75,
+    "yt_id": null
   },
   {
     "id": 949,
@@ -11385,7 +12216,8 @@ const data = [
     "hunter_score": 44.0,
     "steve_score": 47.0,
     "dave_score": 41.0,
-    "yachtski": 44.75
+    "yachtski": 44.75,
+    "yt_id": null
   },
   {
     "id": 950,
@@ -11397,7 +12229,8 @@ const data = [
     "hunter_score": 28.0,
     "steve_score": 23.0,
     "dave_score": 25.0,
-    "yachtski": 23.5
+    "yachtski": 23.5,
+    "yt_id": null
   },
   {
     "id": 951,
@@ -11409,7 +12242,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 53.0,
     "dave_score": 53.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 952,
@@ -11421,7 +12255,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 67.0,
     "dave_score": 48.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 953,
@@ -11433,7 +12268,8 @@ const data = [
     "hunter_score": 79.0,
     "steve_score": 80.0,
     "dave_score": 77.0,
-    "yachtski": 80.5
+    "yachtski": 80.5,
+    "yt_id": null
   },
   {
     "id": 954,
@@ -11445,7 +12281,8 @@ const data = [
     "hunter_score": 60.0,
     "steve_score": 59.0,
     "dave_score": 64.0,
-    "yachtski": 61.75
+    "yachtski": 61.75,
+    "yt_id": null
   },
   {
     "id": 955,
@@ -11457,7 +12294,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 43.0,
     "dave_score": 35.0,
-    "yachtski": 39.75
+    "yachtski": 39.75,
+    "yt_id": null
   },
   {
     "id": 956,
@@ -11469,7 +12307,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 59.0,
     "dave_score": 42.0,
-    "yachtski": 48.0
+    "yachtski": 48.0,
+    "yt_id": null
   },
   {
     "id": 957,
@@ -11481,7 +12320,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 52.0,
     "dave_score": 40.0,
-    "yachtski": 44.5
+    "yachtski": 44.5,
+    "yt_id": null
   },
   {
     "id": 958,
@@ -11493,7 +12333,8 @@ const data = [
     "hunter_score": 57.0,
     "steve_score": 63.0,
     "dave_score": 60.0,
-    "yachtski": 59.75
+    "yachtski": 59.75,
+    "yt_id": null
   },
   {
     "id": 959,
@@ -11505,7 +12346,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 58.0,
     "dave_score": 48.0,
-    "yachtski": 52.0
+    "yachtski": 52.0,
+    "yt_id": null
   },
   {
     "id": 960,
@@ -11517,7 +12359,8 @@ const data = [
     "hunter_score": 58.0,
     "steve_score": 66.0,
     "dave_score": 63.0,
-    "yachtski": 63.0
+    "yachtski": 63.0,
+    "yt_id": null
   },
   {
     "id": 961,
@@ -11529,7 +12372,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 61.0,
     "dave_score": 55.0,
-    "yachtski": 59.0
+    "yachtski": 59.0,
+    "yt_id": null
   },
   {
     "id": 962,
@@ -11541,7 +12385,8 @@ const data = [
     "hunter_score": 82.0,
     "steve_score": 70.0,
     "dave_score": 71.0,
-    "yachtski": 76.0
+    "yachtski": 76.0,
+    "yt_id": null
   },
   {
     "id": 963,
@@ -11553,7 +12398,8 @@ const data = [
     "hunter_score": 45.0,
     "steve_score": 74.0,
     "dave_score": 49.0,
-    "yachtski": 54.25
+    "yachtski": 54.25,
+    "yt_id": null
   },
   {
     "id": 964,
@@ -11565,7 +12411,8 @@ const data = [
     "hunter_score": 80.0,
     "steve_score": 77.0,
     "dave_score": 78.0,
-    "yachtski": 77.75
+    "yachtski": 77.75,
+    "yt_id": null
   },
   {
     "id": 965,
@@ -11577,7 +12424,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 81.0,
     "dave_score": 58.0,
-    "yachtski": 68.0
+    "yachtski": 68.0,
+    "yt_id": null
   },
   {
     "id": 966,
@@ -11589,7 +12437,8 @@ const data = [
     "hunter_score": 67.0,
     "steve_score": 90.0,
     "dave_score": 64.0,
-    "yachtski": 72.75
+    "yachtski": 72.75,
+    "yt_id": null
   },
   {
     "id": 967,
@@ -11601,7 +12450,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 66.0,
     "dave_score": 45.0,
-    "yachtski": 56.0
+    "yachtski": 56.0,
+    "yt_id": null
   },
   {
     "id": 968,
@@ -11613,7 +12463,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 78.0,
     "dave_score": 48.0,
-    "yachtski": 58.25
+    "yachtski": 58.25,
+    "yt_id": null
   },
   {
     "id": 969,
@@ -11625,7 +12476,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 36.0,
     "dave_score": 42.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 970,
@@ -11637,7 +12489,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 28.0,
     "dave_score": 30.0,
-    "yachtski": 31.5
+    "yachtski": 31.5,
+    "yt_id": null
   },
   {
     "id": 971,
@@ -11649,7 +12502,8 @@ const data = [
     "hunter_score": 32.0,
     "steve_score": 34.0,
     "dave_score": 33.0,
-    "yachtski": 36.0
+    "yachtski": 36.0,
+    "yt_id": null
   },
   {
     "id": 972,
@@ -11661,7 +12515,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 82.0,
     "dave_score": 59.0,
-    "yachtski": 68.25
+    "yachtski": 68.25,
+    "yt_id": null
   },
   {
     "id": 973,
@@ -11673,7 +12528,8 @@ const data = [
     "hunter_score": 50.0,
     "steve_score": 52.0,
     "dave_score": 49.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 974,
@@ -11685,7 +12541,8 @@ const data = [
     "hunter_score": 21.0,
     "steve_score": 24.0,
     "dave_score": 25.0,
-    "yachtski": 26.25
+    "yachtski": 26.25,
+    "yt_id": null
   },
   {
     "id": 975,
@@ -11697,7 +12554,8 @@ const data = [
     "hunter_score": 19.0,
     "steve_score": 20.0,
     "dave_score": 17.0,
-    "yachtski": 17.75
+    "yachtski": 17.75,
+    "yt_id": null
   },
   {
     "id": 976,
@@ -11709,7 +12567,8 @@ const data = [
     "hunter_score": 20.0,
     "steve_score": 19.0,
     "dave_score": 22.0,
-    "yachtski": 23.0
+    "yachtski": 23.0,
+    "yt_id": null
   },
   {
     "id": 977,
@@ -11721,7 +12580,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 13.0,
     "dave_score": 8.0,
-    "yachtski": 13.0
+    "yachtski": 13.0,
+    "yt_id": null
   },
   {
     "id": 978,
@@ -11733,7 +12593,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 66.0,
     "dave_score": 57.0,
-    "yachtski": 58.5
+    "yachtski": 58.5,
+    "yt_id": null
   },
   {
     "id": 979,
@@ -11745,7 +12606,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 63.0,
     "dave_score": 57.0,
-    "yachtski": 57.5
+    "yachtski": 57.5,
+    "yt_id": null
   },
   {
     "id": 980,
@@ -11757,7 +12619,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 42.0,
     "dave_score": 38.0,
-    "yachtski": 39.0
+    "yachtski": 39.0,
+    "yt_id": null
   },
   {
     "id": 981,
@@ -11769,7 +12632,8 @@ const data = [
     "hunter_score": 40.0,
     "steve_score": 40.0,
     "dave_score": 38.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 982,
@@ -11781,7 +12645,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 65.0,
     "dave_score": 60.0,
-    "yachtski": 66.25
+    "yachtski": 66.25,
+    "yt_id": null
   },
   {
     "id": 983,
@@ -11793,7 +12658,8 @@ const data = [
     "hunter_score": 54.0,
     "steve_score": 48.0,
     "dave_score": 51.0,
-    "yachtski": 50.5
+    "yachtski": 50.5,
+    "yt_id": null
   },
   {
     "id": 984,
@@ -11805,7 +12671,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 39.0,
     "dave_score": 35.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 985,
@@ -11817,7 +12684,8 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 38.0,
     "dave_score": 48.0,
-    "yachtski": 46.75
+    "yachtski": 46.75,
+    "yt_id": null
   },
   {
     "id": 986,
@@ -11829,7 +12697,8 @@ const data = [
     "hunter_score": 6.0,
     "steve_score": 0.0,
     "dave_score": 10.0,
-    "yachtski": 6.5
+    "yachtski": 6.5,
+    "yt_id": null
   },
   {
     "id": 987,
@@ -11841,7 +12710,8 @@ const data = [
     "hunter_score": 25.0,
     "steve_score": 44.0,
     "dave_score": 18.0,
-    "yachtski": 31.5
+    "yachtski": 31.5,
+    "yt_id": null
   },
   {
     "id": 988,
@@ -11853,7 +12723,8 @@ const data = [
     "hunter_score": 31.0,
     "steve_score": 18.0,
     "dave_score": 38.0,
-    "yachtski": 28.0
+    "yachtski": 28.0,
+    "yt_id": null
   },
   {
     "id": 989,
@@ -11865,7 +12736,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 47.0,
     "dave_score": 38.0,
-    "yachtski": 41.75
+    "yachtski": 41.75,
+    "yt_id": null
   },
   {
     "id": 990,
@@ -11877,7 +12749,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 56.0,
     "dave_score": 55.0,
-    "yachtski": 55.75
+    "yachtski": 55.75,
+    "yt_id": null
   },
   {
     "id": 991,
@@ -11889,7 +12762,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 48.0,
     "dave_score": 50.0,
-    "yachtski": 48.0
+    "yachtski": 48.0,
+    "yt_id": null
   },
   {
     "id": 992,
@@ -11901,7 +12775,8 @@ const data = [
     "hunter_score": 83.0,
     "steve_score": 81.0,
     "dave_score": 79.0,
-    "yachtski": 83.125
+    "yachtski": 83.125,
+    "yt_id": null
   },
   {
     "id": 993,
@@ -11913,7 +12788,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 84.0,
     "dave_score": 67.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 994,
@@ -11925,7 +12801,8 @@ const data = [
     "hunter_score": 53.0,
     "steve_score": 48.0,
     "dave_score": 40.0,
-    "yachtski": 45.75
+    "yachtski": 45.75,
+    "yt_id": null
   },
   {
     "id": 995,
@@ -11937,7 +12814,8 @@ const data = [
     "hunter_score": 39.0,
     "steve_score": 40.0,
     "dave_score": 40.0,
-    "yachtski": 40.0
+    "yachtski": 40.0,
+    "yt_id": null
   },
   {
     "id": 996,
@@ -11949,7 +12827,8 @@ const data = [
     "hunter_score": 88.0,
     "steve_score": 78.0,
     "dave_score": 78.0,
-    "yachtski": 83.25
+    "yachtski": 83.25,
+    "yt_id": null
   },
   {
     "id": 997,
@@ -11961,7 +12840,8 @@ const data = [
     "hunter_score": 87.0,
     "steve_score": 82.0,
     "dave_score": 83.0,
-    "yachtski": 85.5
+    "yachtski": 85.5,
+    "yt_id": null
   },
   {
     "id": 998,
@@ -11973,7 +12853,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 39.0,
     "dave_score": 37.0,
-    "yachtski": 41.0
+    "yachtski": 41.0,
+    "yt_id": null
   },
   {
     "id": 999,
@@ -11985,7 +12866,8 @@ const data = [
     "hunter_score": 43.0,
     "steve_score": 35.0,
     "dave_score": 29.0,
-    "yachtski": 36.0
+    "yachtski": 36.0,
+    "yt_id": null
   },
   {
     "id": 1000,
@@ -11997,7 +12879,8 @@ const data = [
     "hunter_score": 84.0,
     "steve_score": 84.0,
     "dave_score": 84.0,
-    "yachtski": 82.25
+    "yachtski": 82.25,
+    "yt_id": null
   },
   {
     "id": 1001,
@@ -12009,7 +12892,8 @@ const data = [
     "hunter_score": 63.0,
     "steve_score": 59.0,
     "dave_score": 55.0,
-    "yachtski": 59.5
+    "yachtski": 59.5,
+    "yt_id": null
   },
   {
     "id": 1002,
@@ -12021,7 +12905,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 62.0,
     "dave_score": 77.0,
-    "yachtski": 68.75
+    "yachtski": 68.75,
+    "yt_id": null
   },
   {
     "id": 1003,
@@ -12033,7 +12918,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 43.0,
     "dave_score": 39.0,
-    "yachtski": 39.5
+    "yachtski": 39.5,
+    "yt_id": null
   },
   {
     "id": 1004,
@@ -12045,7 +12931,8 @@ const data = [
     "hunter_score": 77.0,
     "steve_score": 88.0,
     "dave_score": 73.0,
-    "yachtski": 77.5
+    "yachtski": 77.5,
+    "yt_id": null
   },
   {
     "id": 1005,
@@ -12057,7 +12944,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 51.0,
     "dave_score": 42.0,
-    "yachtski": 48.25
+    "yachtski": 48.25,
+    "yt_id": null
   },
   {
     "id": 1006,
@@ -12069,7 +12957,8 @@ const data = [
     "hunter_score": 85.0,
     "steve_score": 87.0,
     "dave_score": 83.0,
-    "yachtski": 84.25
+    "yachtski": 84.25,
+    "yt_id": null
   },
   {
     "id": 1007,
@@ -12081,7 +12970,8 @@ const data = [
     "hunter_score": 59.0,
     "steve_score": 64.0,
     "dave_score": 75.0,
-    "yachtski": 68.25
+    "yachtski": 68.25,
+    "yt_id": null
   },
   {
     "id": 1008,
@@ -12093,7 +12983,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 54.0,
     "dave_score": 45.0,
-    "yachtski": 49.0
+    "yachtski": 49.0,
+    "yt_id": null
   },
   {
     "id": 1009,
@@ -12105,7 +12996,8 @@ const data = [
     "hunter_score": 62.0,
     "steve_score": 71.0,
     "dave_score": 68.0,
-    "yachtski": 68.75
+    "yachtski": 68.75,
+    "yt_id": null
   },
   {
     "id": 1010,
@@ -12117,7 +13009,8 @@ const data = [
     "hunter_score": 61.0,
     "steve_score": 73.0,
     "dave_score": 55.0,
-    "yachtski": 62.125
+    "yachtski": 62.125,
+    "yt_id": null
   },
   {
     "id": 1011,
@@ -12129,7 +13022,8 @@ const data = [
     "hunter_score": 64.0,
     "steve_score": 72.0,
     "dave_score": 67.0,
-    "yachtski": 70.0
+    "yachtski": 70.0,
+    "yt_id": null
   },
   {
     "id": 1012,
@@ -12141,7 +13035,8 @@ const data = [
     "hunter_score": 73.0,
     "steve_score": 74.0,
     "dave_score": 65.0,
-    "yachtski": 70.0
+    "yachtski": 70.0,
+    "yt_id": null
   },
   {
     "id": 1013,
@@ -12153,7 +13048,8 @@ const data = [
     "hunter_score": 71.0,
     "steve_score": 66.0,
     "dave_score": 68.0,
-    "yachtski": 69.5
+    "yachtski": 69.5,
+    "yt_id": null
   },
   {
     "id": 1014,
@@ -12165,7 +13061,8 @@ const data = [
     "hunter_score": 86.0,
     "steve_score": 85.0,
     "dave_score": 81.0,
-    "yachtski": 85.25
+    "yachtski": 85.25,
+    "yt_id": null
   },
   {
     "id": 1015,
@@ -12177,7 +13074,8 @@ const data = [
     "hunter_score": 52.0,
     "steve_score": 47.0,
     "dave_score": 46.0,
-    "yachtski": 46.25
+    "yachtski": 46.25,
+    "yt_id": null
   },
   {
     "id": 1016,
@@ -12189,7 +13087,8 @@ const data = [
     "hunter_score": 51.0,
     "steve_score": 52.0,
     "dave_score": 57.0,
-    "yachtski": 52.75
+    "yachtski": 52.75,
+    "yt_id": null
   },
   {
     "id": 1017,
@@ -12201,7 +13100,8 @@ const data = [
     "hunter_score": 42.0,
     "steve_score": 46.0,
     "dave_score": 38.0,
-    "yachtski": 41.5
+    "yachtski": 41.5,
+    "yt_id": null
   },
   {
     "id": 1018,
@@ -12213,7 +13113,8 @@ const data = [
     "hunter_score": 48.0,
     "steve_score": 56.0,
     "dave_score": 42.0,
-    "yachtski": 48.75
+    "yachtski": 48.75,
+    "yt_id": null
   },
   {
     "id": 1019,
@@ -12225,7 +13126,8 @@ const data = [
     "hunter_score": 38.0,
     "steve_score": 57.0,
     "dave_score": 35.0,
-    "yachtski": 42.0
+    "yachtski": 42.0,
+    "yt_id": null
   },
   {
     "id": 1020,
@@ -12237,7 +13139,8 @@ const data = [
     "hunter_score": 47.0,
     "steve_score": 48.0,
     "dave_score": 38.0,
-    "yachtski": 43.25
+    "yachtski": 43.25,
+    "yt_id": null
   },
   {
     "id": 1021,
@@ -12249,7 +13152,8 @@ const data = [
     "hunter_score": 90.0,
     "steve_score": 90.0,
     "dave_score": 92.0,
-    "yachtski": 90.5
+    "yachtski": 90.5,
+    "yt_id": null
   },
   {
     "id": 1022,
@@ -12261,7 +13165,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 42.0,
     "dave_score": 38.0,
-    "yachtski": 39.0
+    "yachtski": 39.0,
+    "yt_id": null
   },
   {
     "id": 1023,
@@ -12273,7 +13178,8 @@ const data = [
     "hunter_score": 41.0,
     "steve_score": 45.0,
     "dave_score": 38.0,
-    "yachtski": 40.5
+    "yachtski": 40.5,
+    "yt_id": null
   },
   {
     "id": 1024,
@@ -12285,7 +13191,8 @@ const data = [
     "hunter_score": 29.0,
     "steve_score": 48.0,
     "dave_score": 32.0,
-    "yachtski": 36.75
+    "yachtski": 36.75,
+    "yt_id": null
   },
   {
     "id": 1025,
@@ -12297,6 +13204,891 @@ const data = [
     "hunter_score": 49.0,
     "steve_score": 52.0,
     "dave_score": 49.0,
-    "yachtski": 49.5
+    "yachtski": 49.5,
+    "yt_id": null
+  },
+  {
+    "id": 1026,
+    "title": "If There's a Way",
+    "artist": "Waters",
+    "year": 1977,
+    "episode": "BYR40",
+    "jd_score": 88.0,
+    "hunter_score": 91.0,
+    "steve_score": 94.0,
+    "dave_score": 90.0,
+    "yachtski": 90.75,
+    "yt_id": null
+  },
+  {
+    "id": 1027,
+    "title": "What Do You Want",
+    "artist": "Dr. Hook",
+    "year": 1979,
+    "episode": "YONP15",
+    "jd_score": 39.0,
+    "hunter_score": 41.0,
+    "steve_score": 38.0,
+    "dave_score": 28.0,
+    "yachtski": 36.5,
+    "yt_id": null
+  },
+  {
+    "id": 1028,
+    "title": "The Way I Feel ",
+    "artist": "Patti Austin",
+    "year": 1981,
+    "episode": "YONP15",
+    "jd_score": 90.0,
+    "hunter_score": 79.0,
+    "steve_score": 85.0,
+    "dave_score": 85.0,
+    "yachtski": 84.75,
+    "yt_id": null
+  },
+  {
+    "id": 1029,
+    "title": "Bushwalkin'",
+    "artist": "Stylus",
+    "year": 1978,
+    "episode": "YONP15",
+    "jd_score": 43.0,
+    "hunter_score": 47.0,
+    "steve_score": 56.0,
+    "dave_score": 48.0,
+    "yachtski": 48.5,
+    "yt_id": null
+  },
+  {
+    "id": 1030,
+    "title": "I'm No Stranger",
+    "artist": "Robbie Dupree",
+    "year": 1980,
+    "episode": "YONP15",
+    "jd_score": 77.0,
+    "hunter_score": 73.0,
+    "steve_score": 78.0,
+    "dave_score": 77.0,
+    "yachtski": 76.25,
+    "yt_id": null
+  },
+  {
+    "id": 1031,
+    "title": "Take Back My Love",
+    "artist": "The Gene Dunlap Band",
+    "year": 1983,
+    "episode": "YONP15",
+    "jd_score": 40.0,
+    "hunter_score": 45.0,
+    "steve_score": 35.0,
+    "dave_score": 38.0,
+    "yachtski": 39.5,
+    "yt_id": null
+  },
+  {
+    "id": 1032,
+    "title": "Appaloosa",
+    "artist": "Gino Vannelli",
+    "year": 1978,
+    "episode": "YONP15",
+    "jd_score": 45.0,
+    "hunter_score": 51.0,
+    "steve_score": 62.0,
+    "dave_score": 42.0,
+    "yachtski": 50.0,
+    "yt_id": null
+  },
+  {
+    "id": 1033,
+    "title": "Lady In My Life",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "episode": "YONP15",
+    "jd_score": 85.0,
+    "hunter_score": 59.0,
+    "steve_score": 76.0,
+    "dave_score": 63.0,
+    "yachtski": 70.75,
+    "yt_id": null
+  },
+  {
+    "id": 1034,
+    "title": "Tracey",
+    "artist": "Dane Donohue",
+    "year": 1978,
+    "episode": "YONP15",
+    "jd_score": 75.0,
+    "hunter_score": 63.0,
+    "steve_score": 71.0,
+    "dave_score": 73.0,
+    "yachtski": 70.5,
+    "yt_id": null
+  },
+  {
+    "id": 1035,
+    "title": "Run Run Run ",
+    "artist": "Sirens of Lesbos",
+    "year": 2023,
+    "episode": "YONP15",
+    "jd_score": 40.0,
+    "hunter_score": 27.0,
+    "steve_score": 25.0,
+    "dave_score": 31.0,
+    "yachtski": 30.75,
+    "yt_id": null
+  },
+  {
+    "id": 1036,
+    "title": "Movin' On",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 82.0,
+    "hunter_score": 78.0,
+    "steve_score": 86.0,
+    "dave_score": 80.0,
+    "yachtski": 81.5,
+    "yt_id": null
+  },
+  {
+    "id": 1037,
+    "title": "Starting Again",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 45.0,
+    "hunter_score": 47.0,
+    "steve_score": 56.0,
+    "dave_score": 42.0,
+    "yachtski": 47.5,
+    "yt_id": null
+  },
+  {
+    "id": 1038,
+    "title": "Just For You",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 42.0,
+    "hunter_score": 43.0,
+    "steve_score": 42.0,
+    "dave_score": 41.0,
+    "yachtski": 42.0,
+    "yt_id": null
+  },
+  {
+    "id": 1039,
+    "title": "Every Little Step I Take",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 75.0,
+    "hunter_score": 54.0,
+    "steve_score": 78.0,
+    "dave_score": 64.0,
+    "yachtski": 67.75,
+    "yt_id": null
+  },
+  {
+    "id": 1040,
+    "title": "I Want You For Myself",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 38.0,
+    "hunter_score": 39.0,
+    "steve_score": 39.0,
+    "dave_score": 40.0,
+    "yachtski": 39.0,
+    "yt_id": null
+  },
+  {
+    "id": 1041,
+    "title": "Say That You Will",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 69.0,
+    "hunter_score": 61.0,
+    "steve_score": 87.0,
+    "dave_score": 64.0,
+    "yachtski": 70.25,
+    "yt_id": null
+  },
+  {
+    "id": 1042,
+    "title": "Sunrise",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 66.0,
+    "hunter_score": 91.0,
+    "steve_score": 83.0,
+    "dave_score": 73.0,
+    "yachtski": 78.25,
+    "yt_id": null
+  },
+  {
+    "id": 1043,
+    "title": "Straight From The Heart",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 85.0,
+    "hunter_score": 78.0,
+    "steve_score": 93.0,
+    "dave_score": 75.0,
+    "yachtski": 82.75,
+    "yt_id": null
+  },
+  {
+    "id": 1044,
+    "title": "Touch And Go",
+    "artist": "George Duke, Stanley Clarke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 67.0,
+    "hunter_score": 82.0,
+    "steve_score": 62.0,
+    "dave_score": 68.0,
+    "yachtski": 69.75,
+    "yt_id": null
+  },
+  {
+    "id": 1045,
+    "title": "Finding My Way",
+    "artist": "George Duke, Stanley Clarke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 39.0,
+    "hunter_score": 51.0,
+    "steve_score": 46.0,
+    "dave_score": 29.0,
+    "yachtski": 41.25,
+    "yt_id": null
+  },
+  {
+    "id": 1046,
+    "title": "I Will Always Be Your Friend",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP16",
+    "jd_score": 88.0,
+    "hunter_score": 81.0,
+    "steve_score": 88.0,
+    "dave_score": 81.0,
+    "yachtski": 84.5,
+    "yt_id": null
+  },
+  {
+    "id": 1047,
+    "title": "Everything Must Go ",
+    "artist": "Steely Dan ",
+    "year": 2003,
+    "episode": "YONP17",
+    "jd_score": 49.0,
+    "hunter_score": 44.0,
+    "steve_score": 40.0,
+    "dave_score": 38.0,
+    "yachtski": 42.75,
+    "yt_id": null
+  },
+  {
+    "id": 1048,
+    "title": "Morgana Jones",
+    "artist": "Kenny Rogers",
+    "year": 1978,
+    "episode": "YONP17",
+    "jd_score": 48.0,
+    "hunter_score": 48.0,
+    "steve_score": 44.0,
+    "dave_score": 40.0,
+    "yachtski": 45.0,
+    "yt_id": null
+  },
+  {
+    "id": 1049,
+    "title": "Like My Lady Love",
+    "artist": "Chocolate Milk",
+    "year": 1981,
+    "episode": "YONP17",
+    "jd_score": 49.0,
+    "hunter_score": 42.0,
+    "steve_score": 41.0,
+    "dave_score": 43.0,
+    "yachtski": 43.75,
+    "yt_id": null
+  },
+  {
+    "id": 1050,
+    "title": "The Stars Didn't Show",
+    "artist": "10CC",
+    "year": 1992,
+    "episode": "YONP17",
+    "jd_score": 25.0,
+    "hunter_score": 38.0,
+    "steve_score": 34.0,
+    "dave_score": 26.0,
+    "yachtski": 30.75,
+    "yt_id": null
+  },
+  {
+    "id": 1051,
+    "title": "Sure You Know Something",
+    "artist": "Kiss",
+    "year": 1979,
+    "episode": "YONP17",
+    "jd_score": 48.0,
+    "hunter_score": 31.0,
+    "steve_score": 28.0,
+    "dave_score": 30.0,
+    "yachtski": 34.25,
+    "yt_id": null
+  },
+  {
+    "id": 1052,
+    "title": "Everything's Coming Up Roses ",
+    "artist": "Eddie Murphy",
+    "year": 1985,
+    "episode": "YONP17",
+    "jd_score": 19.0,
+    "hunter_score": 25.0,
+    "steve_score": 24.0,
+    "dave_score": 18.0,
+    "yachtski": 21.5,
+    "yt_id": null
+  },
+  {
+    "id": 1053,
+    "title": "Two Rights ",
+    "artist": "Allman Brothers Band",
+    "year": 1981,
+    "episode": "YONP17",
+    "jd_score": 65.0,
+    "hunter_score": 59.0,
+    "steve_score": 61.0,
+    "dave_score": 56.0,
+    "yachtski": 60.25,
+    "yt_id": null
+  },
+  {
+    "id": 1054,
+    "title": "Straight From The Heart",
+    "artist": "Allman Brothers Band",
+    "year": 1981,
+    "episode": "YONP17",
+    "jd_score": 65.0,
+    "hunter_score": 57.0,
+    "steve_score": 60.0,
+    "dave_score": 57.0,
+    "yachtski": 59.75,
+    "yt_id": null
+  },
+  {
+    "id": 1055,
+    "title": "Don't Stay Away",
+    "artist": "Leon Ware",
+    "year": 1981,
+    "episode": "YONP17",
+    "jd_score": 49.0,
+    "hunter_score": 51.0,
+    "steve_score": 53.0,
+    "dave_score": 50.0,
+    "yachtski": 50.75,
+    "yt_id": null
+  },
+  {
+    "id": 1056,
+    "title": "Shine On",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 65.0,
+    "hunter_score": 45.0,
+    "steve_score": 80.0,
+    "dave_score": 47.0,
+    "yachtski": 59.25,
+    "yt_id": null
+  },
+  {
+    "id": 1057,
+    "title": "Dream On",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 50.0,
+    "hunter_score": 45.0,
+    "steve_score": 54.0,
+    "dave_score": 40.0,
+    "yachtski": 47.25,
+    "yt_id": null
+  },
+  {
+    "id": 1058,
+    "title": "Framed",
+    "artist": "George Duke",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 66.0,
+    "hunter_score": 49.0,
+    "steve_score": 53.0,
+    "dave_score": 50.0,
+    "yachtski": 54.5,
+    "yt_id": null
+  },
+  {
+    "id": 1059,
+    "title": "Love Lock",
+    "artist": "Flora Purim",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 51.0,
+    "hunter_score": 39.0,
+    "steve_score": 44.0,
+    "dave_score": 32.0,
+    "yachtski": 41.5,
+    "yt_id": null
+  },
+  {
+    "id": 1060,
+    "title": "Don't Say It (If You Don't Mean It)",
+    "artist": "Dee Dee Bridgewater",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 52.0,
+    "hunter_score": 29.0,
+    "steve_score": 42.0,
+    "dave_score": 30.0,
+    "yachtski": 38.25,
+    "yt_id": null
+  },
+  {
+    "id": 1061,
+    "title": "Bad For Me",
+    "artist": "Dee Dee Bridgewater",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 42.0,
+    "hunter_score": 34.0,
+    "steve_score": 37.0,
+    "dave_score": 25.0,
+    "yachtski": 34.5,
+    "yt_id": null
+  },
+  {
+    "id": 1062,
+    "title": "Rescue Me",
+    "artist": "Taste of Honey",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 69.0,
+    "hunter_score": 52.0,
+    "steve_score": 67.0,
+    "dave_score": 55.0,
+    "yachtski": 60.75,
+    "yt_id": null
+  },
+  {
+    "id": 1063,
+    "title": "Love Him, Love Her",
+    "artist": "Seawind",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 95.0,
+    "hunter_score": 90.0,
+    "steve_score": 91.0,
+    "dave_score": 85.0,
+    "yachtski": 90.25,
+    "yt_id": null
+  },
+  {
+    "id": 1064,
+    "title": "I Really Don't Need No Light",
+    "artist": "Jeffrey Osborne",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 82.0,
+    "hunter_score": 54.0,
+    "steve_score": 91.0,
+    "dave_score": 75.0,
+    "yachtski": 75.5,
+    "yt_id": null
+  },
+  {
+    "id": 1065,
+    "title": "Heaven In Your Eyes",
+    "artist": "Deniece Williams",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 74.0,
+    "hunter_score": 66.0,
+    "steve_score": 73.0,
+    "dave_score": 62.0,
+    "yachtski": 68.75,
+    "yt_id": null
+  },
+  {
+    "id": 1066,
+    "title": "I Know",
+    "artist": "Philip Bailey",
+    "year": null,
+    "episode": "YONP18",
+    "jd_score": 60.0,
+    "hunter_score": 67.0,
+    "steve_score": 52.0,
+    "dave_score": 60.0,
+    "yachtski": 59.75,
+    "yt_id": null
+  },
+  {
+    "id": 1067,
+    "title": "Archer",
+    "artist": "Steve Archer",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 50.0,
+    "hunter_score": 54.0,
+    "steve_score": 46.0,
+    "dave_score": 47.0,
+    "yachtski": 49.25,
+    "yt_id": null
+  },
+  {
+    "id": 1068,
+    "title": "Whitecaps",
+    "artist": "3rdEyeGirl",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 11.0,
+    "hunter_score": 6.0,
+    "steve_score": 22.0,
+    "dave_score": 20.0,
+    "yachtski": 14.75,
+    "yt_id": null
+  },
+  {
+    "id": 1069,
+    "title": "Golden Girl",
+    "artist": "Jakata",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 50.0,
+    "hunter_score": 51.0,
+    "steve_score": 53.0,
+    "dave_score": 46.0,
+    "yachtski": 50.0,
+    "yt_id": null
+  },
+  {
+    "id": 1070,
+    "title": "Fools",
+    "artist": "Drugdealer",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 10.0,
+    "hunter_score": 41.0,
+    "steve_score": 38.0,
+    "dave_score": 22.0,
+    "yachtski": 27.75,
+    "yt_id": null
+  },
+  {
+    "id": 1071,
+    "title": "Curves",
+    "artist": "Night Flight Orchestra",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 65.0,
+    "hunter_score": 86.0,
+    "steve_score": 67.0,
+    "dave_score": 72.0,
+    "yachtski": 72.5,
+    "yt_id": null
+  },
+  {
+    "id": 1072,
+    "title": "Into the Night",
+    "artist": "Tamir",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 80.0,
+    "hunter_score": 53.0,
+    "steve_score": 41.0,
+    "dave_score": 28.0,
+    "yachtski": 50.5,
+    "yt_id": null
+  },
+  {
+    "id": 1073,
+    "title": "The Writing on the Wall",
+    "artist": "Avalon",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 59.0,
+    "hunter_score": 76.0,
+    "steve_score": 58.0,
+    "dave_score": 67.0,
+    "yachtski": 65.0,
+    "yt_id": null
+  },
+  {
+    "id": 1074,
+    "title": "Make It With You",
+    "artist": "Bread",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 11.0,
+    "hunter_score": 12.0,
+    "steve_score": 11.0,
+    "dave_score": 8.0,
+    "yachtski": 10.5,
+    "yt_id": null
+  },
+  {
+    "id": 1075,
+    "title": "Evidence of Love",
+    "artist": "Gregg Allman Band",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 43.0,
+    "hunter_score": 46.0,
+    "steve_score": 34.0,
+    "dave_score": 38.0,
+    "yachtski": 40.25,
+    "yt_id": null
+  },
+  {
+    "id": 1076,
+    "title": "Trying To Get To You",
+    "artist": "Eugene Record",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 35.5,
+    "hunter_score": 36.0,
+    "steve_score": 27.0,
+    "dave_score": 35.0,
+    "yachtski": 33.375,
+    "yt_id": null
+  },
+  {
+    "id": 1077,
+    "title": "Tell-Tale Eyes",
+    "artist": "Eric Tagg",
+    "year": 1975,
+    "episode": "YONP20",
+    "jd_score": 49.0,
+    "hunter_score": 43.0,
+    "steve_score": 49.0,
+    "dave_score": 47.0,
+    "yachtski": 47.0,
+    "yt_id": null
+  },
+  {
+    "id": 1078,
+    "title": "Love to Love You",
+    "artist": "Eric Tagg",
+    "year": 1975,
+    "episode": "YONP20",
+    "jd_score": 49.5,
+    "hunter_score": 47.0,
+    "steve_score": 49.5,
+    "dave_score": 42.0,
+    "yachtski": 47.0,
+    "yt_id": null
+  },
+  {
+    "id": 1079,
+    "title": "Got To Be Lovin You",
+    "artist": "Eric Tagg",
+    "year": 1977,
+    "episode": "YONP20",
+    "jd_score": 43.0,
+    "hunter_score": 48.0,
+    "steve_score": 50.0,
+    "dave_score": 40.0,
+    "yachtski": 45.25,
+    "yt_id": null
+  },
+  {
+    "id": 1080,
+    "title": "I've Got the Melody (Deep in my Heart)",
+    "artist": "Kenny Loggins with Patti Austin",
+    "year": 1977,
+    "episode": "YONP20",
+    "jd_score": 50.0,
+    "hunter_score": 68.0,
+    "steve_score": 79.0,
+    "dave_score": 55.0,
+    "yachtski": 63.0,
+    "yt_id": null
+  },
+  {
+    "id": 1081,
+    "title": "Who What When Where Why",
+    "artist": "Manhattan Transfer",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 44.0,
+    "hunter_score": 49.75,
+    "steve_score": 51.0,
+    "dave_score": 43.75,
+    "yachtski": 47.125,
+    "yt_id": null
+  },
+  {
+    "id": 1082,
+    "title": "Rio",
+    "artist": "Bliss Band",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 45.0,
+    "hunter_score": 48.0,
+    "steve_score": 69.0,
+    "dave_score": 47.0,
+    "yachtski": 52.25,
+    "yt_id": null
+  },
+  {
+    "id": 1083,
+    "title": "Uptown Downtown",
+    "artist": "Sea Level",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 58.0,
+    "hunter_score": 46.0,
+    "steve_score": 71.0,
+    "dave_score": 52.0,
+    "yachtski": 56.75,
+    "yt_id": null
+  },
+  {
+    "id": 1084,
+    "title": "King Grand ",
+    "artist": "Sea Level",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 55.0,
+    "hunter_score": 44.0,
+    "steve_score": 65.0,
+    "dave_score": 47.0,
+    "yachtski": 52.75,
+    "yt_id": null
+  },
+  {
+    "id": 1,
+    "title": "Prima Donna",
+    "artist": "Alan Sorrenti",
+    "year": 1983,
+    "episode": "BDRC?",
+    "jd_score": 49.0,
+    "hunter_score": 59.0,
+    "steve_score": 58.0,
+    "dave_score": 45.0,
+    "yachtski": 52.75,
+    "yt_id": "FBUlPqaVj88"
+  },
+  {
+    "id": 5,
+    "title": "Cannonball Run Theme",
+    "artist": "Chuck Mangione",
+    "year": 1982,
+    "episode": "BYR02",
+    "jd_score": 32.0,
+    "hunter_score": 39.0,
+    "steve_score": 33.0,
+    "dave_score": 38.0,
+    "yachtski": 35.5,
+    "yt_id": "DqWyI8CTzzA"
+  },
+  {
+    "id": 17,
+    "title": "No Looking Back",
+    "artist": "Michael McDonald",
+    "year": 1985,
+    "episode": "BYR10",
+    "jd_score": 60.0,
+    "hunter_score": 61.0,
+    "steve_score": 60.0,
+    "dave_score": 67.0,
+    "yachtski": 62.0,
+    "yt_id": "8IhNqocWrxk"
+  },
+  {
+    "id": 31,
+    "title": "Look What You've Done to Me",
+    "artist": "Boz Scaggs",
+    "year": 1980,
+    "episode": "BYR23",
+    "jd_score": 51.0,
+    "hunter_score": 50.0,
+    "steve_score": 53.0,
+    "dave_score": 58.0,
+    "yachtski": 53.0,
+    "yt_id": "hWrbelCfMvc"
+  },
+  {
+    "id": 43,
+    "title": "Something Special",
+    "artist": "Quincy Jones w/ Patti Austin",
+    "year": 1981,
+    "episode": "BYR40",
+    "jd_score": 93.0,
+    "hunter_score": 92.0,
+    "steve_score": 91.0,
+    "dave_score": 94.0,
+    "yachtski": 92.5,
+    "yt_id": "YZLQ80L2f9c"
+  },
+  {
+    "id": 57,
+    "title": "Breezin'",
+    "artist": "George Benson & Al Jarreau",
+    "year": 2006,
+    "episode": "BYR52",
+    "jd_score": 45.0,
+    "hunter_score": 51.0,
+    "steve_score": 38.0,
+    "dave_score": 42.0,
+    "yachtski": 44.0,
+    "yt_id": "G1QjyskJ9jw"
+  },
+  {
+    "id": 63,
+    "title": "Fool In Love With You",
+    "artist": "Jim Photoglo",
+    "year": 1981,
+    "episode": "BYR57",
+    "jd_score": 85.0,
+    "hunter_score": 90.0,
+    "steve_score": 89.0,
+    "dave_score": 89.0,
+    "yachtski": 88.25,
+    "yt_id": "3s3KXR43rvQ"
+  },
+  {
+    "id": 75,
+    "title": "Nail Me to the Wall",
+    "artist": "Sanford-Townsend Band",
+    "year": 1979,
+    "episode": "BYR60",
+    "jd_score": 55.0,
+    "hunter_score": 53.0,
+    "steve_score": 52.0,
+    "dave_score": 62.0,
+    "yachtski": 55.5,
+    "yt_id": "4lh8CgaRFfA"
+  },
+  {
+    "id": 88,
+    "title": "I Won't Let Go",
+    "artist": "Brooklyn Dreams",
+    "year": 1980,
+    "episode": "BYR70",
+    "jd_score": 62.0,
+    "hunter_score": 87.0,
+    "steve_score": 72.0,
+    "dave_score": 81.0,
+    "yachtski": 75.5,
+    "yt_id": "4fqPcnuVPR8"
   }
 ]
