@@ -160,6 +160,10 @@ header > div {
   text-align: right;
 }
 
+.song-list a {
+  color: #343434;
+}
+
 .song-row {
   display: grid;
   grid-template-columns: minmax(68px,1fr) 6fr repeat(6,minmax(58px,1fr));
