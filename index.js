@@ -171,24 +171,22 @@ function createRow(song) {
   const titleColumn = document.createElement('div');
   titleColumn.className = 'left-align';
 
-  // TODO: uncomment this when the youtube links are fixed
-  // if (song.yt_id) {
-  //   const link = document.createElement('a');
-  //
-  //   var a = document.createElement('a');
-  //   var linkText = document.createTextNode(song.artist + ' - ' + song.title);
-  //   a.appendChild(linkText);
-  //   a.title = song.artist + ' - ' + song.title;
-  //   a.href = `https://www.youtube.com/watch?v=${song.yt_id}`;
-  //   a.target = '_blank';
-  //
-  //   titleColumn.appendChild(a);
-  // }
-  // else {
-  //   titleColumn.textContent = song.artist + ' - ' + song.title;
-  // }
+  if (song.yt_id) {
+    const link = document.createElement('a');
 
-  titleColumn.textContent = song.artist + ' - ' + song.title;
+    var a = document.createElement('a');
+    var linkText = document.createTextNode(song.artist + ' - ' + song.title);
+    a.appendChild(linkText);
+    a.title = song.artist + ' - ' + song.title;
+    a.href = `https://www.youtube.com/watch?v=${song.yt_id}`;
+    a.target = '_blank';
+
+    titleColumn.appendChild(a);
+  }
+  else {
+    titleColumn.textContent = song.artist + ' - ' + song.title;
+  }
+
   row.appendChild(titleColumn);
 
   // Add year column
