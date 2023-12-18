@@ -1,18 +1,5 @@
 const data = [
   {
-    "id": 1,
-    "title": "Prima Donna",
-    "artist": "Alan Sorrenti",
-    "year": 1983,
-    "episode": "BDRC?",
-    "jd_score": 49.0,
-    "hunter_score": 59.0,
-    "steve_score": 58.0,
-    "dave_score": 45.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 5,
     "title": "Cannonball Run Theme",
     "artist": "Chuck Mangione",
@@ -36,19 +23,6 @@ const data = [
     "steve_score": 50.0,
     "dave_score": 30.0,
     "yachtski": 39.5,
-    "yt_id": null
-  },
-  {
-    "id": 11,
-    "title": "Love Will Keep Us Together",
-    "artist": "Captain & Tennille",
-    "year": 1975,
-    "episode": "BYR10",
-    "jd_score": 59.0,
-    "hunter_score": 45.0,
-    "steve_score": 51.0,
-    "dave_score": 52.0,
-    "yachtski": 51.75,
     "yt_id": null
   },
   {
@@ -182,58 +156,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 26,
-    "title": "Down in Cancun",
-    "artist": "Victor Feldman",
-    "year": 1982,
-    "episode": "BYR14",
-    "jd_score": 47.0,
-    "hunter_score": 52.0,
-    "steve_score": 52.0,
-    "dave_score": 48.0,
-    "yachtski": 49.75,
-    "yt_id": null
-  },
-  {
-    "id": 31,
-    "title": "Look What You've Done to Me",
-    "artist": "Boz Scaggs",
-    "year": 1980,
-    "episode": "BYR23",
-    "jd_score": 51.0,
-    "hunter_score": 50.0,
-    "steve_score": 53.0,
-    "dave_score": 58.0,
-    "yachtski": 53.0,
-    "yt_id": null
-  },
-  {
-    "id": 35,
-    "title": "Hold On To Love",
-    "artist": "Jon Anderson",
-    "year": 1988,
-    "episode": "BYR33",
-    "jd_score": 53.0,
-    "hunter_score": 46.0,
-    "steve_score": 48.0,
-    "dave_score": 49.0,
-    "yachtski": 49.0,
-    "yt_id": null
-  },
-  {
-    "id": 37,
-    "title": "Scene 29",
-    "artist": "JaR",
-    "year": 2008,
-    "episode": "BYR37",
-    "jd_score": 48.0,
-    "hunter_score": 52.0,
-    "steve_score": 52.0,
-    "dave_score": 48.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
     "id": 45,
     "title": "If There's a Way",
     "artist": "Waters",
@@ -244,19 +166,6 @@ const data = [
     "steve_score": 0.0,
     "dave_score": 0.0,
     "yachtski": 0.0,
-    "yt_id": null
-  },
-  {
-    "id": 48,
-    "title": "Easy Lover",
-    "artist": "Philip Bailey & Phil Collins",
-    "year": 1984,
-    "episode": "BYR43",
-    "jd_score": 55.0,
-    "hunter_score": 35.0,
-    "steve_score": 41.0,
-    "dave_score": 70.0,
-    "yachtski": 50.25,
     "yt_id": null
   },
   {
@@ -676,6 +585,97 @@ const data = [
     "yt_id": "UfZWp-hGCdA"
   },
   {
+    "id": 31,
+    "title": "Look What You've Done to Me",
+    "artist": "Boz Scaggs",
+    "year": 1980,
+    "episode": "BYR23",
+    "jd_score": 51.0,
+    "hunter_score": 50.0,
+    "steve_score": 53.0,
+    "dave_score": 58.0,
+    "yachtski": 53.0,
+    "yt_id": "hWrbelCfMvc"
+  },
+  {
+    "id": 1,
+    "title": "Prima Donna",
+    "artist": "Alan Sorrenti",
+    "year": 1983,
+    "episode": "BDRC?",
+    "jd_score": 49.0,
+    "hunter_score": 59.0,
+    "steve_score": 58.0,
+    "dave_score": 45.0,
+    "yachtski": 52.75,
+    "yt_id": "bvKRqlAVNQI"
+  },
+  {
+    "id": 11,
+    "title": "Love Will Keep Us Together",
+    "artist": "Captain & Tennille",
+    "year": 1975,
+    "episode": "BYR10",
+    "jd_score": 59.0,
+    "hunter_score": 45.0,
+    "steve_score": 51.0,
+    "dave_score": 52.0,
+    "yachtski": 51.75,
+    "yt_id": "aFFxT9zdT78"
+  },
+  {
+    "id": 48,
+    "title": "Easy Lover",
+    "artist": "Philip Bailey & Phil Collins",
+    "year": 1984,
+    "episode": "BYR43",
+    "jd_score": 55.0,
+    "hunter_score": 35.0,
+    "steve_score": 41.0,
+    "dave_score": 70.0,
+    "yachtski": 50.25,
+    "yt_id": "JkRKT6T0QLg"
+  },
+  {
+    "id": 37,
+    "title": "Scene 29",
+    "artist": "JaR",
+    "year": 2008,
+    "episode": "BYR37",
+    "jd_score": 48.0,
+    "hunter_score": 52.0,
+    "steve_score": 52.0,
+    "dave_score": 48.0,
+    "yachtski": 50.0,
+    "yt_id": "wRTX_w-7k_Y"
+  },
+  {
+    "id": 26,
+    "title": "Down in Cancun",
+    "artist": "Victor Feldman",
+    "year": 1982,
+    "episode": "BYR14",
+    "jd_score": 47.0,
+    "hunter_score": 52.0,
+    "steve_score": 52.0,
+    "dave_score": 48.0,
+    "yachtski": 49.75,
+    "yt_id": "HfGZmyMx_p8"
+  },
+  {
+    "id": 35,
+    "title": "Hold On To Love",
+    "artist": "Jon Anderson",
+    "year": 1988,
+    "episode": "BYR33",
+    "jd_score": 53.0,
+    "hunter_score": 46.0,
+    "steve_score": 48.0,
+    "dave_score": 49.0,
+    "yachtski": 49.0,
+    "yt_id": "KukiH2IesNU"
+  },
+  {
     "id": 57,
     "title": "Breezin'",
     "artist": "George Benson & Al Jarreau",
@@ -689,19 +689,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 69,
-    "title": "Carry Me Away",
-    "artist": "Doobie Brothers",
-    "year": 1976,
-    "episode": "BYR60",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 53.0,
-    "dave_score": 55.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 84,
     "title": "You Make Me Feel Like Dancing",
     "artist": "Lee Ritenour",
@@ -712,45 +699,6 @@ const data = [
     "steve_score": 40.0,
     "dave_score": 51.0,
     "yachtski": 45.75,
-    "yt_id": null
-  },
-  {
-    "id": 107,
-    "title": "Complicated Times",
-    "artist": "Frank Weber",
-    "year": 1978,
-    "episode": "BYR78",
-    "jd_score": 52.0,
-    "hunter_score": 50.0,
-    "steve_score": 56.0,
-    "dave_score": 51.0,
-    "yachtski": 52.25,
-    "yt_id": null
-  },
-  {
-    "id": 109,
-    "title": "Heaven Bound",
-    "artist": "Rufus & Chaka Khan",
-    "year": 1979,
-    "episode": "BYR80",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 53.0,
-    "dave_score": 50.0,
-    "yachtski": 51.5,
-    "yt_id": null
-  },
-  {
-    "id": 112,
-    "title": "Sinbad",
-    "artist": "Grimaldi/Zeiher",
-    "year": 1978,
-    "episode": "BYR83",
-    "jd_score": 53.0,
-    "hunter_score": 52.0,
-    "steve_score": 54.0,
-    "dave_score": 50.0,
-    "yachtski": 52.25,
     "yt_id": null
   },
   {
@@ -1339,6 +1287,58 @@ const data = [
     "yt_id": "6UvIoc59YcA"
   },
   {
+    "id": 69,
+    "title": "Carry Me Away",
+    "artist": "Doobie Brothers",
+    "year": 1976,
+    "episode": "BYR60",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 53.0,
+    "dave_score": 55.0,
+    "yachtski": 52.75,
+    "yt_id": "s-p2DP7F5jo"
+  },
+  {
+    "id": 112,
+    "title": "Sinbad",
+    "artist": "Grimaldi/Zeiher",
+    "year": 1978,
+    "episode": "BYR83",
+    "jd_score": 53.0,
+    "hunter_score": 52.0,
+    "steve_score": 54.0,
+    "dave_score": 50.0,
+    "yachtski": 52.25,
+    "yt_id": "ND4LFH3qZvU"
+  },
+  {
+    "id": 107,
+    "title": "Complicated Times",
+    "artist": "Frank Weber",
+    "year": 1978,
+    "episode": "BYR78",
+    "jd_score": 52.0,
+    "hunter_score": 50.0,
+    "steve_score": 56.0,
+    "dave_score": 51.0,
+    "yachtski": 52.25,
+    "yt_id": "Kb6x0jK-OVM"
+  },
+  {
+    "id": 109,
+    "title": "Heaven Bound",
+    "artist": "Rufus & Chaka Khan",
+    "year": 1979,
+    "episode": "BYR80",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 53.0,
+    "dave_score": 50.0,
+    "yachtski": 51.5,
+    "yt_id": "Zy4KtD98S2c"
+  },
+  {
     "id": 119,
     "title": "Find It In Your Heart",
     "artist": "Michael McDonald",
@@ -1560,19 +1560,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 148,
-    "title": "Don't Turn Me Away",
-    "artist": "10cc",
-    "year": 1981,
-    "episode": "YON004",
-    "jd_score": 55.0,
-    "hunter_score": 68.0,
-    "steve_score": 41.0,
-    "dave_score": 35.0,
-    "yachtski": 49.75,
-    "yt_id": null
-  },
-  {
     "id": 150,
     "title": "In Thee",
     "artist": "Blue Oyster Cult",
@@ -1664,19 +1651,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 163,
-    "title": "Heartlight",
-    "artist": "Neil Diamond",
-    "year": 1982,
-    "episode": "YON005",
-    "jd_score": 60.0,
-    "hunter_score": 62.0,
-    "steve_score": 38.0,
-    "dave_score": 45.0,
-    "yachtski": 51.25,
-    "yt_id": null
-  },
-  {
     "id": 164,
     "title": "Big Log",
     "artist": "Robert Plant",
@@ -1700,19 +1674,6 @@ const data = [
     "steve_score": 8.0,
     "dave_score": 15.0,
     "yachtski": 9.5,
-    "yt_id": null
-  },
-  {
-    "id": 166,
-    "title": "You Can Feel It",
-    "artist": "Young Gun Silver Fox",
-    "year": 2016,
-    "episode": "YON005",
-    "jd_score": 55.0,
-    "hunter_score": 51.0,
-    "steve_score": 46.0,
-    "dave_score": 48.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -2028,17 +1989,43 @@ const data = [
     "yt_id": "THg_SstzMKI"
   },
   {
-    "id": 169,
-    "title": "Reminiscing ",
-    "artist": "Little River Band",
-    "year": 1978,
-    "episode": "YON006",
-    "jd_score": 48.0,
-    "hunter_score": 61.0,
-    "steve_score": 58.0,
-    "dave_score": 40.0,
-    "yachtski": 51.75,
-    "yt_id": null
+    "id": 163,
+    "title": "Heartlight",
+    "artist": "Neil Diamond",
+    "year": 1982,
+    "episode": "YON005",
+    "jd_score": 60.0,
+    "hunter_score": 62.0,
+    "steve_score": 38.0,
+    "dave_score": 45.0,
+    "yachtski": 51.25,
+    "yt_id": "Ys1RlxC8QC8"
+  },
+  {
+    "id": 166,
+    "title": "You Can Feel It",
+    "artist": "Young Gun Silver Fox",
+    "year": 2016,
+    "episode": "YON005",
+    "jd_score": 55.0,
+    "hunter_score": 51.0,
+    "steve_score": 46.0,
+    "dave_score": 48.0,
+    "yachtski": 50.0,
+    "yt_id": "fER6zIBd8x8"
+  },
+  {
+    "id": 148,
+    "title": "Don't Turn Me Away",
+    "artist": "10cc",
+    "year": 1981,
+    "episode": "YON004",
+    "jd_score": 55.0,
+    "hunter_score": 68.0,
+    "steve_score": 41.0,
+    "dave_score": 35.0,
+    "yachtski": 49.75,
+    "yt_id": "MedhoLYB5RU"
   },
   {
     "id": 170,
@@ -2051,32 +2038,6 @@ const data = [
     "steve_score": 27.0,
     "dave_score": 10.0,
     "yachtski": 15.125,
-    "yt_id": null
-  },
-  {
-    "id": 171,
-    "title": "Cool Night",
-    "artist": "Paul Davis",
-    "year": 1981,
-    "episode": "YON006",
-    "jd_score": 48.0,
-    "hunter_score": 61.0,
-    "steve_score": 53.0,
-    "dave_score": 54.0,
-    "yachtski": 54.0,
-    "yt_id": null
-  },
-  {
-    "id": 173,
-    "title": "Maureen",
-    "artist": "Sade",
-    "year": 1985,
-    "episode": "YON006",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 48.0,
-    "dave_score": 48.0,
-    "yachtski": 49.75,
     "yt_id": null
   },
   {
@@ -2197,19 +2158,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 188,
-    "title": "How Long",
-    "artist": "Ace",
-    "year": 1974,
-    "episode": "YON008",
-    "jd_score": 55.0,
-    "hunter_score": 51.0,
-    "steve_score": 48.0,
-    "dave_score": 58.0,
-    "yachtski": 53.0,
-    "yt_id": null
-  },
-  {
     "id": 190,
     "title": "Hold Me",
     "artist": "Fleetwood Mac",
@@ -2220,19 +2168,6 @@ const data = [
     "steve_score": 34.0,
     "dave_score": 20.0,
     "yachtski": 32.5,
-    "yt_id": null
-  },
-  {
-    "id": 191,
-    "title": "Gimme an Inch Girl",
-    "artist": "Iain Matthews",
-    "year": 1978,
-    "episode": "YON008",
-    "jd_score": 55.0,
-    "hunter_score": 58.0,
-    "steve_score": 40.0,
-    "dave_score": 42.0,
-    "yachtski": 48.75,
     "yt_id": null
   },
   {
@@ -2324,19 +2259,6 @@ const data = [
     "steve_score": 17.0,
     "dave_score": 28.0,
     "yachtski": 26.25,
-    "yt_id": null
-  },
-  {
-    "id": 202,
-    "title": "Keep The Fire",
-    "artist": "Kenny Loggins",
-    "year": 1979,
-    "episode": "YON009",
-    "jd_score": 65.0,
-    "hunter_score": 49.0,
-    "steve_score": 60.0,
-    "dave_score": 42.0,
-    "yachtski": 54.0,
     "yt_id": null
   },
   {
@@ -2441,19 +2363,6 @@ const data = [
     "steve_score": 39.0,
     "dave_score": 45.0,
     "yachtski": 46.25,
-    "yt_id": null
-  },
-  {
-    "id": 216,
-    "title": "To Prove My Love",
-    "artist": "Ned Doheny",
-    "year": 1979,
-    "episode": "YON010",
-    "jd_score": 55.0,
-    "hunter_score": 43.0,
-    "steve_score": 42.0,
-    "dave_score": 60.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -2730,6 +2639,84 @@ const data = [
     "yt_id": "zItRWCCrqms"
   },
   {
+    "id": 171,
+    "title": "Cool Night",
+    "artist": "Paul Davis",
+    "year": 1981,
+    "episode": "YON006",
+    "jd_score": 48.0,
+    "hunter_score": 61.0,
+    "steve_score": 53.0,
+    "dave_score": 54.0,
+    "yachtski": 54.0,
+    "yt_id": "29Su4UIy7Yc"
+  },
+  {
+    "id": 188,
+    "title": "How Long",
+    "artist": "Ace",
+    "year": 1974,
+    "episode": "YON008",
+    "jd_score": 55.0,
+    "hunter_score": 51.0,
+    "steve_score": 48.0,
+    "dave_score": 58.0,
+    "yachtski": 53.0,
+    "yt_id": "Vo_GMMLULXw"
+  },
+  {
+    "id": 169,
+    "title": "Reminiscing ",
+    "artist": "Little River Band",
+    "year": 1978,
+    "episode": "YON006",
+    "jd_score": 48.0,
+    "hunter_score": 61.0,
+    "steve_score": 58.0,
+    "dave_score": 40.0,
+    "yachtski": 51.75,
+    "yt_id": "XBETVhHpcPk"
+  },
+  {
+    "id": 216,
+    "title": "To Prove My Love",
+    "artist": "Ned Doheny",
+    "year": 1979,
+    "episode": "YON010",
+    "jd_score": 55.0,
+    "hunter_score": 43.0,
+    "steve_score": 42.0,
+    "dave_score": 60.0,
+    "yachtski": 50.0,
+    "yt_id": "Rsg4RBr5TcU"
+  },
+  {
+    "id": 173,
+    "title": "Maureen",
+    "artist": "Sade",
+    "year": 1985,
+    "episode": "YON006",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 48.0,
+    "dave_score": 48.0,
+    "yachtski": 49.75,
+    "yt_id": "MmMtCDo9afU"
+  },
+  {
+    "id": 191,
+    "title": "Gimme an Inch Girl",
+    "artist": "Iain Matthews",
+    "year": 1978,
+    "episode": "YON008",
+    "jd_score": 55.0,
+    "hunter_score": 58.0,
+    "steve_score": 40.0,
+    "dave_score": 42.0,
+    "yachtski": 48.75,
+    "yt_id": "0lsonxu-ybw"
+  },
+  {
     "id": 226,
     "title": "Back Pocket",
     "artist": "Volfpeck",
@@ -2831,32 +2818,6 @@ const data = [
     "steve_score": 0.0,
     "dave_score": 3.0,
     "yachtski": 2.25,
-    "yt_id": null
-  },
-  {
-    "id": 236,
-    "title": "Regulate",
-    "artist": "Warren G Feat. Nate Dogg",
-    "year": 1994,
-    "episode": "YON012",
-    "jd_score": 58.187,
-    "hunter_score": 60.0,
-    "steve_score": 33.3,
-    "dave_score": 55.0,
-    "yachtski": 51.62175,
-    "yt_id": null
-  },
-  {
-    "id": 237,
-    "title": "Missing You",
-    "artist": "Dan Fogelberg",
-    "year": 1982,
-    "episode": "YON013",
-    "jd_score": 62.0,
-    "hunter_score": 49.0,
-    "steve_score": 47.0,
-    "dave_score": 48.0,
-    "yachtski": 51.5,
     "yt_id": null
   },
   {
@@ -2990,19 +2951,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 254,
-    "title": "Stars",
-    "artist": "Seals & Crofts",
-    "year": 1980,
-    "episode": "YON014",
-    "jd_score": 59.0,
-    "hunter_score": 51.0,
-    "steve_score": 56.0,
-    "dave_score": 45.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 256,
     "title": "Arc of a Diver",
     "artist": "Steve Winwood",
@@ -3039,19 +2987,6 @@ const data = [
     "steve_score": 42.0,
     "dave_score": 40.0,
     "yachtski": 43.5,
-    "yt_id": null
-  },
-  {
-    "id": 261,
-    "title": "Ginny's Song",
-    "artist": "Jimmy Thudpucker",
-    "year": 1978,
-    "episode": "YON015",
-    "jd_score": 51.0,
-    "hunter_score": 42.0,
-    "steve_score": 56.0,
-    "dave_score": 45.0,
-    "yachtski": 48.5,
     "yt_id": null
   },
   {
@@ -3117,19 +3052,6 @@ const data = [
     "steve_score": 22.0,
     "dave_score": 20.0,
     "yachtski": 28.25,
-    "yt_id": null
-  },
-  {
-    "id": 274,
-    "title": "Talk to Me",
-    "artist": "Olivia Newton John",
-    "year": 1978,
-    "episode": "YON016",
-    "jd_score": 60.0,
-    "hunter_score": 52.0,
-    "steve_score": 47.0,
-    "dave_score": 40.0,
-    "yachtski": 49.75,
     "yt_id": null
   },
   {
@@ -3432,6 +3354,58 @@ const data = [
     "yt_id": "B6yJ_xo0nhU"
   },
   {
+    "id": 254,
+    "title": "Stars",
+    "artist": "Seals & Crofts",
+    "year": 1980,
+    "episode": "YON014",
+    "jd_score": 59.0,
+    "hunter_score": 51.0,
+    "steve_score": 56.0,
+    "dave_score": 45.0,
+    "yachtski": 52.75,
+    "yt_id": "UpVIef1lxhE"
+  },
+  {
+    "id": 236,
+    "title": "Regulate",
+    "artist": "Warren G Feat. Nate Dogg",
+    "year": 1994,
+    "episode": "YON012",
+    "jd_score": 58.187,
+    "hunter_score": 60.0,
+    "steve_score": 33.3,
+    "dave_score": 55.0,
+    "yachtski": 51.62175,
+    "yt_id": "1plPyJdXKIY"
+  },
+  {
+    "id": 237,
+    "title": "Missing You",
+    "artist": "Dan Fogelberg",
+    "year": 1982,
+    "episode": "YON013",
+    "jd_score": 62.0,
+    "hunter_score": 49.0,
+    "steve_score": 47.0,
+    "dave_score": 48.0,
+    "yachtski": 51.5,
+    "yt_id": "653k7H7yGrw"
+  },
+  {
+    "id": 261,
+    "title": "Ginny's Song",
+    "artist": "Jimmy Thudpucker",
+    "year": 1978,
+    "episode": "YON015",
+    "jd_score": 51.0,
+    "hunter_score": 42.0,
+    "steve_score": 56.0,
+    "dave_score": 45.0,
+    "yachtski": 48.5,
+    "yt_id": "VbsotOWzcGE"
+  },
+  {
     "id": 283,
     "title": "Smooth Operator",
     "artist": "Sade",
@@ -3510,19 +3484,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 291,
-    "title": "First Light",
-    "artist": "Makoto Matsushita",
-    "year": 1981,
-    "episode": "YON018",
-    "jd_score": 46.0,
-    "hunter_score": 53.0,
-    "steve_score": 59.0,
-    "dave_score": 45.0,
-    "yachtski": 50.75,
-    "yt_id": null
-  },
-  {
     "id": 292,
     "title": "Piece of Paradise",
     "artist": "PM",
@@ -3585,19 +3546,6 @@ const data = [
     "steve_score": 36.0,
     "dave_score": 35.0,
     "yachtski": 42.75,
-    "yt_id": null
-  },
-  {
-    "id": 301,
-    "title": "I'll Be Dining Here Again",
-    "artist": "Norwegian Fords",
-    "year": 2011,
-    "episode": "YON019",
-    "jd_score": 49.0,
-    "hunter_score": 54.0,
-    "steve_score": 65.0,
-    "dave_score": 42.0,
-    "yachtski": 52.5,
     "yt_id": null
   },
   {
@@ -3676,19 +3624,6 @@ const data = [
     "steve_score": 36.0,
     "dave_score": 42.0,
     "yachtski": 43.5,
-    "yt_id": null
-  },
-  {
-    "id": 313,
-    "title": "Sinking in an Ocean of Tears",
-    "artist": "Stephen Bishop",
-    "year": 1976,
-    "episode": "YON020",
-    "jd_score": 56.0,
-    "hunter_score": 49.0,
-    "steve_score": 41.0,
-    "dave_score": 55.0,
-    "yachtski": 50.25,
     "yt_id": null
   },
   {
@@ -4134,6 +4069,32 @@ const data = [
     "yt_id": "IHsR2jDvUhs"
   },
   {
+    "id": 301,
+    "title": "I'll Be Dining Here Again",
+    "artist": "Norwegian Fords",
+    "year": 2011,
+    "episode": "YON019",
+    "jd_score": 49.0,
+    "hunter_score": 54.0,
+    "steve_score": 65.0,
+    "dave_score": 42.0,
+    "yachtski": 52.5,
+    "yt_id": "WVPv1lqUnFw"
+  },
+  {
+    "id": 291,
+    "title": "First Light",
+    "artist": "Makoto Matsushita",
+    "year": 1981,
+    "episode": "YON018",
+    "jd_score": 46.0,
+    "hunter_score": 53.0,
+    "steve_score": 59.0,
+    "dave_score": 45.0,
+    "yachtski": 50.75,
+    "yt_id": "o1rclw8Rugs"
+  },
+  {
     "id": 337,
     "title": "Straight Up and Down",
     "artist": "Bruno Mars",
@@ -4264,19 +4225,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 352,
-    "title": "Somebody's Baby",
-    "artist": "Jackson Browne",
-    "year": 1982,
-    "episode": "YON024",
-    "jd_score": 60.0,
-    "hunter_score": 51.0,
-    "steve_score": 40.0,
-    "dave_score": 48.0,
-    "yachtski": 49.75,
-    "yt_id": null
-  },
-  {
     "id": 353,
     "title": "On The Run",
     "artist": "Lake",
@@ -4404,32 +4352,6 @@ const data = [
     "steve_score": 25.0,
     "dave_score": 21.0,
     "yachtski": 26.0,
-    "yt_id": null
-  },
-  {
-    "id": 368,
-    "title": "So Good So Right",
-    "artist": "Joe Cocker",
-    "year": 1982,
-    "episode": "YON026",
-    "jd_score": 59.0,
-    "hunter_score": 54.0,
-    "steve_score": 43.0,
-    "dave_score": 44.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
-    "id": 370,
-    "title": "Juke Box Fury",
-    "artist": "Rickie Lee Jones",
-    "year": 1984,
-    "episode": "YON026",
-    "jd_score": 51.0,
-    "hunter_score": 50.0,
-    "steve_score": 51.0,
-    "dave_score": 48.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -4573,19 +4495,6 @@ const data = [
     "steve_score": 27.0,
     "dave_score": 20.0,
     "yachtski": 24.75,
-    "yt_id": null
-  },
-  {
-    "id": 389,
-    "title": "Security Joan",
-    "artist": "Donald Fagen",
-    "year": 2006,
-    "episode": "YON028",
-    "jd_score": 48.0,
-    "hunter_score": 51.0,
-    "steve_score": 54.0,
-    "dave_score": 55.0,
-    "yachtski": 52.0,
     "yt_id": null
   },
   {
@@ -4836,6 +4745,45 @@ const data = [
     "yt_id": "htgr3pvBr-I"
   },
   {
+    "id": 389,
+    "title": "Security Joan",
+    "artist": "Donald Fagen",
+    "year": 2006,
+    "episode": "YON028",
+    "jd_score": 48.0,
+    "hunter_score": 51.0,
+    "steve_score": 54.0,
+    "dave_score": 55.0,
+    "yachtski": 52.0,
+    "yt_id": "FYugtLkZIRY"
+  },
+  {
+    "id": 368,
+    "title": "So Good So Right",
+    "artist": "Joe Cocker",
+    "year": 1982,
+    "episode": "YON026",
+    "jd_score": 59.0,
+    "hunter_score": 54.0,
+    "steve_score": 43.0,
+    "dave_score": 44.0,
+    "yachtski": 50.0,
+    "yt_id": "sBpzUaSNl1Q"
+  },
+  {
+    "id": 352,
+    "title": "Somebody's Baby",
+    "artist": "Jackson Browne",
+    "year": 1982,
+    "episode": "YON024",
+    "jd_score": 60.0,
+    "hunter_score": 51.0,
+    "steve_score": 40.0,
+    "dave_score": 48.0,
+    "yachtski": 49.75,
+    "yt_id": "M6pT_BDpnog"
+  },
+  {
     "id": 393,
     "title": "Reach",
     "artist": "Orleans",
@@ -4872,19 +4820,6 @@ const data = [
     "steve_score": 35.0,
     "dave_score": 42.0,
     "yachtski": 41.0,
-    "yt_id": null
-  },
-  {
-    "id": 402,
-    "title": "Falling For A Funny One",
-    "artist": "Eye To Eye",
-    "year": 1983,
-    "episode": "YON029",
-    "jd_score": 47.0,
-    "hunter_score": 54.0,
-    "steve_score": 44.0,
-    "dave_score": 55.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -4966,19 +4901,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 414,
-    "title": "Survival",
-    "artist": "Marc Jordan",
-    "year": 1978,
-    "episode": "YON031",
-    "jd_score": 62.0,
-    "hunter_score": 47.0,
-    "steve_score": 44.0,
-    "dave_score": 49.0,
-    "yachtski": 50.5,
-    "yt_id": null
-  },
-  {
     "id": 415,
     "title": "Jamaican Rum",
     "artist": "Phil Lynott",
@@ -5005,19 +4927,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 419,
-    "title": "Don't Want to Wait Anymore",
-    "artist": "The Tubes",
-    "year": 1981,
-    "episode": "YON031",
-    "jd_score": 48.0,
-    "hunter_score": 51.0,
-    "steve_score": 46.0,
-    "dave_score": 53.0,
-    "yachtski": 49.5,
-    "yt_id": null
-  },
-  {
     "id": 420,
     "title": "Heaven Help The Fool",
     "artist": "Bob Weir",
@@ -5028,19 +4937,6 @@ const data = [
     "steve_score": 41.0,
     "dave_score": 42.0,
     "yachtski": 44.5,
-    "yt_id": null
-  },
-  {
-    "id": 427,
-    "title": "Moonlight Feels Right",
-    "artist": "Starbuck",
-    "year": 1976,
-    "episode": "YON032",
-    "jd_score": 53.0,
-    "hunter_score": 51.0,
-    "steve_score": 56.0,
-    "dave_score": 48.0,
-    "yachtski": 52.0,
     "yt_id": null
   },
   {
@@ -5067,19 +4963,6 @@ const data = [
     "steve_score": 47.0,
     "dave_score": 43.0,
     "yachtski": 46.5,
-    "yt_id": null
-  },
-  {
-    "id": 432,
-    "title": "Be Yourself",
-    "artist": "Debra Laws",
-    "year": 1981,
-    "episode": "YON033",
-    "jd_score": 47.0,
-    "hunter_score": 62.0,
-    "steve_score": 43.0,
-    "dave_score": 48.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -5145,19 +5028,6 @@ const data = [
     "steve_score": 47.0,
     "dave_score": 42.0,
     "yachtski": 45.5,
-    "yt_id": null
-  },
-  {
-    "id": 442,
-    "title": "I Feel For You",
-    "artist": "Pointer Sisters",
-    "year": 1982,
-    "episode": "YON034",
-    "jd_score": 50.0,
-    "hunter_score": 53.0,
-    "steve_score": 46.0,
-    "dave_score": 52.0,
-    "yachtski": 50.25,
     "yt_id": null
   },
   {
@@ -5525,6 +5395,84 @@ const data = [
     "yt_id": "bBlRuGFT7Ew"
   },
   {
+    "id": 427,
+    "title": "Moonlight Feels Right",
+    "artist": "Starbuck",
+    "year": 1976,
+    "episode": "YON032",
+    "jd_score": 53.0,
+    "hunter_score": 51.0,
+    "steve_score": 56.0,
+    "dave_score": 48.0,
+    "yachtski": 52.0,
+    "yt_id": "HYnQsvtfEsQ"
+  },
+  {
+    "id": 414,
+    "title": "Survival",
+    "artist": "Marc Jordan",
+    "year": 1978,
+    "episode": "YON031",
+    "jd_score": 62.0,
+    "hunter_score": 47.0,
+    "steve_score": 44.0,
+    "dave_score": 49.0,
+    "yachtski": 50.5,
+    "yt_id": "lgVDWWrQdco"
+  },
+  {
+    "id": 442,
+    "title": "I Feel For You",
+    "artist": "Pointer Sisters",
+    "year": 1982,
+    "episode": "YON034",
+    "jd_score": 50.0,
+    "hunter_score": 53.0,
+    "steve_score": 46.0,
+    "dave_score": 52.0,
+    "yachtski": 50.25,
+    "yt_id": "DquLFna_YY4"
+  },
+  {
+    "id": 432,
+    "title": "Be Yourself",
+    "artist": "Debra Laws",
+    "year": 1981,
+    "episode": "YON033",
+    "jd_score": 47.0,
+    "hunter_score": 62.0,
+    "steve_score": 43.0,
+    "dave_score": 48.0,
+    "yachtski": 50.0,
+    "yt_id": "wT7daEo5s_s"
+  },
+  {
+    "id": 402,
+    "title": "Falling For A Funny One",
+    "artist": "Eye To Eye",
+    "year": 1983,
+    "episode": "YON029",
+    "jd_score": 47.0,
+    "hunter_score": 54.0,
+    "steve_score": 44.0,
+    "dave_score": 55.0,
+    "yachtski": 50.0,
+    "yt_id": "PsoU5y4px14"
+  },
+  {
+    "id": 419,
+    "title": "Don't Want to Wait Anymore",
+    "artist": "The Tubes",
+    "year": 1981,
+    "episode": "YON031",
+    "jd_score": 48.0,
+    "hunter_score": 51.0,
+    "steve_score": 46.0,
+    "dave_score": 53.0,
+    "yachtski": 49.5,
+    "yt_id": "EUNZDbqwR1A"
+  },
+  {
     "id": 452,
     "title": "Adventures In The Land Of Music",
     "artist": "Dynasty",
@@ -5548,19 +5496,6 @@ const data = [
     "steve_score": 41.0,
     "dave_score": 32.0,
     "yachtski": 42.25,
-    "yt_id": null
-  },
-  {
-    "id": 454,
-    "title": "Ocean Bay",
-    "artist": "Nightshift",
-    "year": 2007,
-    "episode": "YON035",
-    "jd_score": 49.0,
-    "hunter_score": 55.0,
-    "steve_score": 52.0,
-    "dave_score": 38.0,
-    "yachtski": 48.5,
     "yt_id": null
   },
   {
@@ -5639,19 +5574,6 @@ const data = [
     "steve_score": 22.0,
     "dave_score": 22.0,
     "yachtski": 23.5,
-    "yt_id": null
-  },
-  {
-    "id": 468,
-    "title": "Miss Sun",
-    "artist": "Boz Scaggs",
-    "year": 1980,
-    "episode": "YON037",
-    "jd_score": 56.0,
-    "hunter_score": 51.0,
-    "steve_score": 54.0,
-    "dave_score": 54.0,
-    "yachtski": 53.75,
     "yt_id": null
   },
   {
@@ -5873,19 +5795,6 @@ const data = [
     "steve_score": 20.0,
     "dave_score": 15.0,
     "yachtski": 17.5,
-    "yt_id": null
-  },
-  {
-    "id": 500,
-    "title": "Deja Vu",
-    "artist": "Dionne Warwick",
-    "year": 1979,
-    "episode": "YON040",
-    "jd_score": 50.0,
-    "hunter_score": 48.0,
-    "steve_score": 53.0,
-    "dave_score": 54.0,
-    "yachtski": 51.25,
     "yt_id": null
   },
   {
@@ -6214,6 +6123,45 @@ const data = [
     "yt_id": "lSRmMsFDUFQ"
   },
   {
+    "id": 468,
+    "title": "Miss Sun",
+    "artist": "Boz Scaggs",
+    "year": 1980,
+    "episode": "YON037",
+    "jd_score": 56.0,
+    "hunter_score": 51.0,
+    "steve_score": 54.0,
+    "dave_score": 54.0,
+    "yachtski": 53.75,
+    "yt_id": "6u9vPkVr7CU"
+  },
+  {
+    "id": 500,
+    "title": "Deja Vu",
+    "artist": "Dionne Warwick",
+    "year": 1979,
+    "episode": "YON040",
+    "jd_score": 50.0,
+    "hunter_score": 48.0,
+    "steve_score": 53.0,
+    "dave_score": 54.0,
+    "yachtski": 51.25,
+    "yt_id": "R2ILm3bJLRY"
+  },
+  {
+    "id": 454,
+    "title": "Ocean Bay",
+    "artist": "Nightshift",
+    "year": 2007,
+    "episode": "YON035",
+    "jd_score": 49.0,
+    "hunter_score": 55.0,
+    "steve_score": 52.0,
+    "dave_score": 38.0,
+    "yachtski": 48.5,
+    "yt_id": "y7k_gOIrn_c"
+  },
+  {
     "id": 505,
     "title": "Boat To Sail",
     "artist": "The Carpenters",
@@ -6487,19 +6435,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 534,
-    "title": "Why You Givin' Up",
-    "artist": "Patrick Simmons",
-    "year": 1982,
-    "episode": "YON043",
-    "jd_score": 46.0,
-    "hunter_score": 59.0,
-    "steve_score": 58.0,
-    "dave_score": 48.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 539,
     "title": "Take The Short Way Home",
     "artist": "Dionne Warwick",
@@ -6562,19 +6497,6 @@ const data = [
     "steve_score": 23.0,
     "dave_score": 20.0,
     "yachtski": 24.25,
-    "yt_id": null
-  },
-  {
-    "id": 550,
-    "title": "Any Good Time At All",
-    "artist": "Imperials",
-    "year": 1980,
-    "episode": "YON045",
-    "jd_score": 45.0,
-    "hunter_score": 56.0,
-    "steve_score": 63.0,
-    "dave_score": 49.0,
-    "yachtski": 53.25,
     "yt_id": null
   },
   {
@@ -6903,43 +6825,30 @@ const data = [
     "yt_id": "VUzlVv9Qsk0"
   },
   {
-    "id": 561,
-    "title": "Slow Hand",
-    "artist": "Pointer Sisters",
-    "year": 1981,
-    "episode": "YON046",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 49.0,
-    "dave_score": 44.0,
-    "yachtski": 49.0,
-    "yt_id": null
-  },
-  {
-    "id": 563,
-    "title": "Him",
-    "artist": "Rupert Holmes",
-    "year": 1979,
-    "episode": "YON046",
-    "jd_score": 49.0,
-    "hunter_score": 48.0,
-    "steve_score": 60.0,
-    "dave_score": 45.0,
-    "yachtski": 50.5,
-    "yt_id": null
-  },
-  {
-    "id": 565,
-    "title": "St. George and the Dragon",
-    "artist": "Toto",
-    "year": 1979,
-    "episode": "YON046",
-    "jd_score": 62.0,
-    "hunter_score": 52.0,
-    "steve_score": 45.0,
-    "dave_score": 54.0,
+    "id": 550,
+    "title": "Any Good Time At All",
+    "artist": "Imperials",
+    "year": 1980,
+    "episode": "YON045",
+    "jd_score": 45.0,
+    "hunter_score": 56.0,
+    "steve_score": 63.0,
+    "dave_score": 49.0,
     "yachtski": 53.25,
-    "yt_id": null
+    "yt_id": "kAhlrLyzpbY"
+  },
+  {
+    "id": 534,
+    "title": "Why You Givin' Up",
+    "artist": "Patrick Simmons",
+    "year": 1982,
+    "episode": "YON043",
+    "jd_score": 46.0,
+    "hunter_score": 59.0,
+    "steve_score": 58.0,
+    "dave_score": 48.0,
+    "yachtski": 52.75,
+    "yt_id": "9SWPHjt0iwU"
   },
   {
     "id": 566,
@@ -6965,19 +6874,6 @@ const data = [
     "steve_score": 52.0,
     "dave_score": 42.0,
     "yachtski": 43.5,
-    "yt_id": null
-  },
-  {
-    "id": 571,
-    "title": "Angela (Theme From \"Taxi\")",
-    "artist": "Bob James",
-    "year": 1978,
-    "episode": "YON049",
-    "jd_score": 55.0,
-    "hunter_score": 51.0,
-    "steve_score": 51.0,
-    "dave_score": 52.0,
-    "yachtski": 52.25,
     "yt_id": null
   },
   {
@@ -7043,19 +6939,6 @@ const data = [
     "steve_score": 38.0,
     "dave_score": 35.0,
     "yachtski": 36.25,
-    "yt_id": null
-  },
-  {
-    "id": 582,
-    "title": "Old Jack Magnet",
-    "artist": "Jakob Magnusson",
-    "year": 1981,
-    "episode": "YON050",
-    "jd_score": 55.0,
-    "hunter_score": 50.0,
-    "steve_score": 58.0,
-    "dave_score": 52.0,
-    "yachtski": 53.75,
     "yt_id": null
   },
   {
@@ -7215,19 +7098,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 604,
-    "title": "Pure Smokey",
-    "artist": "George Harrison",
-    "year": 1976,
-    "episode": "YON054",
-    "jd_score": 50.0,
-    "hunter_score": 50.0,
-    "steve_score": 48.0,
-    "dave_score": 50.0,
-    "yachtski": 49.5,
-    "yt_id": null
-  },
-  {
     "id": 605,
     "title": "Mr. Smooth",
     "artist": "Michael Franks",
@@ -7293,19 +7163,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 611,
-    "title": "Chuck E.'s In Love",
-    "artist": "Rickie Lee Jones",
-    "year": 1979,
-    "episode": "YON055",
-    "jd_score": 53.0,
-    "hunter_score": 55.0,
-    "steve_score": 49.0,
-    "dave_score": 55.0,
-    "yachtski": 53.0,
-    "yt_id": null
-  },
-  {
     "id": 613,
     "title": "Jane",
     "artist": "Ben Folds Five",
@@ -7316,32 +7173,6 @@ const data = [
     "steve_score": 20.0,
     "dave_score": 28.0,
     "yachtski": 18.0,
-    "yt_id": null
-  },
-  {
-    "id": 614,
-    "title": "Ms. Marlene",
-    "artist": "Donald Fagen",
-    "year": 2012,
-    "episode": "YON056",
-    "jd_score": 55.0,
-    "hunter_score": 52.0,
-    "steve_score": 52.0,
-    "dave_score": 51.0,
-    "yachtski": 52.5,
-    "yt_id": null
-  },
-  {
-    "id": 616,
-    "title": "Hearts",
-    "artist": "Marty Balin",
-    "year": 1981,
-    "episode": "YON056",
-    "jd_score": 44.0,
-    "hunter_score": 56.0,
-    "steve_score": 53.0,
-    "dave_score": 45.0,
-    "yachtski": 49.5,
     "yt_id": null
   },
   {
@@ -7592,6 +7423,110 @@ const data = [
     "yt_id": "yAR9hsjqsE8"
   },
   {
+    "id": 582,
+    "title": "Old Jack Magnet",
+    "artist": "Jakob Magnusson",
+    "year": 1981,
+    "episode": "YON050",
+    "jd_score": 55.0,
+    "hunter_score": 50.0,
+    "steve_score": 58.0,
+    "dave_score": 52.0,
+    "yachtski": 53.75,
+    "yt_id": "RvjxWYF__qk"
+  },
+  {
+    "id": 565,
+    "title": "St. George and the Dragon",
+    "artist": "Toto",
+    "year": 1979,
+    "episode": "YON046",
+    "jd_score": 62.0,
+    "hunter_score": 52.0,
+    "steve_score": 45.0,
+    "dave_score": 54.0,
+    "yachtski": 53.25,
+    "yt_id": "VGQ-XIg4c-4"
+  },
+  {
+    "id": 611,
+    "title": "Chuck E.'s In Love",
+    "artist": "Rickie Lee Jones",
+    "year": 1979,
+    "episode": "YON055",
+    "jd_score": 53.0,
+    "hunter_score": 55.0,
+    "steve_score": 49.0,
+    "dave_score": 55.0,
+    "yachtski": 53.0,
+    "yt_id": "UjeEV9L9SJM"
+  },
+  {
+    "id": 614,
+    "title": "Ms. Marlene",
+    "artist": "Donald Fagen",
+    "year": 2012,
+    "episode": "YON056",
+    "jd_score": 55.0,
+    "hunter_score": 52.0,
+    "steve_score": 52.0,
+    "dave_score": 51.0,
+    "yachtski": 52.5,
+    "yt_id": "N66vBwv0xtc"
+  },
+  {
+    "id": 571,
+    "title": "Angela (Theme From \"Taxi\")",
+    "artist": "Bob James",
+    "year": 1978,
+    "episode": "YON049",
+    "jd_score": 55.0,
+    "hunter_score": 51.0,
+    "steve_score": 51.0,
+    "dave_score": 52.0,
+    "yachtski": 52.25,
+    "yt_id": "7lDuFxKWdGw"
+  },
+  {
+    "id": 563,
+    "title": "Him",
+    "artist": "Rupert Holmes",
+    "year": 1979,
+    "episode": "YON046",
+    "jd_score": 49.0,
+    "hunter_score": 48.0,
+    "steve_score": 60.0,
+    "dave_score": 45.0,
+    "yachtski": 50.5,
+    "yt_id": "KKfZ_OO0oYw"
+  },
+  {
+    "id": 604,
+    "title": "Pure Smokey",
+    "artist": "George Harrison",
+    "year": 1976,
+    "episode": "YON054",
+    "jd_score": 50.0,
+    "hunter_score": 50.0,
+    "steve_score": 48.0,
+    "dave_score": 50.0,
+    "yachtski": 49.5,
+    "yt_id": "FiPVERz-RCE"
+  },
+  {
+    "id": 616,
+    "title": "Hearts",
+    "artist": "Marty Balin",
+    "year": 1981,
+    "episode": "YON056",
+    "jd_score": 44.0,
+    "hunter_score": 56.0,
+    "steve_score": 53.0,
+    "dave_score": 45.0,
+    "yachtski": 49.5,
+    "yt_id": "dIF74lH4KPM"
+  },
+  {
     "id": 617,
     "title": "Forever",
     "artist": "Player",
@@ -7735,19 +7670,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 637,
-    "title": "On the Clock",
-    "artist": "Bronze",
-    "year": 2009,
-    "episode": "YON060",
-    "jd_score": 50.0,
-    "hunter_score": 52.0,
-    "steve_score": 55.0,
-    "dave_score": 46.0,
-    "yachtski": 50.75,
-    "yt_id": null
-  },
-  {
     "id": 639,
     "title": "I Like It",
     "artist": "DeBarge",
@@ -7865,19 +7787,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 657,
-    "title": "You Did Cut Me",
-    "artist": "China Crisis",
-    "year": 1985,
-    "episode": "YON063",
-    "jd_score": 59.0,
-    "hunter_score": 49.0,
-    "steve_score": 61.0,
-    "dave_score": 47.0,
-    "yachtski": 54.0,
-    "yt_id": null
-  },
-  {
     "id": 660,
     "title": "Deeper Than The Night",
     "artist": "Olivia Newton-John",
@@ -7904,19 +7813,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 662,
-    "title": "Overdue",
-    "artist": "Tyrone Davis",
-    "year": 1980,
-    "episode": "YON063",
-    "jd_score": 45.0,
-    "hunter_score": 46.0,
-    "steve_score": 51.0,
-    "dave_score": 52.0,
-    "yachtski": 48.5,
-    "yt_id": null
-  },
-  {
     "id": 666,
     "title": "Love Is Why",
     "artist": "Gary Wright",
@@ -7940,19 +7836,6 @@ const data = [
     "steve_score": 28.0,
     "dave_score": 25.0,
     "yachtski": 28.5,
-    "yt_id": null
-  },
-  {
-    "id": 668,
-    "title": "Maybe It's Love Affair",
-    "artist": "Toshiki Kadomatsu",
-    "year": 1984,
-    "episode": "YON064",
-    "jd_score": 49.0,
-    "hunter_score": 51.0,
-    "steve_score": 62.0,
-    "dave_score": 50.0,
-    "yachtski": 53.0,
     "yt_id": null
   },
   {
@@ -8281,17 +8164,56 @@ const data = [
     "yt_id": "0P2a6aLDkkM"
   },
   {
-    "id": 673,
-    "title": "Island In the Sun",
-    "artist": "Minnie Riperton",
+    "id": 657,
+    "title": "You Did Cut Me",
+    "artist": "China Crisis",
+    "year": 1985,
+    "episode": "YON063",
+    "jd_score": 59.0,
+    "hunter_score": 49.0,
+    "steve_score": 61.0,
+    "dave_score": 47.0,
+    "yachtski": 54.0,
+    "yt_id": "XUyYkRc0EPc"
+  },
+  {
+    "id": 668,
+    "title": "Maybe It's Love Affair",
+    "artist": "Toshiki Kadomatsu",
+    "year": 1984,
+    "episode": "YON064",
+    "jd_score": 49.0,
+    "hunter_score": 51.0,
+    "steve_score": 62.0,
+    "dave_score": 50.0,
+    "yachtski": 53.0,
+    "yt_id": "8DEjFESBik0"
+  },
+  {
+    "id": 637,
+    "title": "On the Clock",
+    "artist": "Bronze",
+    "year": 2009,
+    "episode": "YON060",
+    "jd_score": 50.0,
+    "hunter_score": 52.0,
+    "steve_score": 55.0,
+    "dave_score": 46.0,
+    "yachtski": 50.75,
+    "yt_id": "CTNnHjhf3js"
+  },
+  {
+    "id": 662,
+    "title": "Overdue",
+    "artist": "Tyrone Davis",
     "year": 1980,
-    "episode": "YON065",
-    "jd_score": 54.0,
-    "hunter_score": 41.0,
-    "steve_score": 59.0,
-    "dave_score": 48.0,
-    "yachtski": 50.5,
-    "yt_id": null
+    "episode": "YON063",
+    "jd_score": 45.0,
+    "hunter_score": 46.0,
+    "steve_score": 51.0,
+    "dave_score": 52.0,
+    "yachtski": 48.5,
+    "yt_id": "oyt9g3QLl0E"
   },
   {
     "id": 675,
@@ -8421,19 +8343,6 @@ const data = [
     "steve_score": 54.0,
     "dave_score": 28.0,
     "yachtski": 43.75,
-    "yt_id": null
-  },
-  {
-    "id": 691,
-    "title": "Caribbean Queen (No More Love on the Run)",
-    "artist": "Billy Ocean",
-    "year": 1984,
-    "episode": "YON068",
-    "jd_score": 52.0,
-    "hunter_score": 53.0,
-    "steve_score": 45.0,
-    "dave_score": 45.0,
-    "yachtski": 48.75,
     "yt_id": null
   },
   {
@@ -8736,32 +8645,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 725,
-    "title": "Nite Crawler ",
-    "artist": "Larry Carlton",
-    "year": 1978,
-    "episode": "YON071",
-    "jd_score": 51.0,
-    "hunter_score": 51.0,
-    "steve_score": 57.0,
-    "dave_score": 54.0,
-    "yachtski": 53.25,
-    "yt_id": null
-  },
-  {
-    "id": 727,
-    "title": "It's You",
-    "artist": "Stevie Wonder & Dionne Warwick",
-    "year": 1984,
-    "episode": "YON071",
-    "jd_score": 50.0,
-    "hunter_score": 42.0,
-    "steve_score": 56.0,
-    "dave_score": 55.0,
-    "yachtski": 50.75,
-    "yt_id": null
-  },
-  {
     "id": 721,
     "title": "Kid Charlemagne",
     "artist": "Steely Dan",
@@ -8970,6 +8853,45 @@ const data = [
     "yt_id": "jIsD9C7Rk6c"
   },
   {
+    "id": 725,
+    "title": "Nite Crawler ",
+    "artist": "Larry Carlton",
+    "year": 1978,
+    "episode": "YON071",
+    "jd_score": 51.0,
+    "hunter_score": 51.0,
+    "steve_score": 57.0,
+    "dave_score": 54.0,
+    "yachtski": 53.25,
+    "yt_id": "IrGfsDwcP10"
+  },
+  {
+    "id": 673,
+    "title": "Island In the Sun",
+    "artist": "Minnie Riperton",
+    "year": 1980,
+    "episode": "YON065",
+    "jd_score": 54.0,
+    "hunter_score": 41.0,
+    "steve_score": 59.0,
+    "dave_score": 48.0,
+    "yachtski": 50.5,
+    "yt_id": "OwMRsNYL5U8"
+  },
+  {
+    "id": 691,
+    "title": "Caribbean Queen (No More Love on the Run)",
+    "artist": "Billy Ocean",
+    "year": 1984,
+    "episode": "YON068",
+    "jd_score": 52.0,
+    "hunter_score": 53.0,
+    "steve_score": 45.0,
+    "dave_score": 45.0,
+    "yachtski": 48.75,
+    "yt_id": "uxX2gA18grk"
+  },
+  {
     "id": 728,
     "title": "Tranquillo (Melt My Heart)",
     "artist": "Carly Simon",
@@ -9035,32 +8957,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 745,
-    "title": "If You Only Knew",
-    "artist": "Ned Doheny",
-    "year": 1979,
-    "episode": "YON074",
-    "jd_score": 50.0,
-    "hunter_score": 59.0,
-    "steve_score": 61.0,
-    "dave_score": 45.0,
-    "yachtski": 53.75,
-    "yt_id": null
-  },
-  {
-    "id": 747,
-    "title": "Down In Flames",
-    "artist": "Robert Kraft",
-    "year": 1979,
-    "episode": "YON074",
-    "jd_score": 40.0,
-    "hunter_score": 59.0,
-    "steve_score": 64.0,
-    "dave_score": 46.0,
-    "yachtski": 52.25,
-    "yt_id": null
-  },
-  {
     "id": 748,
     "title": "No Getting Around My Love",
     "artist": "Balance",
@@ -9110,19 +9006,6 @@ const data = [
     "steve_score": 37.0,
     "dave_score": 38.0,
     "yachtski": 38.75,
-    "yt_id": null
-  },
-  {
-    "id": 755,
-    "title": "Sexy Eyes",
-    "artist": "Dr. Hook",
-    "year": 1979,
-    "episode": "YON076",
-    "jd_score": 54.0,
-    "hunter_score": 49.0,
-    "steve_score": 57.0,
-    "dave_score": 49.0,
-    "yachtski": 52.25,
     "yt_id": null
   },
   {
@@ -9243,19 +9126,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 781,
-    "title": "Hot Summer Nights",
-    "artist": "Balance",
-    "year": 1981,
-    "episode": "YON080",
-    "jd_score": 59.0,
-    "hunter_score": 50.0,
-    "steve_score": 50.0,
-    "dave_score": 55.0,
-    "yachtski": 53.5,
-    "yt_id": null
-  },
-  {
     "id": 782,
     "title": "Girls Like Me",
     "artist": "Bonnie Hayes and the Wild Combo",
@@ -9266,19 +9136,6 @@ const data = [
     "steve_score": 17.0,
     "dave_score": 19.0,
     "yachtski": 14.0,
-    "yt_id": null
-  },
-  {
-    "id": 783,
-    "title": "Falling",
-    "artist": "Charlie Dore",
-    "year": 1979,
-    "episode": "YON080",
-    "jd_score": 51.0,
-    "hunter_score": 50.0,
-    "steve_score": 48.0,
-    "dave_score": 51.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -9646,6 +9503,71 @@ const data = [
     "yt_id": "54lgrGfEvD8"
   },
   {
+    "id": 745,
+    "title": "If You Only Knew",
+    "artist": "Ned Doheny",
+    "year": 1979,
+    "episode": "YON074",
+    "jd_score": 50.0,
+    "hunter_score": 59.0,
+    "steve_score": 61.0,
+    "dave_score": 45.0,
+    "yachtski": 53.75,
+    "yt_id": "bvHaeMeY-ZY"
+  },
+  {
+    "id": 781,
+    "title": "Hot Summer Nights",
+    "artist": "Balance",
+    "year": 1981,
+    "episode": "YON080",
+    "jd_score": 59.0,
+    "hunter_score": 50.0,
+    "steve_score": 50.0,
+    "dave_score": 55.0,
+    "yachtski": 53.5,
+    "yt_id": "BElp-yRseAk"
+  },
+  {
+    "id": 755,
+    "title": "Sexy Eyes",
+    "artist": "Dr. Hook",
+    "year": 1979,
+    "episode": "YON076",
+    "jd_score": 54.0,
+    "hunter_score": 49.0,
+    "steve_score": 57.0,
+    "dave_score": 49.0,
+    "yachtski": 52.25,
+    "yt_id": "zOrZ-nCp-_U"
+  },
+  {
+    "id": 747,
+    "title": "Down In Flames",
+    "artist": "Robert Kraft",
+    "year": 1979,
+    "episode": "YON074",
+    "jd_score": 40.0,
+    "hunter_score": 59.0,
+    "steve_score": 64.0,
+    "dave_score": 46.0,
+    "yachtski": 52.25,
+    "yt_id": "h91F5qgrsNI"
+  },
+  {
+    "id": 783,
+    "title": "Falling",
+    "artist": "Charlie Dore",
+    "year": 1979,
+    "episode": "YON080",
+    "jd_score": 51.0,
+    "hunter_score": 50.0,
+    "steve_score": 48.0,
+    "dave_score": 51.0,
+    "yachtski": 50.0,
+    "yt_id": "EJ7_myYGr9g"
+  },
+  {
     "id": 784,
     "title": "Love Has Found Its Way",
     "artist": "Dennis Brown",
@@ -9854,19 +9776,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 815,
-    "title": "Snapshot",
-    "artist": "Sylvia",
-    "year": 1983,
-    "episode": "YON085",
-    "jd_score": 60.0,
-    "hunter_score": 51.0,
-    "steve_score": 47.0,
-    "dave_score": 48.0,
-    "yachtski": 51.5,
-    "yt_id": null
-  },
-  {
     "id": 816,
     "title": "I've Got Somebody",
     "artist": "Tanya Tucker",
@@ -9906,19 +9815,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 825,
-    "title": "Magic ",
-    "artist": "Olivia Newton-John",
-    "year": 1980,
-    "episode": "YON087",
-    "jd_score": 48.0,
-    "hunter_score": 53.0,
-    "steve_score": 44.0,
-    "dave_score": 55.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
     "id": 826,
     "title": "Sweet Life",
     "artist": "Paul Davis",
@@ -9929,19 +9825,6 @@ const data = [
     "steve_score": 31.0,
     "dave_score": 42.0,
     "yachtski": 33.75,
-    "yt_id": null
-  },
-  {
-    "id": 827,
-    "title": "Fool In Line",
-    "artist": "Starbuck",
-    "year": 1977,
-    "episode": "YON087",
-    "jd_score": 59.0,
-    "hunter_score": 46.0,
-    "steve_score": 48.0,
-    "dave_score": 50.0,
-    "yachtski": 50.75,
     "yt_id": null
   },
   {
@@ -10335,6 +10218,45 @@ const data = [
     "yt_id": "kv5I6em4FLM"
   },
   {
+    "id": 815,
+    "title": "Snapshot",
+    "artist": "Sylvia",
+    "year": 1983,
+    "episode": "YON085",
+    "jd_score": 60.0,
+    "hunter_score": 51.0,
+    "steve_score": 47.0,
+    "dave_score": 48.0,
+    "yachtski": 51.5,
+    "yt_id": "JE6PE4uXTFI"
+  },
+  {
+    "id": 827,
+    "title": "Fool In Line",
+    "artist": "Starbuck",
+    "year": 1977,
+    "episode": "YON087",
+    "jd_score": 59.0,
+    "hunter_score": 46.0,
+    "steve_score": 48.0,
+    "dave_score": 50.0,
+    "yachtski": 50.75,
+    "yt_id": "Q4ZbPCTwnbY"
+  },
+  {
+    "id": 825,
+    "title": "Magic ",
+    "artist": "Olivia Newton-John",
+    "year": 1980,
+    "episode": "YON087",
+    "jd_score": 48.0,
+    "hunter_score": 53.0,
+    "steve_score": 44.0,
+    "dave_score": 55.0,
+    "yachtski": 50.0,
+    "yt_id": "sDmjEN-6ekE"
+  },
+  {
     "id": 840,
     "title": "I Love A Rainy Night",
     "artist": "Eddie Rabbitt",
@@ -10345,19 +10267,6 @@ const data = [
     "steve_score": 5.0,
     "dave_score": 18.0,
     "yachtski": 12.5,
-    "yt_id": null
-  },
-  {
-    "id": 841,
-    "title": "Brand New Start",
-    "artist": "Jess Roden",
-    "year": 1980,
-    "episode": "YON089",
-    "jd_score": 50.0,
-    "hunter_score": 51.0,
-    "steve_score": 52.0,
-    "dave_score": 52.0,
-    "yachtski": 51.25,
     "yt_id": null
   },
   {
@@ -10400,32 +10309,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 846,
-    "title": "No One Emotion",
-    "artist": "George Benson ",
-    "year": 1985,
-    "episode": "YON090",
-    "jd_score": 42.0,
-    "hunter_score": 54.0,
-    "steve_score": 51.0,
-    "dave_score": 48.0,
-    "yachtski": 48.75,
-    "yt_id": null
-  },
-  {
-    "id": 848,
-    "title": "If I'm Dreamin' (Don't Wake Me)",
-    "artist": "Lee Ritenour",
-    "year": 1986,
-    "episode": "YON090",
-    "jd_score": 38.0,
-    "hunter_score": 50.0,
-    "steve_score": 64.0,
-    "dave_score": 48.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
     "id": 849,
     "title": "Easy To Love",
     "artist": "Leo Sayer",
@@ -10449,19 +10332,6 @@ const data = [
     "steve_score": 50.0,
     "dave_score": 45.0,
     "yachtski": 46.25,
-    "yt_id": null
-  },
-  {
-    "id": 854,
-    "title": "Now We May Begin",
-    "artist": "Randy Crawford",
-    "year": 1980,
-    "episode": "YON091",
-    "jd_score": 49.0,
-    "hunter_score": 52.0,
-    "steve_score": 47.0,
-    "dave_score": 56.0,
-    "yachtski": 51.0,
     "yt_id": null
   },
   {
@@ -10699,19 +10569,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 892,
-    "title": "Gettin' To The Good Part",
-    "artist": "Herbie Hancock",
-    "year": 1982,
-    "episode": "YON097",
-    "jd_score": 51.0,
-    "hunter_score": 51.0,
-    "steve_score": 51.0,
-    "dave_score": 49.0,
-    "yachtski": 50.5,
-    "yt_id": null
-  },
-  {
     "id": 893,
     "title": "With Your Love",
     "artist": "Jefferson Starship",
@@ -10722,32 +10579,6 @@ const data = [
     "steve_score": 42.0,
     "dave_score": 28.0,
     "yachtski": 36.25,
-    "yt_id": null
-  },
-  {
-    "id": 894,
-    "title": "Be Yourself",
-    "artist": "Logic System",
-    "year": 1981,
-    "episode": "YON097",
-    "jd_score": 50.0,
-    "hunter_score": 50.0,
-    "steve_score": 53.0,
-    "dave_score": 47.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
-    "id": 895,
-    "title": "Fo-Fi-Fo",
-    "artist": "Pieces Of A Dream",
-    "year": 1983,
-    "episode": "YON097",
-    "jd_score": 50.0,
-    "hunter_score": 53.0,
-    "steve_score": 52.0,
-    "dave_score": 55.0,
-    "yachtski": 52.5,
     "yt_id": null
   },
   {
@@ -11024,6 +10855,84 @@ const data = [
     "yt_id": "cqBbZgnTPuQ"
   },
   {
+    "id": 895,
+    "title": "Fo-Fi-Fo",
+    "artist": "Pieces Of A Dream",
+    "year": 1983,
+    "episode": "YON097",
+    "jd_score": 50.0,
+    "hunter_score": 53.0,
+    "steve_score": 52.0,
+    "dave_score": 55.0,
+    "yachtski": 52.5,
+    "yt_id": "Eosik4T6gKc"
+  },
+  {
+    "id": 841,
+    "title": "Brand New Start",
+    "artist": "Jess Roden",
+    "year": 1980,
+    "episode": "YON089",
+    "jd_score": 50.0,
+    "hunter_score": 51.0,
+    "steve_score": 52.0,
+    "dave_score": 52.0,
+    "yachtski": 51.25,
+    "yt_id": "fIKiNX1ChHo"
+  },
+  {
+    "id": 854,
+    "title": "Now We May Begin",
+    "artist": "Randy Crawford",
+    "year": 1980,
+    "episode": "YON091",
+    "jd_score": 49.0,
+    "hunter_score": 52.0,
+    "steve_score": 47.0,
+    "dave_score": 56.0,
+    "yachtski": 51.0,
+    "yt_id": "tjfuYkG8qCc"
+  },
+  {
+    "id": 892,
+    "title": "Gettin' To The Good Part",
+    "artist": "Herbie Hancock",
+    "year": 1982,
+    "episode": "YON097",
+    "jd_score": 51.0,
+    "hunter_score": 51.0,
+    "steve_score": 51.0,
+    "dave_score": 49.0,
+    "yachtski": 50.5,
+    "yt_id": "0AE-EabHu0U"
+  },
+  {
+    "id": 894,
+    "title": "Be Yourself",
+    "artist": "Logic System",
+    "year": 1981,
+    "episode": "YON097",
+    "jd_score": 50.0,
+    "hunter_score": 50.0,
+    "steve_score": 53.0,
+    "dave_score": 47.0,
+    "yachtski": 50.0,
+    "yt_id": "FYS57ZSjLVY"
+  },
+  {
+    "id": 846,
+    "title": "No One Emotion",
+    "artist": "George Benson ",
+    "year": 1985,
+    "episode": "YON090",
+    "jd_score": 42.0,
+    "hunter_score": 54.0,
+    "steve_score": 51.0,
+    "dave_score": 48.0,
+    "yachtski": 48.75,
+    "yt_id": "Q-MyvbolxG0"
+  },
+  {
     "id": 896,
     "title": "Your Love Is Driving Me Crazy",
     "artist": "Sammy Hagar",
@@ -11086,32 +10995,6 @@ const data = [
     "steve_score": 34.0,
     "dave_score": 25.0,
     "yachtski": 32.75,
-    "yt_id": null
-  },
-  {
-    "id": 903,
-    "title": "Song Of The Whales",
-    "artist": "Bleu McAuley & Joshua Kauffman",
-    "year": 2016,
-    "episode": "YON099",
-    "jd_score": 50.0,
-    "hunter_score": 50.0,
-    "steve_score": 56.0,
-    "dave_score": 44.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
-    "id": 904,
-    "title": "Captain Caribe",
-    "artist": "Dave Grusin",
-    "year": 1979,
-    "episode": "YON099",
-    "jd_score": 44.0,
-    "hunter_score": 46.0,
-    "steve_score": 52.0,
-    "dave_score": 54.0,
-    "yachtski": 49.0,
     "yt_id": null
   },
   {
@@ -11232,19 +11115,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 923,
-    "title": "It Keeps You Runnin'",
-    "artist": "Carly Simon",
-    "year": 1976,
-    "episode": "YONP02",
-    "jd_score": 50.0,
-    "hunter_score": 47.0,
-    "steve_score": 61.0,
-    "dave_score": 46.0,
-    "yachtski": 51.0,
-    "yt_id": null
-  },
-  {
     "id": 925,
     "title": "This Masquerade",
     "artist": "George Benson",
@@ -11271,32 +11141,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 928,
-    "title": "Carry My Blues Away",
-    "artist": "Tamarack",
-    "year": 1981,
-    "episode": "YONP02",
-    "jd_score": 65.0,
-    "hunter_score": 32.0,
-    "steve_score": 72.0,
-    "dave_score": 45.0,
-    "yachtski": 53.5,
-    "yt_id": null
-  },
-  {
-    "id": 930,
-    "title": "Can't Get Away From You",
-    "artist": "Chunky, Novi & Ernie",
-    "year": 1977,
-    "episode": "YONP03",
-    "jd_score": 60.0,
-    "hunter_score": 43.0,
-    "steve_score": 62.0,
-    "dave_score": 46.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 933,
     "title": "Rose Darling",
     "artist": "Steely Dan",
@@ -11307,19 +11151,6 @@ const data = [
     "steve_score": 51.0,
     "dave_score": 42.0,
     "yachtski": 43.5,
-    "yt_id": null
-  },
-  {
-    "id": 934,
-    "title": "Gigolos Get Lonely Too",
-    "artist": "The Time",
-    "year": 1982,
-    "episode": "YONP03",
-    "jd_score": 51.0,
-    "hunter_score": 52.0,
-    "steve_score": 53.0,
-    "dave_score": 55.0,
-    "yachtski": 52.75,
     "yt_id": null
   },
   {
@@ -11414,19 +11245,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 948,
-    "title": "I Love You More",
-    "artist": "George Duke",
-    "year": 1979,
-    "episode": "YONP05",
-    "jd_score": 52.0,
-    "hunter_score": 48.0,
-    "steve_score": 54.0,
-    "dave_score": 45.0,
-    "yachtski": 49.75,
-    "yt_id": null
-  },
-  {
     "id": 949,
     "title": "You Can’t Get What You Want",
     "artist": "Joe Jackson ",
@@ -11450,19 +11268,6 @@ const data = [
     "steve_score": 23.0,
     "dave_score": 25.0,
     "yachtski": 23.5,
-    "yt_id": null
-  },
-  {
-    "id": 951,
-    "title": "You Are",
-    "artist": "Lionel Richie",
-    "year": 1982,
-    "episode": "YONP05",
-    "jd_score": 51.0,
-    "hunter_score": 54.0,
-    "steve_score": 53.0,
-    "dave_score": 53.0,
-    "yachtski": 52.75,
     "yt_id": null
   },
   {
@@ -11713,6 +11518,110 @@ const data = [
     "yt_id": "jKn8miANnkw"
   },
   {
+    "id": 928,
+    "title": "Carry My Blues Away",
+    "artist": "Tamarack",
+    "year": 1981,
+    "episode": "YONP02",
+    "jd_score": 65.0,
+    "hunter_score": 32.0,
+    "steve_score": 72.0,
+    "dave_score": 45.0,
+    "yachtski": 53.5,
+    "yt_id": "Zby0f8S-9zw"
+  },
+  {
+    "id": 951,
+    "title": "You Are",
+    "artist": "Lionel Richie",
+    "year": 1982,
+    "episode": "YONP05",
+    "jd_score": 51.0,
+    "hunter_score": 54.0,
+    "steve_score": 53.0,
+    "dave_score": 53.0,
+    "yachtski": 52.75,
+    "yt_id": "DXMDWfLclNY"
+  },
+  {
+    "id": 934,
+    "title": "Gigolos Get Lonely Too",
+    "artist": "The Time",
+    "year": 1982,
+    "episode": "YONP03",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 53.0,
+    "dave_score": 55.0,
+    "yachtski": 52.75,
+    "yt_id": "85iu_Jieolc"
+  },
+  {
+    "id": 930,
+    "title": "Can't Get Away From You",
+    "artist": "Chunky, Novi & Ernie",
+    "year": 1977,
+    "episode": "YONP03",
+    "jd_score": 60.0,
+    "hunter_score": 43.0,
+    "steve_score": 62.0,
+    "dave_score": 46.0,
+    "yachtski": 52.75,
+    "yt_id": "4Y-vd-WtNoY"
+  },
+  {
+    "id": 923,
+    "title": "It Keeps You Runnin'",
+    "artist": "Carly Simon",
+    "year": 1976,
+    "episode": "YONP02",
+    "jd_score": 50.0,
+    "hunter_score": 47.0,
+    "steve_score": 61.0,
+    "dave_score": 46.0,
+    "yachtski": 51.0,
+    "yt_id": "cjSLBAYZTMA"
+  },
+  {
+    "id": 903,
+    "title": "Song Of The Whales",
+    "artist": "Bleu McAuley & Joshua Kauffman",
+    "year": 2016,
+    "episode": "YON099",
+    "jd_score": 50.0,
+    "hunter_score": 50.0,
+    "steve_score": 56.0,
+    "dave_score": 44.0,
+    "yachtski": 50.0,
+    "yt_id": "CUEezFriM1s"
+  },
+  {
+    "id": 948,
+    "title": "I Love You More",
+    "artist": "George Duke",
+    "year": 1979,
+    "episode": "YONP05",
+    "jd_score": 52.0,
+    "hunter_score": 48.0,
+    "steve_score": 54.0,
+    "dave_score": 45.0,
+    "yachtski": 49.75,
+    "yt_id": "3_i9tO-89J8"
+  },
+  {
+    "id": 904,
+    "title": "Captain Caribe",
+    "artist": "Dave Grusin",
+    "year": 1979,
+    "episode": "YON099",
+    "jd_score": 44.0,
+    "hunter_score": 46.0,
+    "steve_score": 52.0,
+    "dave_score": 54.0,
+    "yachtski": 49.0,
+    "yt_id": "3Ke55lQGE2E"
+  },
+  {
     "id": 954,
     "title": "Kjærleik",
     "artist": "Olav Stedje",
@@ -11765,19 +11674,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 959,
-    "title": "Hard Times",
-    "artist": "Boz Scaggs",
-    "year": 1977,
-    "episode": "YONP06",
-    "jd_score": 50.0,
-    "hunter_score": 52.0,
-    "steve_score": 58.0,
-    "dave_score": 48.0,
-    "yachtski": 52.0,
-    "yt_id": null
-  },
-  {
     "id": 969,
     "title": "Shame",
     "artist": "Evelyn Champagne King",
@@ -11814,19 +11710,6 @@ const data = [
     "steve_score": 34.0,
     "dave_score": 33.0,
     "yachtski": 36.0,
-    "yt_id": null
-  },
-  {
-    "id": 973,
-    "title": "Everyone's Gone To The Movies",
-    "artist": "Steely Dan",
-    "year": 1975,
-    "episode": "YONP08",
-    "jd_score": 51.0,
-    "hunter_score": 50.0,
-    "steve_score": 52.0,
-    "dave_score": 49.0,
-    "yachtski": 50.5,
     "yt_id": null
   },
   {
@@ -11905,19 +11788,6 @@ const data = [
     "steve_score": 40.0,
     "dave_score": 38.0,
     "yachtski": 39.5,
-    "yt_id": null
-  },
-  {
-    "id": 983,
-    "title": "Everything You Did",
-    "artist": "Steely Dan",
-    "year": 1976,
-    "episode": "YONP09",
-    "jd_score": 49.0,
-    "hunter_score": 54.0,
-    "steve_score": 48.0,
-    "dave_score": 51.0,
-    "yachtski": 50.5,
     "yt_id": null
   },
   {
@@ -12402,17 +12272,43 @@ const data = [
     "yt_id": "BqSq05bpcmw"
   },
   {
-    "id": 1008,
-    "title": "Where Are You?",
-    "artist": "Burton Cummings",
-    "year": 1980,
-    "episode": "YONP13",
+    "id": 959,
+    "title": "Hard Times",
+    "artist": "Boz Scaggs",
+    "year": 1977,
+    "episode": "YONP06",
+    "jd_score": 50.0,
+    "hunter_score": 52.0,
+    "steve_score": 58.0,
+    "dave_score": 48.0,
+    "yachtski": 52.0,
+    "yt_id": "4BJ_oihd-2g"
+  },
+  {
+    "id": 973,
+    "title": "Everyone's Gone To The Movies",
+    "artist": "Steely Dan",
+    "year": 1975,
+    "episode": "YONP08",
+    "jd_score": 51.0,
+    "hunter_score": 50.0,
+    "steve_score": 52.0,
+    "dave_score": 49.0,
+    "yachtski": 50.5,
+    "yt_id": "H28ZoZrKCzI"
+  },
+  {
+    "id": 983,
+    "title": "Everything You Did",
+    "artist": "Steely Dan",
+    "year": 1976,
+    "episode": "YONP09",
     "jd_score": 49.0,
-    "hunter_score": 48.0,
-    "steve_score": 54.0,
-    "dave_score": 45.0,
-    "yachtski": 49.0,
-    "yt_id": null
+    "hunter_score": 54.0,
+    "steve_score": 48.0,
+    "dave_score": 51.0,
+    "yachtski": 50.5,
+    "yt_id": "R1W7ZCttn9E"
   },
   {
     "id": 1015,
@@ -12428,19 +12324,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 1016,
-    "title": "Ringing Doorbells in the Rain",
-    "artist": "Valerie Carter",
-    "year": 1977,
-    "episode": "YONP13",
-    "jd_score": 51.0,
-    "hunter_score": 51.0,
-    "steve_score": 52.0,
-    "dave_score": 57.0,
-    "yachtski": 52.75,
-    "yt_id": null
-  },
-  {
     "id": 1017,
     "title": "A Love of Your Own",
     "artist": "Average White Band",
@@ -12451,19 +12334,6 @@ const data = [
     "steve_score": 46.0,
     "dave_score": 38.0,
     "yachtski": 41.5,
-    "yt_id": null
-  },
-  {
-    "id": 1018,
-    "title": "Here is Where Your Love Belongs",
-    "artist": "Jaye P. Morgan",
-    "year": 1976,
-    "episode": "YONP14",
-    "jd_score": 49.0,
-    "hunter_score": 48.0,
-    "steve_score": 56.0,
-    "dave_score": 42.0,
-    "yachtski": 48.75,
     "yt_id": null
   },
   {
@@ -12532,19 +12402,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 1025,
-    "title": "Miss Sun",
-    "artist": "Toto",
-    "year": 1977,
-    "episode": "YONP14",
-    "jd_score": 48.0,
-    "hunter_score": 49.0,
-    "steve_score": 52.0,
-    "dave_score": 49.0,
-    "yachtski": 49.5,
-    "yt_id": null
-  },
-  {
     "id": 1027,
     "title": "What Do You Want",
     "artist": "Dr. Hook",
@@ -12558,19 +12415,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 1029,
-    "title": "Bushwalkin'",
-    "artist": "Stylus",
-    "year": 1978,
-    "episode": "YONP15",
-    "jd_score": 43.0,
-    "hunter_score": 47.0,
-    "steve_score": 56.0,
-    "dave_score": 48.0,
-    "yachtski": 48.5,
-    "yt_id": null
-  },
-  {
     "id": 1031,
     "title": "Take Back My Love",
     "artist": "The Gene Dunlap Band",
@@ -12581,19 +12425,6 @@ const data = [
     "steve_score": 35.0,
     "dave_score": 38.0,
     "yachtski": 39.5,
-    "yt_id": null
-  },
-  {
-    "id": 1032,
-    "title": "Appaloosa",
-    "artist": "Gino Vannelli",
-    "year": 1978,
-    "episode": "YONP15",
-    "jd_score": 45.0,
-    "hunter_score": 51.0,
-    "steve_score": 62.0,
-    "dave_score": 42.0,
-    "yachtski": 50.0,
     "yt_id": null
   },
   {
@@ -12737,19 +12568,6 @@ const data = [
     "steve_score": 24.0,
     "dave_score": 18.0,
     "yachtski": 21.5,
-    "yt_id": null
-  },
-  {
-    "id": 1055,
-    "title": "Don't Stay Away",
-    "artist": "Leon Ware",
-    "year": 1981,
-    "episode": "YONP17",
-    "jd_score": 49.0,
-    "hunter_score": 51.0,
-    "steve_score": 53.0,
-    "dave_score": 50.0,
-    "yachtski": 50.75,
     "yt_id": null
   },
   {
@@ -13078,17 +12896,95 @@ const data = [
     "yt_id": "ujVYvNAdI2M"
   },
   {
-    "id": 1067,
-    "title": "Archer",
-    "artist": "Steve Archer",
-    "year": null,
-    "episode": "YONP19",
-    "jd_score": 50.0,
-    "hunter_score": 54.0,
-    "steve_score": 46.0,
-    "dave_score": 47.0,
-    "yachtski": 49.25,
-    "yt_id": null
+    "id": 1016,
+    "title": "Ringing Doorbells in the Rain",
+    "artist": "Valerie Carter",
+    "year": 1977,
+    "episode": "YONP13",
+    "jd_score": 51.0,
+    "hunter_score": 51.0,
+    "steve_score": 52.0,
+    "dave_score": 57.0,
+    "yachtski": 52.75,
+    "yt_id": "1CdW4J3U-WM"
+  },
+  {
+    "id": 1055,
+    "title": "Don't Stay Away",
+    "artist": "Leon Ware",
+    "year": 1981,
+    "episode": "YONP17",
+    "jd_score": 49.0,
+    "hunter_score": 51.0,
+    "steve_score": 53.0,
+    "dave_score": 50.0,
+    "yachtski": 50.75,
+    "yt_id": "J7hlBDyKVn0"
+  },
+  {
+    "id": 1032,
+    "title": "Appaloosa",
+    "artist": "Gino Vannelli",
+    "year": 1978,
+    "episode": "YONP15",
+    "jd_score": 45.0,
+    "hunter_score": 51.0,
+    "steve_score": 62.0,
+    "dave_score": 42.0,
+    "yachtski": 50.0,
+    "yt_id": "FYoEPDBsYTo"
+  },
+  {
+    "id": 1025,
+    "title": "Miss Sun",
+    "artist": "Toto",
+    "year": 1977,
+    "episode": "YONP14",
+    "jd_score": 48.0,
+    "hunter_score": 49.0,
+    "steve_score": 52.0,
+    "dave_score": 49.0,
+    "yachtski": 49.5,
+    "yt_id": "u_PGTnwMcFE"
+  },
+  {
+    "id": 1008,
+    "title": "Where Are You?",
+    "artist": "Burton Cummings",
+    "year": 1980,
+    "episode": "YONP13",
+    "jd_score": 49.0,
+    "hunter_score": 48.0,
+    "steve_score": 54.0,
+    "dave_score": 45.0,
+    "yachtski": 49.0,
+    "yt_id": "QcBktqzOS2U"
+  },
+  {
+    "id": 1018,
+    "title": "Here is Where Your Love Belongs",
+    "artist": "Jaye P. Morgan",
+    "year": 1976,
+    "episode": "YONP14",
+    "jd_score": 49.0,
+    "hunter_score": 48.0,
+    "steve_score": 56.0,
+    "dave_score": 42.0,
+    "yachtski": 48.75,
+    "yt_id": "a9zFZRZgtIQ"
+  },
+  {
+    "id": 1029,
+    "title": "Bushwalkin'",
+    "artist": "Stylus",
+    "year": 1978,
+    "episode": "YONP15",
+    "jd_score": 43.0,
+    "hunter_score": 47.0,
+    "steve_score": 56.0,
+    "dave_score": 48.0,
+    "yachtski": 48.5,
+    "yt_id": "xF1GUyal0bg"
   },
   {
     "id": 1068,
@@ -13104,19 +13000,6 @@ const data = [
     "yt_id": null
   },
   {
-    "id": 1069,
-    "title": "Golden Girl",
-    "artist": "Jakata",
-    "year": null,
-    "episode": "YONP19",
-    "jd_score": 50.0,
-    "hunter_score": 51.0,
-    "steve_score": 53.0,
-    "dave_score": 46.0,
-    "yachtski": 50.0,
-    "yt_id": null
-  },
-  {
     "id": 1070,
     "title": "Fools",
     "artist": "Drugdealer",
@@ -13127,19 +13010,6 @@ const data = [
     "steve_score": 38.0,
     "dave_score": 22.0,
     "yachtski": 27.75,
-    "yt_id": null
-  },
-  {
-    "id": 1072,
-    "title": "Into the Night",
-    "artist": "Tamir",
-    "year": null,
-    "episode": "YONP19",
-    "jd_score": 80.0,
-    "hunter_score": 53.0,
-    "steve_score": 41.0,
-    "dave_score": 28.0,
-    "yachtski": 50.5,
     "yt_id": null
   },
   {
@@ -13231,32 +13101,6 @@ const data = [
     "steve_score": 51.0,
     "dave_score": 43.75,
     "yachtski": 47.125,
-    "yt_id": null
-  },
-  {
-    "id": 1082,
-    "title": "Rio",
-    "artist": "Bliss Band",
-    "year": 1978,
-    "episode": "YONP20",
-    "jd_score": 45.0,
-    "hunter_score": 48.0,
-    "steve_score": 69.0,
-    "dave_score": 47.0,
-    "yachtski": 52.25,
-    "yt_id": null
-  },
-  {
-    "id": 1084,
-    "title": "King Grand ",
-    "artist": "Sea Level",
-    "year": 1978,
-    "episode": "YONP20",
-    "jd_score": 55.0,
-    "hunter_score": 44.0,
-    "steve_score": 65.0,
-    "dave_score": 47.0,
-    "yachtski": 52.75,
     "yt_id": null
   },
   {
@@ -13754,6 +13598,58 @@ const data = [
     "yt_id": "ArWYH7a8WT8"
   },
   {
+    "id": 1084,
+    "title": "King Grand ",
+    "artist": "Sea Level",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 55.0,
+    "hunter_score": 44.0,
+    "steve_score": 65.0,
+    "dave_score": 47.0,
+    "yachtski": 52.75,
+    "yt_id": "5Z_fTcC1XHQ"
+  },
+  {
+    "id": 1082,
+    "title": "Rio",
+    "artist": "Bliss Band",
+    "year": 1978,
+    "episode": "YONP20",
+    "jd_score": 45.0,
+    "hunter_score": 48.0,
+    "steve_score": 69.0,
+    "dave_score": 47.0,
+    "yachtski": 52.25,
+    "yt_id": "-11iS3SI_Wk"
+  },
+  {
+    "id": 1072,
+    "title": "Into the Night",
+    "artist": "Tamir",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 80.0,
+    "hunter_score": 53.0,
+    "steve_score": 41.0,
+    "dave_score": 28.0,
+    "yachtski": 50.5,
+    "yt_id": "XkTW_-XN9ME"
+  },
+  {
+    "id": 1069,
+    "title": "Golden Girl",
+    "artist": "Jakata",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 50.0,
+    "hunter_score": 51.0,
+    "steve_score": 53.0,
+    "dave_score": 46.0,
+    "yachtski": 50.0,
+    "yt_id": "KdSMIQxIuuY"
+  },
+  {
     "id": 738,
     "title": "Let Her Get Away",
     "artist": "Roger Voudouris",
@@ -14090,5 +13986,109 @@ const data = [
     "dave_score": 51.0,
     "yachtski": 54.25,
     "yt_id": "J7EtDeynHxc"
+  },
+  {
+    "id": 202,
+    "title": "Keep The Fire",
+    "artist": "Kenny Loggins",
+    "year": 1979,
+    "episode": "YON009",
+    "jd_score": 65.0,
+    "hunter_score": 49.0,
+    "steve_score": 60.0,
+    "dave_score": 42.0,
+    "yachtski": 54.0,
+    "yt_id": "R08Rm9T2NWw"
+  },
+  {
+    "id": 727,
+    "title": "It's You",
+    "artist": "Stevie Wonder & Dionne Warwick",
+    "year": 1984,
+    "episode": "YON071",
+    "jd_score": 50.0,
+    "hunter_score": 42.0,
+    "steve_score": 56.0,
+    "dave_score": 55.0,
+    "yachtski": 50.75,
+    "yt_id": "oE56g61mW44"
+  },
+  {
+    "id": 313,
+    "title": "Sinking in an Ocean of Tears",
+    "artist": "Stephen Bishop",
+    "year": 1976,
+    "episode": "YON020",
+    "jd_score": 56.0,
+    "hunter_score": 49.0,
+    "steve_score": 41.0,
+    "dave_score": 55.0,
+    "yachtski": 50.25,
+    "yt_id": "_N32OZ4nBkI"
+  },
+  {
+    "id": 848,
+    "title": "If I'm Dreamin' (Don't Wake Me)",
+    "artist": "Lee Ritenour",
+    "year": 1986,
+    "episode": "YON090",
+    "jd_score": 38.0,
+    "hunter_score": 50.0,
+    "steve_score": 64.0,
+    "dave_score": 48.0,
+    "yachtski": 50.0,
+    "yt_id": "zYuMVN3TtJE"
+  },
+  {
+    "id": 370,
+    "title": "Juke Box Fury",
+    "artist": "Rickie Lee Jones",
+    "year": 1984,
+    "episode": "YON026",
+    "jd_score": 51.0,
+    "hunter_score": 50.0,
+    "steve_score": 51.0,
+    "dave_score": 48.0,
+    "yachtski": 50.0,
+    "yt_id": "NGj9snTe2w8"
+  },
+  {
+    "id": 274,
+    "title": "Talk to Me",
+    "artist": "Olivia Newton John",
+    "year": 1978,
+    "episode": "YON016",
+    "jd_score": 60.0,
+    "hunter_score": 52.0,
+    "steve_score": 47.0,
+    "dave_score": 40.0,
+    "yachtski": 49.75,
+    "yt_id": "u01Mu3kCIs0"
+  },
+  {
+    "id": 1067,
+    "title": "Archer",
+    "artist": "Steve Archer",
+    "year": null,
+    "episode": "YONP19",
+    "jd_score": 50.0,
+    "hunter_score": 54.0,
+    "steve_score": 46.0,
+    "dave_score": 47.0,
+    "yachtski": 49.25,
+    "yt_id": "IiZ021B-Atw"
+  },
+  {
+    "id": 561,
+    "title": "Slow Hand",
+    "artist": "Pointer Sisters",
+    "year": 1981,
+    "episode": "YON046",
+    "jd_score": 51.0,
+    "hunter_score": 52.0,
+    "steve_score": 49.0,
+    "dave_score": 44.0,
+    "yachtski": 49.0,
+    "yt_id": "dbk29JZdl5A"
   }
 ]
