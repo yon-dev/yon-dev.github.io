@@ -14090,5 +14090,17 @@ const data = [
     "dave_score": 4.0,
     "yachtski": 3.5,
     "yt_id": "R3v_lnfQiS8"
+  },
+  {
+    "title": "Wide Eyed and Legless",
+    "artist": "Andy Fairweather-Low",
+    "year": 1975,
+    "episode": "YONP21",
+    "jd_score": 30.0,
+    "hunter_score": 39.0,
+    "steve_score": 65.0,
+    "dave_score": 47.0,
+    "yachtski": 32.5,
+    "yt_id": "u5v_cuQMGGY"
   }
 ]
