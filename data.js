@@ -14102,5 +14102,101 @@ const data = [
     "dave_score": 47.0,
     "yachtski": 32.5,
     "yt_id": "u5v_cuQMGGY"
+  },
+  {
+    "title": "Here I Go (Falling In Love Again)",
+    "artist": "Frannie Golde",
+    "year": 1979,
+    "episode": "YONP21",
+    "jd_score": 55.0,
+    "hunter_score": 46.0,
+    "steve_score": 56.0,
+    "dave_score": 42.0,
+    "yachtski": 49.75,
+    "yt_id": "3wXq-l9EqUo"
+  },
+  {
+    "title": "Friendly Stealer",
+    "artist": "Steve Eaton",
+    "year": 1979,
+    "episode": "YONP21",
+    "jd_score": 49.0,
+    "hunter_score": 49.0,
+    "steve_score": 48.0,
+    "dave_score": 39.0,
+    "yachtski": 46.25,
+    "yt_id": "ZLsEUyNgTWs"
+  },
+  {
+    "title": "Knock the Walls Down",
+    "artist": "Steve Kipner",
+    "year": 1979,
+    "episode": "YONP21",
+    "jd_score": 55.0,
+    "hunter_score": 67.0,
+    "steve_score": 68.0,
+    "dave_score": 62.0,
+    "yachtski": 63.00,
+    "yt_id": "5ov-4FqzMzw"
+  },
+  {
+    "title": "City Nite Life",
+    "artist": "Ayers Rock",
+    "year": 1980,
+    "episode": "YONP21",
+    "jd_score": 75.0,
+    "hunter_score": 78.0,
+    "steve_score": 70.0,
+    "dave_score": 77.0,
+    "yachtski": 75.00,
+    "yt_id": "eGTv6duWuo4"
+  },
+  {
+    "title": "Our Love Is On The Fault Line",
+    "artist": "Crystal Gayle",
+    "year": 1982,
+    "episode": "YONP21",
+    "jd_score": 20.0,
+    "hunter_score": 21.0,
+    "steve_score": 24.0,
+    "dave_score": 18.0,
+    "yachtski": 20.75,
+    "yt_id": "HdzLMEJCCyo"
+  },
+  {
+    "title": "Soft Shoulder",
+    "artist": "Generation Band",
+    "year": 1982,
+    "episode": "YONP21",
+    "jd_score": 35.0,
+    "hunter_score": 45.0,
+    "steve_score": 32.0,
+    "dave_score": 32.0,
+    "yachtski": 36.00,
+    "yt_id": "PyIJ-23vpvk"
+  },
+  {
+    "title": "It’s Your Move",
+    "artist": "Patty Weaver",
+    "year": 1982,
+    "episode": "YONP21",
+    "jd_score": 51.0,
+    "hunter_score": 46.0,
+    "steve_score": 53.0,
+    "dave_score": 47.0,
+    "yachtski": 49.25,
+    "yt_id": "03YrwqtlQB4"
+  },
+  {
+    "title": "I-69",
+    "artist": "Roman Gianarthur",
+    "year": 2014,
+    "episode": "YONP21",
+    "jd_score": 49.0,
+    "hunter_score": 43.0,
+    "steve_score": 38.0,
+    "dave_score": 42.0,
+    "yachtski": 43.00,
+    "yt_id": "WI0WBDUIb_Q"
   }
 ]
