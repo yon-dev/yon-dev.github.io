@@ -12636,19 +12636,6 @@ const data = [
     "yt_id": "HV3zWSawJiw"
   },
   {
-    "id": 43,
-    "title": "Something Special",
-    "artist": "Quincy Jones w/ Patti Austin",
-    "year": 1981,
-    "episode": "BYR40",
-    "jd_score": 93.0,
-    "hunter_score": 92.0,
-    "steve_score": 91.0,
-    "dave_score": 94.0,
-    "yachtski": 92.5,
-    "yt_id": "NEdBGk9YlgE"
-  },
-  {
     "id": 797,
     "title": "Sure Enough",
     "artist": "Tom Scott",
