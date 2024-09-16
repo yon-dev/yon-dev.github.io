@@ -14810,8 +14810,7 @@ const data = [
     "dave_score": 42,
     "yachtski": 46.5,
     "yt_id": "eAN6XlaQ9eQ"
-  }
-  [
+  },
   {
     "title": "Waiting On You",
     "artist": "Pointer Sisters",
@@ -15208,7 +15207,7 @@ const data = [
     "yachtski": 38.25,
     "yt_id": "RnAs66d0I84"
   },
-{
+  {
     "title": "The Shrimp",
     "artist": "Janne Schaffer",
     "year": 1978,
