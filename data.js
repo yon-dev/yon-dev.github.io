@@ -650,19 +650,6 @@ const data = [
     "yt_id": "e5MAg_yWsq8"
   },
   {
-    "id": 45,
-    "title": "If There's a Way",
-    "artist": "Waters",
-    "year": 1977,
-    "episode": "BYR40",
-    "jd_score": 0.0,
-    "hunter_score": 0.0,
-    "steve_score": 0.0,
-    "dave_score": 0.0,
-    "yachtski": 0.0,
-    "yt_id": "kgnT4J0fgG8"
-  },
-  {
     "id": 97,
     "title": "Brooklyn Girls",
     "artist": "Robbie Dupree",
