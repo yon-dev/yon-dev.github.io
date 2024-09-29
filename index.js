@@ -101,7 +101,7 @@ function filterByText() {
   return new Promise(function(resolve, reject) {
     let reg = new RegExp(textFilter, 'i');
     visibleData = visibleData.filter((song) => {
-      return song.title.match(reg) || song.artist.match(reg);
+      return song.title.toString().match(reg) || song.artist.toString().match(reg);
     });
     resolve();
   });
