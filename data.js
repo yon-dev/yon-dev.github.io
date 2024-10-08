@@ -17915,6 +17915,6 @@ const data = [
     "steve_score": 40,
     "dave_score": 43,
     "yachtski": 39.5,
-    "yt_id": "91XTZ92zs2w"
+    "yt_id": "Q7SIsbLdizU"
   }
 ]
