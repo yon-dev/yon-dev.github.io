@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PRT0LHC5NC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-PRT0LHC5NC');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yacht or Nyacht?</title>
+
+  <!-- Import Styles -->
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="stats.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- Import data and js -->
+  <script src="./data.js"></script>
   <script src="./shared.js"></script>
+  <script src="./app.js"></script>
+  <script src="./stats.js"></script>
+</head>
+
+<body>
+  <div class="page-container">
+    <header>
+      <div class="nav-bar">
+        <div class="title">
+          Yacht or Nyacht?
+        </div>
+
+        <div class="menu">
+          <button id="menuBtn" class="menu-btn">
+            <svg width="15px" height="15px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 6H20M4 12H20M4 18H20" stroke="#343434" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+
+          <div id="menuList" class="menu-list" style="display:none;">
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div id="totals" class="totals-row">
+      <!-- Totals row element generated in stats.js -->
+    </div>
+
+    <div id="dissent">
+      <div class="stat-header">
+        Largest Dissent
+      </div>
+
+      <div class="stat-bar-section">
+        <div class="stat-bar-header">
+          <div>&nbsp</div>
+    
+          <div>&nbsp</div>
+    
+          <div class="other-name">Others</div>
+        </div>
+
+        <!-- Stat bar element generated in stats.js -->
+      </div>
+    </div>
+
+    <div id="disagreements">
+      
+    </div>
+  </div>
+</body>

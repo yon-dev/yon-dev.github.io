@@ -1,0 +1,39 @@
+.stat-header {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.totals-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 10px;
+}
+
+.stat-bar-header,
+.stat-bar-item {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.stat-bar-header .host-name {
+  font-size: 16px;
+}
+
+.stat-bar-item > * {
+  padding: 8px;
+}
+
+.song-title {
+  display: inline-block;
+}
+
+.song-title:before {
+  content: " - ";
+  white-space: pre;
+}
+
+.white {
+  color: #fff;
+}
