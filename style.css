@@ -105,7 +105,7 @@ header > div {
   grid-column-gap: 10px;
 }
 
-.score-filter {
+.filter {
   max-width: 150px;
   padding: 4px;
   border: 0;
@@ -117,11 +117,11 @@ header > div {
   font-size: 12px;
 }
 
-.score-filter:hover {
+.filter:hover {
   cursor: pointer;
 }
 
-.score-filter.active {
+.filter.active {
   background-color: #343434;
   color: #fff;
   font-weight: 700;

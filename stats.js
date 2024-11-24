@@ -1,18 +1,28 @@
 const songs = Array.from(data);
 const hosts = ['jd', 'hunter', 'steve', 'dave'];
-const currentHost = 'dave';
-const otherHosts = hosts.filter(hostName => hostName != currentHost);
+let currentHost = 'jd';
 
 // Initialize stats object
-var hostStats =  {
+let hostStats =  {
   totals: { essential: 0, yacht: 0, nyacht: 0 },
   dissents: { yacht: [], nyacht: [] },
   disagreements: { yacht: {}, nyacht: {} },
   weirdEssentials: []
 };
 
+function initializeStats() {
+  hostStats =  {
+    totals: { essential: 0, yacht: 0, nyacht: 0 },
+    dissents: { yacht: [], nyacht: [] },
+    disagreements: { yacht: {}, nyacht: {} },
+    weirdEssentials: []
+  };
+};
+
 function generateStats() {
-  // Construct disagreements
+  // Construct disagreement
+  let otherHosts = hosts.filter(hostName => hostName != currentHost);
+
   otherHosts.forEach(hostName => {
     hostStats.disagreements.yacht[hostName] = { song: {}, difference: 0, otherScore: 0 };
     hostStats.disagreements.nyacht[hostName] = { song: {}, difference: 0, otherScore: 0 };
@@ -80,19 +90,44 @@ function generateStats() {
 // On page load, generate HTML elements
 document.addEventListener('DOMContentLoaded', function () {
   generateStats();
+  generateEls();
 
-  const hostNameEls = Array.from(document.getElementsByClassName('host-name'));
-  hostNameEls.forEach(el => el.textContent = currentHost); // Now you can use array methods
+  const hostFilters = document.getElementsByClassName('host-filter');
+  for (let filter of hostFilters) {
+    filter.addEventListener('click', (e) => {
+      for (let f of hostFilters) {
+        f.classList.remove('active');
+      }
 
-  generateTotalsElement();
-  generateDissentElement();
-  generateDisagreementElement();
-  generateWeirdEssentialsElement();
+      filter.classList.add('active');
+      onFilterByHost(e.target.attributes.host.value);
+    })
+  }
+
+  function onFilterByHost(hostName) {
+    const statContent = document.getElementsByClassName('stat-content');
+    for (let statEl of statContent) {
+      statEl.innerHTML = '';
+    };
+
+    currentHost = hostName;
+
+    initializeStats();
+    generateStats();
+    generateEls();
+  };
+
+  function generateEls() {
+    generateTotalsElement();
+    generateDissentElement();
+    generateDisagreementElement();
+    generateWeirdEssentialsElement();
+  };
 
   // Create element for totals
   function generateTotalsElement() {
-    const totalsEl = document.getElementById('totals');
-    
+    const totalsEl = document.getElementById('totals').querySelector('.stat-content');
+
     var essentialTotal = document.createElement('div');
     essentialTotal.style.color = getColorForScore(100);
     essentialTotal.textContent = 'Essential: ' + hostStats.totals.essential;
@@ -110,12 +145,11 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   function generateDissentElement() {
-    const yDissentEl = document.getElementById('yacht-dissent');
-    const nDissentEl = document.getElementById('nyacht-dissent');
+    const yDissentEl = document.getElementById('yacht-dissent').querySelector('.stat-content');
+    const nDissentEl = document.getElementById('nyacht-dissent').querySelector('.stat-content');
     
-    var dissentStatBarHeader = generateStatBarHeader('Others');
-    yDissentEl.appendChild(dissentStatBarHeader);
-    nDissentEl.appendChild(dissentStatBarHeader);
+    yDissentEl.appendChild(generateStatBarHeader('Others'));
+    nDissentEl.appendChild(generateStatBarHeader('Others'));
     
     hostStats.dissents.yacht.forEach((dissent) => {
       var dissentStatBar = generateStatBar(dissent.song[currentHost + '_score'], dissent.othersAvg, dissent.song);
@@ -129,9 +163,9 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   function generateDisagreementElement() {
-    const yDisagreementsEl = document.getElementById('yacht-disagreements');
-    const nDisagreementsEl = document.getElementById('nyacht-disagreements');
-
+    const yDisagreementsEl = document.getElementById('yacht-disagreements').querySelector('.stat-content');
+    const nDisagreementsEl = document.getElementById('nyacht-disagreements').querySelector('.stat-content');
+  
     for (const key in hostStats.disagreements.yacht) {
       disagreement = hostStats.disagreements.yacht[key];
       
@@ -154,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   function generateWeirdEssentialsElement() {
-    const weirdEl = document.getElementById('weird-essentials');
+    const weirdEl = document.getElementById('weird-essentials').querySelector('.stat-content');
 
     var weirdStatBarHeader = generateStatBarHeader('Others');
     weirdEl.appendChild(weirdStatBarHeader);
@@ -174,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var hostScoreEl = document.createElement('div');
     hostScoreEl.className = 'white';
     hostScoreEl.style.backgroundColor = getColorForScore(hostScore);
-    hostScoreEl.textContent = hostScore;
+    hostScoreEl.textContent = round(hostScore);
   
     var songTitleEl = document.createElement('div');
     songTitleEl.style.backgroundColor = getColorForScore(song.yachtski);
@@ -183,10 +217,10 @@ document.addEventListener('DOMContentLoaded', function () {
     var otherScoreEl = document.createElement('div');
     otherScoreEl.className = 'white';
     otherScoreEl.style.backgroundColor = getColorForScore(otherScore);
-    otherScoreEl.textContent = otherScore;
+    otherScoreEl.textContent = round(otherScore);
   
-    statBar.appendChild(hostScoreEl);
     statBar.appendChild(songTitleEl);
+    statBar.appendChild(hostScoreEl);
     statBar.appendChild(otherScoreEl);
 
     return statBar;
@@ -196,7 +230,9 @@ document.addEventListener('DOMContentLoaded', function () {
     var statBarHeaderEl = document.createElement('div');
     statBarHeaderEl.className = 'stat-bar-header';
 
-    [currentHost, '\u00A0', otherName].forEach((columnName) => {
+    prettyOtherName = prettyNameMap[otherName] || otherName;
+
+    ['\u00A0', prettyNameMap[currentHost], prettyOtherName].forEach((columnName) => {
       var columnNameEl = document.createElement('div');
       columnNameEl.innerText = columnName;
 
