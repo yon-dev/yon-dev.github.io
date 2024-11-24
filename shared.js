@@ -26,3 +26,7 @@ function getColorForScore(score) {
   var colorRGB = 'rgb(' + [color.r, color.g, color.b].join(',') + ')';
   return (pct >= 0) ? colorRGB : 'rgb(150,150,150)';
 }
+
+function round(num) {
+  return Math.round(num * 100) / 100;
+}
