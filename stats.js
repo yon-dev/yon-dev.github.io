@@ -12,6 +12,7 @@ let hostStats =  {
 
 function initializeStats() {
   hostStats =  {
+    avgDeviation: 0,
     totals: { essential: 0, yacht: 0, nyacht: 0 },
     dissents: { yacht: [], nyacht: [] },
     disagreements: { yacht: {}, nyacht: {} },
@@ -28,9 +29,13 @@ function generateStats() {
     hostStats.disagreements.nyacht[hostName] = { song: {}, difference: 0, otherScore: 0 };
   });
 
+  let hostYachtskiTotal = 0;
+  let otherHostYachtskiTotal = 0;
+
   songs.forEach(song => {
     let hostScore = song[currentHost + '_score'];
-    
+    hostYachtskiTotal += hostScore;
+  
     // Update totals
     if (hostScore >= 90) {
       hostStats.totals.essential += 1;
@@ -56,6 +61,8 @@ function generateStats() {
         hostStats.disagreements.nyacht[hostName] = { difference: songDisagreement, otherScore: otherHostScore, song: song };
       }
     });
+
+    otherHostYachtskiTotal += otherHostsScoreTotal;
 
     // Update dissents
     var othersAvg = (otherHostsScoreTotal / otherHosts.length);
@@ -85,6 +92,8 @@ function generateStats() {
       hostStats.weirdEssentials.push({ otherScore: otherHostAvg, song: song });
     }
   });
+
+  hostStats.avgDeviation = (hostYachtskiTotal - (otherHostYachtskiTotal / 3)) / songs.length;
 };
 
 // On page load, generate HTML elements
@@ -119,6 +128,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function generateEls() {
     generateTotalsElement();
+    generateDevElement();
     generateDissentElement();
     generateDisagreementElement();
     generateWeirdEssentialsElement();
@@ -143,6 +153,14 @@ document.addEventListener('DOMContentLoaded', function () {
     nyachtTotal.textContent = 'Nyacht: ' + hostStats.totals.nyacht;
     totalsEl.appendChild(nyachtTotal);
   };
+
+  function generateDevElement() {
+    const devEl = document.getElementById('deviation').querySelector('.stat-content');
+
+    var avgDeviation = document.createElement('div');
+    avgDeviation.textContent = 'Avg Deviation from Mean: ' + round(hostStats.avgDeviation);
+    devEl.appendChild(avgDeviation);
+  }
 
   function generateDissentElement() {
     const yDissentEl = document.getElementById('yacht-dissent').querySelector('.stat-content');
