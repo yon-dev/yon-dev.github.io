@@ -1,18 +1,32 @@
+.stats-filters {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+}
+
+.stat-container {
+  padding: 10px 0;
+}
+
 .stat-header {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #b2b2b2;
   font-size: 18px;
   font-weight: 600;
 }
 
 .totals-row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 3fr;
   grid-column-gap: 10px;
+  font-size: 18px;
 }
 
 .stat-bar-header,
 .stat-bar-item {
   display: grid;
-  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-columns: 5fr 1fr 1fr;
   margin-bottom: 5px;
   text-align: center;
 }

@@ -1,3 +1,10 @@
+const prettyNameMap = {
+  jd: 'JD',
+  hunter: 'Hunter',
+  steve: 'Steve',
+  dave: 'Dave'
+}
+
 function getColorForScore(score) {
   var pct = score / 100;
   var percentColors = [
