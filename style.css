@@ -20,6 +20,20 @@ html {
   font-weight: 800;
 }
 
+.title > a {
+  text-decoration: none;
+  color: #343434;
+}
+
+.title > a:visited {
+  color: #343434;
+}
+
+.title > a:hover {
+  color: #343434;
+}
+
+
 .menu {
   position: relative;
   width: 100%;
