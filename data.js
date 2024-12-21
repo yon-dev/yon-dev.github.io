@@ -19935,7 +19935,7 @@ const data = [
   },
   {
     "title": "Baby You’re Just Like Me",
-    "artist": "Sylvia",
+    "artist": "Parachute",
     "year": 1982,
     "episode": "YONP68",
     "jd_score": 72,
