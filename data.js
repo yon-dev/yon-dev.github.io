@@ -19271,7 +19271,7 @@ const data = [
     "steve_score": 53,
     "dave_score": 50,
     "yachtski": 50.25,
-    "yt_id": "dwl1Clm_zXU"
+    "yt_id": "rSYX0oC9Aqg"
   },
   {
     "title": "Maxine",
