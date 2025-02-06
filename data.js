@@ -20616,5 +20616,113 @@ const data = [
     "dave_score": 35,
     "yachtski": 41,
     "yt_id": "cBMMNGOJ2wA"
+  },
+  {
+    "title": "Love Lies",
+    "artist": "Michael McDonald",
+    "year": 1982,
+    "episode": "YONP74",
+    "jd_score": 82,
+    "hunter_score": 88,
+    "steve_score": 85,
+    "dave_score": 87,
+    "yachtski": 85.5,
+    "yt_id": "MLcWBDq3VMA"
+  },
+  {
+    "title": "(I’m) Givin’ It Up",
+    "artist": "Greg Guidry",
+    "year": 1982,
+    "episode": "YONP74",
+    "jd_score": 83,
+    "hunter_score": 85,
+    "steve_score": 83,
+    "dave_score": 85,
+    "yachtski": 84,
+    "yt_id": "kofXoWShxsg"
+  },
+  {
+    "title": "Good Enough For You",
+    "artist": "Marlene with Seawind",
+    "year": 1982,
+    "episode": "YONP74",
+    "jd_score": 65,
+    "hunter_score": 72,
+    "steve_score": 71,
+    "dave_score": 58,
+    "yachtski": 66.5,
+    "yt_id": "Uh8gkwPZX6Y"
+  },
+  {
+    "title": "Lion",
+    "artist": "Toto",
+    "year": 1984,
+    "episode": "YONP74",
+    "jd_score": 28,
+    "hunter_score": 42,
+    "steve_score": 36,
+    "dave_score": 25,
+    "yachtski": 32.75,
+    "yt_id": "pDf8jLez-nQ"
+  },
+  {
+    "title": "Cryin’ All Night",
+    "artist": "Airplay",
+    "year": 1980,
+    "episode": "YONP74",
+    "jd_score": 50,
+    "hunter_score": 53,
+    "steve_score": 62,
+    "dave_score": 61,
+    "yachtski": 56.5,
+    "yt_id": "0ZP1MlXuUcc"
+  },
+  {
+    "title": "Peggy Virginia",
+    "artist": "Al Jarreau",
+    "year": 2005,
+    "episode": "YONP74",
+    "jd_score": 52,
+    "hunter_score": 49,
+    "steve_score": 51,
+    "dave_score": 37,
+    "yachtski": 47.25,
+    "yt_id": "_oXetLVW-BI"
+  },
+  {
+    "title": "Container Zero",
+    "artist": "Powder Blue Tux",
+    "year": 2016,
+    "episode": "YONP74",
+    "jd_score": 60,
+    "hunter_score": 52,
+    "steve_score": 60,
+    "dave_score": 54,
+    "yachtski": 56.5,
+    "yt_id": "GIwzkvCUKBE"
+  },
+  {
+    "title": "On Broadway (Live)",
+    "artist": "George Benson",
+    "year": 1978,
+    "episode": "YONP74",
+    "jd_score": 42,
+    "hunter_score": 37,
+    "steve_score": 40,
+    "dave_score": 35,
+    "yachtski": 38.5,
+    "yt_id": "dQdiEe7TkfI"
+  },
+  {
+    "title": "Breakout!",
+    "artist": "Patrice Rushen",
+    "year": 1982,
+    "episode": "YONP74",
+    "jd_score": 62,
+    "hunter_score": 53,
+    "steve_score": 61,
+    "dave_score": 53,
+    "yachtski": 57.25,
+    "yt_id": "Yu1_78kLpe4"
   }
 ]
