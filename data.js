@@ -20724,5 +20724,113 @@ const data = [
     "dave_score": 53,
     "yachtski": 57.25,
     "yt_id": "Yu1_78kLpe4"
+  },
+  {
+    "title": "Colours In My Head",
+    "artist": "Zenit",
+    "year": 1986,
+    "episode": "YONP75",
+    "jd_score": 62,
+    "hunter_score": 56,
+    "steve_score": 58,
+    "dave_score": 64,
+    "yachtski": 60,
+    "yt_id": "zUUP-z2pNlU"
+  },
+  {
+    "title": "Somebody’s Eyes",
+    "artist": "Karla Bonoff",
+    "year": 1984,
+    "episode": "YONP75",
+    "jd_score": 45,
+    "hunter_score": 46,
+    "steve_score": 44,
+    "dave_score": 45,
+    "yachtski": 45,
+    "yt_id": "3G69aXG8C98"
+  },
+  {
+    "title": "Close Eyes Count To Ten",
+    "artist": "John Miles",
+    "year": 1983,
+    "episode": "YONP75",
+    "jd_score": 69,
+    "hunter_score": 85,
+    "steve_score": 79,
+    "dave_score": 61,
+    "yachtski": 73.5,
+    "yt_id": "zhj1yBYcozc"
+  },
+  {
+    "title": "You Never Done It Like That",
+    "artist": "Captain & Tennille",
+    "year": 1978,
+    "episode": "YONP75",
+    "jd_score": 55,
+    "hunter_score": 53,
+    "steve_score": 55,
+    "dave_score": 49,
+    "yachtski": 53,
+    "yt_id": "QXfTDx_COQU"
+  },
+  {
+    "title": "Saturday Night",
+    "artist": "Robbie Dupree",
+    "year": 1981,
+    "episode": "YONP75",
+    "jd_score": 79,
+    "hunter_score": 89,
+    "steve_score": 89,
+    "dave_score": 81,
+    "yachtski": 84.5,
+    "yt_id": "dhnBBe7MrXw"
+  },
+  {
+    "title": "So Much In Love",
+    "artist": "Sheena Easton",
+    "year": 1981,
+    "episode": "YONP75",
+    "jd_score": 83.75,
+    "hunter_score": 76,
+    "steve_score": 82,
+    "dave_score": 80,
+    "yachtski": 80.4375,
+    "yt_id": "F6M0zacXk7M"
+  },
+  {
+    "title": "Beyond The Finish Line",
+    "artist": "Shadow",
+    "year": 1980,
+    "episode": "YONP75",
+    "jd_score": 44,
+    "hunter_score": 50,
+    "steve_score": 52,
+    "dave_score": 38,
+    "yachtski": 46,
+    "yt_id": "y0mj1sG587M"
+  },
+  {
+    "title": "You and I (1975)",
+    "artist": "Ada Morghe",
+    "year": 2024,
+    "episode": "YONP75",
+    "jd_score": 41,
+    "hunter_score": 44,
+    "steve_score": 48,
+    "dave_score": 35,
+    "yachtski": 42,
+    "yt_id": "6WhDf5_RG5U"
+  },
+  {
+    "title": "Little Red Book",
+    "artist": "Gary",
+    "year": 1978,
+    "episode": "YONP75",
+    "jd_score": 20,
+    "hunter_score": 23,
+    "steve_score": 31,
+    "dave_score": 20,
+    "yachtski": 23.5,
+    "yt_id": "OFeVI1OvuAc"
   }
 ]
