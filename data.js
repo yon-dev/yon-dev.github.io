@@ -20832,5 +20832,113 @@ const data = [
     "dave_score": 20,
     "yachtski": 23.5,
     "yt_id": "OFeVI1OvuAc"
+  },
+  {
+    "title": "Trouble",
+    "artist": "Midnight Generation",
+    "year": 2016,
+    "episode": "YONP76",
+    "jd_score": 40,
+    "hunter_score": 36,
+    "steve_score": 40,
+    "dave_score": 33,
+    "yachtski": 37.25,
+    "yt_id": "jnBJOw2GGW8"
+  },
+  {
+    "title": "Too Much Too Soon",
+    "artist": "John Farnham",
+    "year": 1981,
+    "episode": "YONP76",
+    "jd_score": 40,
+    "hunter_score": 48,
+    "steve_score": 46,
+    "dave_score": 40,
+    "yachtski": 43.5,
+    "yt_id": "qwChmZbPSDU"
+  },
+  {
+    "title": "Our Time Has Come",
+    "artist": "Average White Band",
+    "year": 1980,
+    "episode": "YONP76",
+    "jd_score": 68,
+    "hunter_score": 65,
+    "steve_score": 83,
+    "dave_score": 48,
+    "yachtski": 66,
+    "yt_id": "tgl5O_mpBz0"
+  },
+  {
+    "title": "This Time Of The Year",
+    "artist": "The Whispers",
+    "year": 1979,
+    "episode": "YONP76",
+    "jd_score": 43,
+    "hunter_score": 39,
+    "steve_score": 44,
+    "dave_score": 45,
+    "yachtski": 42.75,
+    "yt_id": "C0J-YThucVQ"
+  },
+  {
+    "title": "Who Loves You",
+    "artist": "The Four Seasons",
+    "year": 1975,
+    "episode": "YONP76",
+    "jd_score": 38,
+    "hunter_score": 21,
+    "steve_score": 38,
+    "dave_score": 40,
+    "yachtski": 34.25,
+    "yt_id": "bSYuwYEhnQw"
+  },
+  {
+    "title": "Siivet Saan",
+    "artist": "Maarit",
+    "year": 1978,
+    "episode": "YONP76",
+    "jd_score": 28,
+    "hunter_score": 19,
+    "steve_score": 39,
+    "dave_score": 25,
+    "yachtski": 27.75,
+    "yt_id": "iA_Mx0Xdfpc"
+  },
+  {
+    "title": "Girl Talk",
+    "artist": "Greg Phillinganes",
+    "year": 1981,
+    "episode": "YONP76",
+    "jd_score": 55,
+    "hunter_score": 54,
+    "steve_score": 57,
+    "dave_score": 47,
+    "yachtski": 53.25,
+    "yt_id": "ZNbhZVe_s4A"
+  },
+  {
+    "title": "BMPD",
+    "artist": "Smooth Reunion",
+    "year": 2008,
+    "episode": "YONP76",
+    "jd_score": 48,
+    "hunter_score": 43,
+    "steve_score": 47,
+    "dave_score": 44,
+    "yachtski": 45.5,
+    "yt_id": "IBN177rezfA"
+  },
+  {
+    "title": "Find It In Your Heart",
+    "artist": "Heatwave",
+    "year": 1982,
+    "episode": "YONP76",
+    "jd_score": 60,
+    "hunter_score": 46,
+    "steve_score": 54,
+    "dave_score": 54,
+    "yachtski": 53.5,
+    "yt_id": "2AGpr6rrY-A"
   }
 ]
