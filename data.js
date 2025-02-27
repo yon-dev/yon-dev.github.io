@@ -20940,5 +20940,113 @@ const data = [
     "dave_score": 54,
     "yachtski": 53.5,
     "yt_id": "2AGpr6rrY-A"
+  },
+  {
+    "title": "Comin’ From The Heart",
+    "artist": "Mark J & Freeway",
+    "year": 2014,
+    "episode": "YONP77",
+    "jd_score": 83,
+    "hunter_score": 87,
+    "steve_score": 81,
+    "dave_score": 85,
+    "yachtski": 84,
+    "yt_id": "mUSLQCyr62A"
+  },
+  {
+    "title": "Where's Your Angel",
+    "artist": "Lani Hall",
+    "year": 1980,
+    "episode": "YONP77",
+    "jd_score": 60,
+    "hunter_score": 64,
+    "steve_score": 66,
+    "dave_score": 63,
+    "yachtski": 63.25,
+    "yt_id": "z1aqGTUj_dA"
+  },
+  {
+    "title": "Magazine Lover",
+    "artist": "Pieces",
+    "year": 1979,
+    "episode": "YONP77",
+    "jd_score": 58,
+    "hunter_score": 61,
+    "steve_score": 63,
+    "dave_score": 66,
+    "yachtski": 62,
+    "yt_id": "RVTBh8am44g"
+  },
+  {
+    "title": "It’ll All Come Around",
+    "artist": "Patsy Gallant",
+    "year": 1978,
+    "episode": "YONP77",
+    "jd_score": 70,
+    "hunter_score": 65,
+    "steve_score": 76,
+    "dave_score": 67,
+    "yachtski": 69.5,
+    "yt_id": "eUHfS5PE-f0"
+  },
+  {
+    "title": "Uncertain",
+    "artist": "Jimmy Osmond",
+    "year": 1981,
+    "episode": "YONP77",
+    "jd_score": 46,
+    "hunter_score": 47,
+    "steve_score": 47,
+    "dave_score": 41,
+    "yachtski": 45.25,
+    "yt_id": "XaYbvuCdKeI"
+  },
+  {
+    "title": "A Fine Mess",
+    "artist": "Temptations",
+    "year": 1986,
+    "episode": "YONP77",
+    "jd_score": 55,
+    "hunter_score": 53,
+    "steve_score": 54,
+    "dave_score": 56,
+    "yachtski": 54.5,
+    "yt_id": "tnIeybs6yKw"
+  },
+  {
+    "title": "This Life",
+    "artist": "Take That",
+    "year": 2023,
+    "episode": "YONP77",
+    "jd_score": 50,
+    "hunter_score": 46,
+    "steve_score": 48,
+    "dave_score": 44,
+    "yachtski": 47,
+    "yt_id": "lXiSLH55JFU"
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Steve Miller Band",
+    "year": 1977,
+    "episode": "YONP77",
+    "jd_score": 21,
+    "hunter_score": 35,
+    "steve_score": 42,
+    "dave_score": 25,
+    "yachtski": 30.75,
+    "yt_id": "pTV6-Wcv_zo"
+  },
+  {
+    "title": "All You Need",
+    "artist": "Farrell & Farrell",
+    "year": 1979,
+    "episode": "YONP77",
+    "jd_score": 80,
+    "hunter_score": 81,
+    "steve_score": 69,
+    "dave_score": 71,
+    "yachtski": 75.25,
+    "yt_id": "yDJzoRT0DE0"
   }
 ]
