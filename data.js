@@ -21048,5 +21048,113 @@ const data = [
     "dave_score": 71,
     "yachtski": 75.25,
     "yt_id": "yDJzoRT0DE0"
+  },
+  {
+    "title": "No Lookin’ Back",
+    "artist": "Kenny Loggins",
+    "year": 1985,
+    "episode": "YONP78",
+    "jd_score": 55,
+    "hunter_score": 53,
+    "steve_score": 53,
+    "dave_score": 54,
+    "yachtski": 53.75,
+    "yt_id": "VNvYx_pzzrA"
+  },
+  {
+    "title": "Time Will Reveal",
+    "artist": "DeBarge",
+    "year": 1983,
+    "episode": "YONP78",
+    "jd_score": 75,
+    "hunter_score": 66,
+    "steve_score": 74,
+    "dave_score": 68,
+    "yachtski": 70.75,
+    "yt_id": "Vz2amSt6BKE"
+  },
+  {
+    "title": "When You Love Me Like That",
+    "artist": "Aretha Franklin",
+    "year": 1983,
+    "episode": "YONP78",
+    "jd_score": 67,
+    "hunter_score": 57,
+    "steve_score": 64,
+    "dave_score": 55,
+    "yachtski": 60.75,
+    "yt_id": "IvkBsU-dL-8"
+  },
+  {
+    "title": "Fighting In The Name Of Love",
+    "artist": "Carl Carlton",
+    "year": 1980,
+    "episode": "YONP78",
+    "jd_score": 49,
+    "hunter_score": 48,
+    "steve_score": 46,
+    "dave_score": 49,
+    "yachtski": 48,
+    "yt_id": "JL0exmvwvYs"
+  },
+  {
+    "title": "Love Is Waiting",
+    "artist": "Al Jarreau",
+    "year": 1983,
+    "episode": "YONP78",
+    "jd_score": 72,
+    "hunter_score": 76,
+    "steve_score": 76,
+    "dave_score": 75,
+    "yachtski": 74.75,
+    "yt_id": "yuuqwziu83I"
+  },
+  {
+    "title": "Waking Up",
+    "artist": "Frank Stallone",
+    "year": 1983,
+    "episode": "YONP78",
+    "jd_score": 88,
+    "hunter_score": 84,
+    "steve_score": 81,
+    "dave_score": 77,
+    "yachtski": 82.5,
+    "yt_id": "Dw4WgI59vMc"
+  },
+  {
+    "title": "Back Seat Love",
+    "artist": "Mayer Hawthorne",
+    "year": 2013,
+    "episode": "YONP78",
+    "jd_score": 52,
+    "hunter_score": 55,
+    "steve_score": 52,
+    "dave_score": 58,
+    "yachtski": 54.25,
+    "yt_id": "TGynhuYzTNQ"
+  },
+  {
+    "title": "Come On Home",
+    "artist": "Pages",
+    "year": 1981,
+    "episode": "YONP78",
+    "jd_score": 79,
+    "hunter_score": 79,
+    "steve_score": 77,
+    "dave_score": 80,
+    "yachtski": 78.75,
+    "yt_id": "VuVmlZH4Hs0"
+  },
+  {
+    "title": "The Love We Share",
+    "artist": "Kenny Rogers",
+    "year": 1986,
+    "episode": "YONP78",
+    "jd_score": 60,
+    "hunter_score": 57,
+    "steve_score": 54,
+    "dave_score": 57,
+    "yachtski": 57,
+    "yt_id": "x175B7BR0wQ"
   }
 ]
