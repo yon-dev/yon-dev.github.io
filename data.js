@@ -20944,7 +20944,7 @@ const data = [
   {
     "title": "Comin’ From The Heart",
     "artist": "Mark J & Freeway",
-    "year": 2014,
+    "year": 1980,
     "episode": "YONP77",
     "jd_score": 83,
     "hunter_score": 87,
