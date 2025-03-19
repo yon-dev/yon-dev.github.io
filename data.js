@@ -21395,7 +21395,7 @@ const data = [
     "steve_score": 57,
     "dave_score": 52,
     "yachtski": 51.5,
-    "yt_id": "IIYVIH0OOH4?si=ZLuGVxgvLrDMZub7&t=578"
+    "yt_id": "IIYVIH0OOH4?si=Ys3grKKLPHpV7n-O&t=464"
   },
   {
     "title": "Koyma Hondo",
