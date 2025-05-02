@@ -22035,7 +22035,7 @@ const data = [
   },
   {
     "title": "Dancin’ By Myself",
-    "artist": "Dancin’ By Myself",
+    "artist": "Ambrosia",
     "year": 1978,
     "episode": "YONP85",
     "jd_score": 37,
@@ -22104,5 +22104,137 @@ const data = [
     "dave_score": 79,
     "yachtski": 77.5,
     "yt_id": "2EYLObG7H0A"
+  },
+  {
+    "artist": "Kenny Loggins",
+    "year": 1984,
+    "episode": "YONP86",
+    "jd_score": 32,
+    "hunter_score": 46,
+    "steve_score": 35,
+    "dave_score": 40,
+    "yachtski": 38.25,
+    "yt_id": "BdEvuQE6t5c"
+  },
+  {
+    "artist": "Elton John",
+    "year": 1980,
+    "episode": "YONP86",
+    "jd_score": 37,
+    "hunter_score": 41,
+    "steve_score": 40,
+    "dave_score": 32,
+    "yachtski": 37.5,
+    "yt_id": "sfYw5vSS8nE"
+  },
+  {
+    "artist": "Carl Anderson",
+    "year": 1982,
+    "episode": "YONP86",
+    "jd_score": 48,
+    "hunter_score": 47,
+    "steve_score": 47,
+    "dave_score": 48,
+    "yachtski": 47.5,
+    "yt_id": "Ku5_Xz6ixSE"
+  },
+  {
+    "artist": "Gidi Gov",
+    "year": 1983,
+    "episode": "YONP86",
+    "jd_score": 50,
+    "hunter_score": 54,
+    "steve_score": 53,
+    "dave_score": 55,
+    "yachtski": 53,
+    "yt_id": "_aBczm_dyZ8"
+  },
+  {
+    "artist": "Klender",
+    "year": 1981,
+    "episode": "YONP86",
+    "jd_score": 40,
+    "hunter_score": 48,
+    "steve_score": 46,
+    "dave_score": 48,
+    "yachtski": 45.5,
+    "yt_id": "9AXWJQDoHGQ"
+  },
+  {
+    "artist": "Marc Jordan",
+    "year": 1979,
+    "episode": "YONP86",
+    "jd_score": 59,
+    "hunter_score": 56,
+    "steve_score": 58,
+    "dave_score": 61,
+    "yachtski": 58.5,
+    "yt_id": "haIadW85K70"
+  },
+  {
+    "artist": "Con Funk Shun",
+    "year": 1980,
+    "episode": "YONP86",
+    "jd_score": 52,
+    "hunter_score": 45,
+    "steve_score": 57,
+    "dave_score": 46,
+    "yachtski": 50,
+    "yt_id": "k8REZHx7jCE"
+  },
+  {
+    "artist": "Westpoint",
+    "year": 1983,
+    "episode": "YONP86",
+    "jd_score": 50,
+    "hunter_score": 49,
+    "steve_score": 52,
+    "dave_score": 52,
+    "yachtski": 50.75,
+    "yt_id": "CO7BH9DAw0E"
+  },
+  {
+    "artist": "Cameo",
+    "year": 1986,
+    "episode": "YONP86",
+    "jd_score": 39,
+    "hunter_score": 37,
+    "steve_score": 42,
+    "dave_score": 35,
+    "yachtski": 38.25,
+    "yt_id": "A2eU2CG3WN8"
+  },
+  {
+    "artist": "Dabeull",
+    "year": 2024,
+    "episode": "YONP86",
+    "jd_score": 43,
+    "hunter_score": 46,
+    "steve_score": 53,
+    "dave_score": 45,
+    "yachtski": 46.75,
+    "yt_id": "zEXhMjcRqVA"
+  },
+  {
+    "artist": "Carly Simon",
+    "year": 1986,
+    "episode": "YONP86",
+    "jd_score": 31,
+    "hunter_score": 42,
+    "steve_score": 38,
+    "dave_score": 35,
+    "yachtski": 36.5,
+    "yt_id": "GHp5TVIIYic"
+  },
+  {
+    "artist": "Kansas",
+    "year": 1982,
+    "episode": "YONP86",
+    "jd_score": 39,
+    "hunter_score": 36,
+    "steve_score": 45,
+    "dave_score": 31,
+    "yachtski": 37.75,
+    "yt_id": "DGg7sVhB89M"
   }
 ]
