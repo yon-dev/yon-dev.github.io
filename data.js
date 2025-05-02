@@ -22106,6 +22106,7 @@ const data = [
     "yt_id": "2EYLObG7H0A"
   },
   {
+    "title": "I’m Free (Heaven Helps The Man)",
     "artist": "Kenny Loggins",
     "year": 1984,
     "episode": "YONP86",
@@ -22117,6 +22118,7 @@ const data = [
     "yt_id": "BdEvuQE6t5c"
   },
   {
+    "title": "Two Rooms at the End of The World",
     "artist": "Elton John",
     "year": 1980,
     "episode": "YONP86",
@@ -22128,6 +22130,7 @@ const data = [
     "yt_id": "sfYw5vSS8nE"
   },
   {
+    "title": "Buttercup",
     "artist": "Carl Anderson",
     "year": 1982,
     "episode": "YONP86",
@@ -22139,6 +22142,7 @@ const data = [
     "yt_id": "Ku5_Xz6ixSE"
   },
   {
+    "title": "Nam Lo Nam",
     "artist": "Gidi Gov",
     "year": 1983,
     "episode": "YONP86",
@@ -22150,6 +22154,7 @@ const data = [
     "yt_id": "_aBczm_dyZ8"
   },
   {
+    "title": "Never Too Soon",
     "artist": "Klender",
     "year": 1981,
     "episode": "YONP86",
@@ -22161,6 +22166,7 @@ const data = [
     "yt_id": "9AXWJQDoHGQ"
   },
   {
+    "title": "Tattooed Lady",
     "artist": "Marc Jordan",
     "year": 1979,
     "episode": "YONP86",
@@ -22172,6 +22178,7 @@ const data = [
     "yt_id": "haIadW85K70"
   },
   {
+    "title": "California 1",
     "artist": "Con Funk Shun",
     "year": 1980,
     "episode": "YONP86",
@@ -22183,6 +22190,7 @@ const data = [
     "yt_id": "k8REZHx7jCE"
   },
   {
+    "title": "Joanie",
     "artist": "Westpoint",
     "year": 1983,
     "episode": "YONP86",
@@ -22194,6 +22202,7 @@ const data = [
     "yt_id": "CO7BH9DAw0E"
   },
   {
+    "title": "Back and Forth",
     "artist": "Cameo",
     "year": 1986,
     "episode": "YONP86",
@@ -22205,6 +22214,7 @@ const data = [
     "yt_id": "A2eU2CG3WN8"
   },
   {
+    "title": "Fabulous Kisses",
     "artist": "Dabeull",
     "year": 2024,
     "episode": "YONP86",
@@ -22216,6 +22226,7 @@ const data = [
     "yt_id": "zEXhMjcRqVA"
   },
   {
+    "title": "Coming Around Again",
     "artist": "Carly Simon",
     "year": 1986,
     "episode": "YONP86",
@@ -22227,6 +22238,7 @@ const data = [
     "yt_id": "GHp5TVIIYic"
   },
   {
+    "title": "Diamonds and Pearls",
     "artist": "Kansas",
     "year": 1982,
     "episode": "YONP86",
