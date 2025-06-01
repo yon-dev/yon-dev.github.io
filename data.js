@@ -4071,7 +4071,7 @@ const data = [
   {
     "id": 377,
     "title": "A Bigger Fool",
-    "artist": "Fred Knoblock",
+    "artist": "Fred Knobloch",
     "year": 1980,
     "episode": "YON027",
     "jd_score": 67.0,
