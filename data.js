@@ -22912,7 +22912,7 @@ const data = [
   {
     "title": "Can't Wait",
     "artist": "Seawind",
-    "year": 1976,
+    "year": 1981,
     "episode": "YONP92",
     "jd_score": 58,
     "hunter_score": 53,
@@ -22984,7 +22984,7 @@ const data = [
   {
     "title": "Make Believe",
     "artist": "The Parker Brothers",
-    "year": 1981,
+    "year": 1985,
     "episode": "YONP92",
     "jd_score": 69,
     "hunter_score": 59,
