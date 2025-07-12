@@ -23258,6 +23258,17 @@ const data = [
     "yt_id": "GugOgGlfzT4"
   },
   {
+    "title": "Baby Says No",
+    "artist": "Christopher Cross",
+    "year": 1983,
+    "episode": "YONP95",
+    "jd_score": 83,
+    "hunter_score": 83,
+    "steve_score": 80,
+    "dave_score": 82,
+    "yachtski": 82
+  },
+  {
     "title": "Words of Wisdom",
     "artist": "Christopher Cross",
     "year": 1983,
