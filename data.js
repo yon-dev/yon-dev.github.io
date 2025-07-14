@@ -23266,7 +23266,7 @@ const data = [
     "hunter_score": 83,
     "steve_score": 80,
     "dave_score": 82,
-    "yachtski": 82
+    "yachtski": 82,
     "yt_id": "G3OWH6qiQsE"
   },
   {
