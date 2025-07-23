@@ -19490,7 +19490,7 @@ const data = [
     "yt_id": "BccUke7qtU8"
   },
   {
-    "title": "Feel The Real",
+    "title": "Feel The Real (Dance Version)",
     "artist": "David Bendeth",
     "year": 2007,
     "episode": "YONP65",
@@ -23664,5 +23664,137 @@ const data = [
     "dave_score": 12,
     "yachtski": 7,
     "yt_id": "Vo_ITHEVMm8"
+  },
+  {
+    "title": "Daisie",
+    "artist": "Kasper Winding",
+    "year": 1980,
+    "episode": "YONP98",
+    "jd_score": 80,
+    "hunter_score": 73,
+    "steve_score": 82,
+    "dave_score": 82,
+    "yachtski": 79.25,
+    "yt_id": "wFvBi4KwVqM"
+  },
+  {
+    "title": "Moonlight Lady",
+    "artist": "Julio Iglesias",
+    "year": 1984,
+    "episode": "YONP98",
+    "jd_score": 49,
+    "hunter_score": 56,
+    "steve_score": 55,
+    "dave_score": 46,
+    "yachtski": 51.5,
+    "yt_id": "2zTC4J-UEnU"
+  },
+  {
+    "title": "Born To Dream",
+    "artist": "Young Gun Silver Fox",
+    "year": 2025,
+    "episode": "YONP98",
+    "jd_score": 85,
+    "hunter_score": 76,
+    "steve_score": 86,
+    "dave_score": 81,
+    "yachtski": 82,
+    "yt_id": "LbFGhD8R9kU"
+  },
+  {
+    "title": "School Of Broken Hearts",
+    "artist": "Steve Kipner",
+    "year": 1979,
+    "episode": "YONP98",
+    "jd_score": 70,
+    "hunter_score": 73,
+    "steve_score": 79,
+    "dave_score": 75,
+    "yachtski": 74.25,
+    "yt_id": "jzdb-sClfBs"
+  },
+  {
+    "title": "Who's Zoomin' Who",
+    "artist": "Aretha Franklin",
+    "year": 1985,
+    "episode": "YONP98",
+    "jd_score": 40,
+    "hunter_score": 51,
+    "steve_score": 35,
+    "dave_score": 43,
+    "yachtski": 42.25,
+    "yt_id": "eYmmFf6M40Y"
+  },
+  {
+    "title": "Who's Foolin' Who",
+    "artist": "Frankie Bleu",
+    "year": 1981,
+    "episode": "YONP98",
+    "jd_score": 78,
+    "hunter_score": 59,
+    "steve_score": 76,
+    "dave_score": 82,
+    "yachtski": 73.75,
+    "yt_id": "MU4LjHYpnIc"
+  },
+  {
+    "title": "Honey",
+    "artist": "Lenny Kravitz",
+    "year": 2024,
+    "episode": "YONP98",
+    "jd_score": 48,
+    "hunter_score": 41,
+    "steve_score": 46,
+    "dave_score": 38,
+    "yachtski": 43.25,
+    "yt_id": "azRue-MJppE"
+  },
+  {
+    "title": "Bobby Fame",
+    "artist": "Talc",
+    "year": 2006,
+    "episode": "YONP98",
+    "jd_score": 68,
+    "hunter_score": 62,
+    "steve_score": 54,
+    "dave_score": 59,
+    "yachtski": 60.75,
+    "yt_id": "JdO56jzD4Bk"
+  },
+  {
+    "title": "Love Comes To Everyone",
+    "artist": "George Harrison",
+    "year": 1979,
+    "episode": "YONP98",
+    "jd_score": 41,
+    "hunter_score": 40,
+    "steve_score": 34,
+    "dave_score": 31,
+    "yachtski": 36.5,
+    "yt_id": "LfpoQoHVnPo"
+  },
+  {
+    "title": "Let The Love On Through Tonight",
+    "artist": "FCC",
+    "year": 1980,
+    "episode": "YONP98",
+    "jd_score": 45,
+    "hunter_score": 50,
+    "steve_score": 52,
+    "dave_score": 45,
+    "yachtski": 48,
+    "yt_id": "WPlMcl21_zo"
+  },
+  {
+    "title": "Stronger Love",
+    "artist": "LeBlanc & Carr",
+    "year": 1978,
+    "episode": "YONP98",
+    "jd_score": 35,
+    "hunter_score": 41,
+    "steve_score": 53,
+    "dave_score": 32,
+    "yachtski": 40.25,
+    "yt_id": "P1OG5ni7THw"
   }
 ]
