@@ -24242,9 +24242,10 @@ const data = [
     "yt_id": "_69vQ4vnpuw"
   },
   {
-    "artist": "Rhythm of the Night",
-    "year": "DeBarge",
-    "episode": 1985,
+    "title": "Rhythm of the Night",
+    "artist": "DeBarge",
+    "year": 1985,
+    "episode": "YONP102",
     "jd_score": 49,
     "hunter_score": 50,
     "steve_score": 44,
@@ -24253,9 +24254,10 @@ const data = [
     "yt_id": "N0k0FAlLlK0"
   },
   {
-    "artist": "Trapeze",
-    "year": "Nigel Olsson",
-    "episode": 1980,
+    "title": "Trapeze",
+    "artist": "Nigel Olsson",
+    "year": 1980,
+    "episode": "YONP102",
     "jd_score": 21,
     "hunter_score": 35,
     "steve_score": 35,
@@ -24264,9 +24266,10 @@ const data = [
     "yt_id": "Ky8ZJt1wYKg"
   },
   {
-    "artist": "It Will Be Alright",
-    "year": "Airplay",
-    "episode": 1980,
+    "title": "It Will Be Alright",
+    "artist": "Airplay",
+    "year": 1980,
+    "episode": "YONP102",
     "jd_score": 45,
     "hunter_score": 48,
     "steve_score": 47,
@@ -24275,9 +24278,10 @@ const data = [
     "yt_id": "ztJHyW63h5s"
   },
   {
-    "artist": "You're My Weakness",
-    "year": "The Faith Band",
-    "episode": 1979,
+    "title": "You're My Weakness",
+    "artist": "The Faith Band",
+    "year": 1979,
+    "episode": "YONP102",
     "jd_score": 68,
     "hunter_score": 59,
     "steve_score": 66,
@@ -24286,9 +24290,10 @@ const data = [
     "yt_id": "WZphgctNHTI"
   },
   {
-    "artist": "Exile",
-    "year": "Marc Jordan",
-    "episode": 1979,
+    "title": "Exile",
+    "artist": "Marc Jordan",
+    "year": 1979,
+    "episode": "YONP102",
     "jd_score": 30,
     "hunter_score": 15,
     "steve_score": 26,
@@ -24297,9 +24302,10 @@ const data = [
     "yt_id": "7P6CpnTDP5A"
   },
   {
-    "artist": "Gonna Love You More",
-    "year": "George Benson",
-    "episode": 1977,
+    "title": "Gonna Love You More",
+    "artist": "George Benson",
+    "year": 1977,
+    "episode": "YONP102",
     "jd_score": 48,
     "hunter_score": 28,
     "steve_score": 54,
@@ -24308,9 +24314,10 @@ const data = [
     "yt_id": "ICPQf_5dy7w"
   },
   {
-    "artist": "Lady",
-    "year": "George Benson",
-    "episode": 1976,
+    "title": "Lady",
+    "artist": "George Benson",
+    "year": 1976,
+    "episode": "YONP102",
     "jd_score": 50,
     "hunter_score": 18,
     "steve_score": 44,
@@ -24319,9 +24326,10 @@ const data = [
     "yt_id": "e9s9OLwmjGY"
   },
   {
-    "artist": "Lovin' Eyes",
-    "year": "Janis Siegel",
-    "episode": 1982,
+    "title": "Lovin' Eyes",
+    "artist": "Janis Siegel",
+    "year": 1982,
+    "episode": "YONP102",
     "jd_score": 80,
     "hunter_score": 73,
     "steve_score": 86,
@@ -24330,9 +24338,10 @@ const data = [
     "yt_id": "2dcSlBtuS34"
   },
   {
-    "artist": "Stop To Love",
-    "year": "Luther Vandross",
-    "episode": 1986,
+    "title": "Stop To Love",
+    "artist": "Luther Vandross",
+    "year": 1986,
+    "episode": "YONP102",
     "jd_score": 45,
     "hunter_score": 50,
     "steve_score": 46,
@@ -24341,9 +24350,10 @@ const data = [
     "yt_id": "5D9-GgY3y3U"
   },
   {
-    "artist": "On The Beach",
-    "year": "Chris Rea",
-    "episode": 1986,
+    "title": "On The Beach",
+    "artist": "Chris Rea",
+    "year": 1986,
+    "episode": "YONP102",
     "jd_score": 48,
     "hunter_score": 43,
     "steve_score": 45,
@@ -24352,9 +24362,10 @@ const data = [
     "yt_id": "lt6aDXEdUrg"
   },
   {
-    "artist": "She's A Player",
-    "year": "Aftertones",
-    "episode": 2024,
+    "title": "She's A Player",
+    "artist": "Aftertones",
+    "year": 2024,
+    "episode": "YONP102",
     "jd_score": 42,
     "hunter_score": 41,
     "steve_score": 42,
