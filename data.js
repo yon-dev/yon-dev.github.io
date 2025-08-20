@@ -24240,5 +24240,126 @@ const data = [
     "dave_score": 12,
     "yachtski": 12.5,
     "yt_id": "_69vQ4vnpuw"
+  },
+  {
+    "artist": "Rhythm of the Night",
+    "year": "DeBarge",
+    "episode": 1985,
+    "jd_score": 49,
+    "hunter_score": 50,
+    "steve_score": 44,
+    "dave_score": 39,
+    "yachtski": 45.5,
+    "yt_id": "N0k0FAlLlK0"
+  },
+  {
+    "artist": "Trapeze",
+    "year": "Nigel Olsson",
+    "episode": 1980,
+    "jd_score": 21,
+    "hunter_score": 35,
+    "steve_score": 35,
+    "dave_score": 33,
+    "yachtski": 31,
+    "yt_id": "Ky8ZJt1wYKg"
+  },
+  {
+    "artist": "It Will Be Alright",
+    "year": "Airplay",
+    "episode": 1980,
+    "jd_score": 45,
+    "hunter_score": 48,
+    "steve_score": 47,
+    "dave_score": 35,
+    "yachtski": 43.75,
+    "yt_id": "ztJHyW63h5s"
+  },
+  {
+    "artist": "You're My Weakness",
+    "year": "The Faith Band",
+    "episode": 1979,
+    "jd_score": 68,
+    "hunter_score": 59,
+    "steve_score": 66,
+    "dave_score": 62,
+    "yachtski": 63.75,
+    "yt_id": "WZphgctNHTI"
+  },
+  {
+    "artist": "Exile",
+    "year": "Marc Jordan",
+    "episode": 1979,
+    "jd_score": 30,
+    "hunter_score": 15,
+    "steve_score": 26,
+    "dave_score": 19,
+    "yachtski": 22.5,
+    "yt_id": "7P6CpnTDP5A"
+  },
+  {
+    "artist": "Gonna Love You More",
+    "year": "George Benson",
+    "episode": 1977,
+    "jd_score": 48,
+    "hunter_score": 28,
+    "steve_score": 54,
+    "dave_score": 42,
+    "yachtski": 43,
+    "yt_id": "ICPQf_5dy7w"
+  },
+  {
+    "artist": "Lady",
+    "year": "George Benson",
+    "episode": 1976,
+    "jd_score": 50,
+    "hunter_score": 18,
+    "steve_score": 44,
+    "dave_score": 42,
+    "yachtski": 38.5,
+    "yt_id": "e9s9OLwmjGY"
+  },
+  {
+    "artist": "Lovin' Eyes",
+    "year": "Janis Siegel",
+    "episode": 1982,
+    "jd_score": 80,
+    "hunter_score": 73,
+    "steve_score": 86,
+    "dave_score": 78,
+    "yachtski": 79.25,
+    "yt_id": "2dcSlBtuS34"
+  },
+  {
+    "artist": "Stop To Love",
+    "year": "Luther Vandross",
+    "episode": 1986,
+    "jd_score": 45,
+    "hunter_score": 50,
+    "steve_score": 46,
+    "dave_score": 40,
+    "yachtski": 45.25,
+    "yt_id": "5D9-GgY3y3U"
+  },
+  {
+    "artist": "On The Beach",
+    "year": "Chris Rea",
+    "episode": 1986,
+    "jd_score": 48,
+    "hunter_score": 43,
+    "steve_score": 45,
+    "dave_score": 38,
+    "yachtski": 43.5,
+    "yt_id": "lt6aDXEdUrg"
+  },
+  {
+    "artist": "She's A Player",
+    "year": "Aftertones",
+    "episode": 2024,
+    "jd_score": 42,
+    "hunter_score": 41,
+    "steve_score": 42,
+    "dave_score": 35,
+    "yachtski": 40,
+    "yt_id": "FKrPkUsiTPA"
   }
 ]
