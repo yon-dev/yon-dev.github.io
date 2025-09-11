@@ -6679,7 +6679,7 @@ const data = [
     "steve_score": 81.0,
     "dave_score": 79.0,
     "yachtski": 82.5,
-    "yt_id": "vpFfjWdhROU"
+    "yt_id": "BbMdZQ_7d88"
   },
   {
     "id": 609,
@@ -24636,5 +24636,137 @@ const data = [
     "dave_score": 15,
     "yachtski": 23,
     "yt_id": "2PTS9oJWzf4"
+  },
+  {
+    "title": "Wait For Me",
+    "artist": "Hall & Oates",
+    "year": 1979,
+    "episode": "YONP105",
+    "jd_score": 39,
+    "hunter_score": 39,
+    "steve_score": 48,
+    "dave_score": 47,
+    "yachtski": 43.25,
+    "yt_id": "5zkHLp24Gis"
+  },
+  {
+    "title": "The Nightfly",
+    "artist": "Donald Fagen",
+    "year": 1982,
+    "episode": "YONP105",
+    "jd_score": 65,
+    "hunter_score": 67,
+    "steve_score": 79,
+    "dave_score": 82,
+    "yachtski": 73.25,
+    "yt_id": "v=-rrrof1TJc4"
+  },
+  {
+    "title": "Reaching for the Sky",
+    "artist": "Dionne Warwick",
+    "year": 1980,
+    "episode": "YONP105",
+    "jd_score": 49,
+    "hunter_score": 48,
+    "steve_score": 54,
+    "dave_score": 29,
+    "yachtski": 45,
+    "yt_id": "05onGMMRYU0"
+  },
+  {
+    "title": "You Hurt Me Once",
+    "artist": "Irene Cara",
+    "year": 1982,
+    "episode": "YONP105",
+    "jd_score": 54,
+    "hunter_score": 52,
+    "steve_score": 59,
+    "dave_score": 38,
+    "yachtski": 50.75,
+    "yt_id": "TzPutUPqT_A"
+  },
+  {
+    "title": "Swing Street",
+    "artist": "Steve Porcaro & Michael McDonald",
+    "year": 2016,
+    "episode": "YONP105",
+    "jd_score": 30,
+    "hunter_score": 41,
+    "steve_score": 40,
+    "dave_score": 40,
+    "yachtski": 37.75,
+    "yt_id": "sHXore8pe0A"
+  },
+  {
+    "title": "Bacardi",
+    "artist": "Yoshino Fujimal",
+    "year": 1982,
+    "episode": "YONP105",
+    "jd_score": 88,
+    "hunter_score": 92,
+    "steve_score": 91,
+    "dave_score": 82,
+    "yachtski": 88.25,
+    "yt_id": "3D5PbrAOn3U"
+  },
+  {
+    "title": "Genevieve",
+    "artist": "Andrew Gold",
+    "year": 1978,
+    "episode": "YONP105",
+    "jd_score": 50,
+    "hunter_score": 51,
+    "steve_score": 53,
+    "dave_score": 40,
+    "yachtski": 48.5,
+    "yt_id": "jLaeeCPVBd4"
+  },
+  {
+    "title": "High Life Dream",
+    "artist": "Dane Donohue",
+    "year": 2024,
+    "episode": "YONP105",
+    "jd_score": 64,
+    "hunter_score": 50,
+    "steve_score": 55,
+    "dave_score": 60,
+    "yachtski": 57.25,
+    "yt_id": "hpqSkQOWpig"
+  },
+  {
+    "title": "Savannah Nights",
+    "artist": "Tom Johnston",
+    "year": 1979,
+    "episode": "YONP105",
+    "jd_score": 17,
+    "hunter_score": 23,
+    "steve_score": 14,
+    "dave_score": 10,
+    "yachtski": 16,
+    "yt_id": "KXLgy-afKhQ"
+  },
+  {
+    "title": "Secret Agent",
+    "artist": "Air Supply",
+    "year": 1976,
+    "episode": "YONP105",
+    "jd_score": 42,
+    "hunter_score": 47,
+    "steve_score": 56,
+    "dave_score": 38,
+    "yachtski": 45.75,
+    "yt_id": "quc3HPwHu78"
+  },
+  {
+    "title": "Sensual Serenade",
+    "artist": "Barbra Goldstarr",
+    "year": 2024,
+    "episode": "YONP105",
+    "jd_score": 0,
+    "hunter_score": 2,
+    "steve_score": 3,
+    "dave_score": 0.1,
+    "yachtski": 1.275,
+    "yt_id": "NF9L1U4ifwM"
   }
 ]
