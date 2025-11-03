@@ -8681,7 +8681,7 @@ const data = [
     "steve_score": 41,
     "dave_score": 31,
     "yachtski": 36.75,
-    "yt_id": "82DSEkHatpw"
+    "yt_id": "igsFF1ilfe8"
   },
   {
     "id": 667,
@@ -15927,7 +15927,7 @@ const data = [
   {
     "id": "",
     "title": "Keep This World Alive",
-    "artist": "Ole Borud",
+    "artist": "Ole Børud (Borud)",
     "year": 2014,
     "episode": "YONP035",
     "jd_score": 55,
@@ -20009,7 +20009,7 @@ const data = [
   {
     "id": "",
     "title": "Make A Change",
-    "artist": "Ole Børud",
+    "artist": "Ole Børud (Borud)",
     "year": 2011,
     "episode": "YONP065",
     "jd_score": 59,
