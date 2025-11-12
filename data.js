@@ -26872,7 +26872,7 @@ const data = [
   },
   {
     "title": "Talk To My Lawyer",
-    "artist": "Ole Børud",
+    "artist": "Ole Børud (Borud)",
     "year": 2019,
     "episode": "YONP114",
     "jd_score": 75,
