@@ -13848,7 +13848,7 @@ const data = [
     "id": 1064,
     "title": "I Really Don't Need No Light",
     "artist": "Jeffrey Osborne",
-    "year": 1892,
+    "year": 1982,
     "episode": "YONP018",
     "jd_score": 82,
     "hunter_score": 54,
