@@ -27828,7 +27828,7 @@ const data = [
     "steve_score": 62,
     "dave_score": 61,
     "yachtski": 65,
-    "yt_id": "https://youtu.be/-M5GM9rXhlU?si=ON6nKMd_J_5hEOPB"
+    "yt_id": "-M5GM9rXhlU"
   },
   {
     "title": "I'm In Love Again",
