@@ -92,7 +92,7 @@ const data = [
   },
   {
     "id": 8,
-    "title": "Livin' It Up",
+    "title": "Livin' It Up (Old Score)",
     "artist": "Bill LaBounty",
     "year": 1982,
     "episode": "BYR06",
@@ -417,7 +417,7 @@ const data = [
   },
   {
     "id": 33,
-    "title": "Margarita",
+    "title": "Margarita (Old Score)",
     "artist": "Marc Jordan",
     "year": 1983,
     "episode": "BYR28",
@@ -599,7 +599,7 @@ const data = [
   },
   {
     "id": 48,
-    "title": "Easy Lover",
+    "title": "Easy Lover (Old Score)",
     "artist": "Philip Bailey & Phil Collins",
     "year": 1984,
     "episode": "BYR43",
@@ -1769,7 +1769,7 @@ const data = [
   },
   {
     "id": 138,
-    "title": "Just Can't Win 'Em All",
+    "title": "Just Can't Win 'Em All (Old Score)",
     "artist": "Stevie Woods",
     "year": 1981,
     "episode": "YON002",
@@ -1938,7 +1938,7 @@ const data = [
   },
   {
     "id": 154,
-    "title": "Steal Away",
+    "title": "Steal Away (Old Score)",
     "artist": "Robbie Dupree",
     "year": 1980,
     "episode": "YON004",
@@ -2315,7 +2315,7 @@ const data = [
   },
   {
     "id": 178,
-    "title": "What You Won't Do For Love",
+    "title": "What You Won't Do For Love (Old School)",
     "artist": "Bobby Caldwell",
     "year": 1978,
     "episode": "YON007",
@@ -2484,7 +2484,7 @@ const data = [
   },
   {
     "id": 192,
-    "title": "Your Smiling Face",
+    "title": "Your Smiling Face (Old Score)",
     "artist": "James Taylor",
     "year": 1977,
     "episode": "YON008",
@@ -4525,7 +4525,7 @@ const data = [
   },
   {
     "id": 352,
-    "title": "Somebody's Baby",
+    "title": "Somebody's Baby (Old Score)",
     "artist": "Jackson Browne",
     "year": 1982,
     "episode": "YON024",
@@ -4668,7 +4668,7 @@ const data = [
   },
   {
     "id": 360,
-    "title": "Private Eyes",
+    "title": "Private Eyes (Old Score)",
     "artist": "Hall & Oates",
     "year": 1981,
     "episode": "YON025",
@@ -5578,7 +5578,7 @@ const data = [
   },
   {
     "id": 429,
-    "title": "Lowdown",
+    "title": "Lowdown (Old Score)",
     "artist": "Boz Scaggs",
     "year": 1976,
     "episode": "YON033",
@@ -6826,7 +6826,7 @@ const data = [
   },
   {
     "id": 520,
-    "title": "I Just Wanna Stop",
+    "title": "I Just Wanna Stop (Old School)",
     "artist": "Gino Vannelli",
     "year": 1978,
     "episode": "YON042",
@@ -24780,7 +24780,7 @@ const data = [
   {
     "id": "",
     "title": "Livin’ It Up",
-    "artist": "Bill Labounty",
+    "artist": "Bill LaBounty",
     "year": 1982,
     "episode": "YONP100",
     "jd_score": 94,
