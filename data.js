@@ -2315,7 +2315,7 @@ const data = [
   },
   {
     "id": 178,
-    "title": "What You Won't Do For Love (Old School)",
+    "title": "What You Won't Do For Love (Old Score)",
     "artist": "Bobby Caldwell",
     "year": 1978,
     "episode": "YON007",
@@ -6826,7 +6826,7 @@ const data = [
   },
   {
     "id": 520,
-    "title": "I Just Wanna Stop (Old School)",
+    "title": "I Just Wanna Stop (Old Score)",
     "artist": "Gino Vannelli",
     "year": 1978,
     "episode": "YON042",
@@ -13885,7 +13885,7 @@ const data = [
   },
   {
     "id": 1072,
-    "title": "Into the Night",
+    "title": "Into the Night (Old Score)",
     "artist": "Tamir Grinberg",
     "year": 2022,
     "episode": "YONP019",
@@ -24767,7 +24767,7 @@ const data = [
   {
     "id": "",
     "title": "Into the Night",
-    "artist": "Tamir",
+    "artist": "Tamir Grinberg",
     "year": 2022,
     "episode": "YONP099",
     "jd_score": 62,
