@@ -3955,7 +3955,7 @@ const data = [
     "id": 309,
     "title": "Second Chance",
     "artist": "Paul Anka",
-    "year": 1986,
+    "year": 1983,
     "episode": "YON020",
     "jd_score": 87,
     "hunter_score": 85,
@@ -5891,7 +5891,7 @@ const data = [
   {
     "id": 453,
     "title": "Say Goodbye",
-    "artist": "Hiroshi Satoh",
+    "artist": "Hiroshi Sato",
     "year": 1985,
     "episode": "YON035",
     "jd_score": 46,
@@ -18931,7 +18931,7 @@ const data = [
     "id": "",
     "title": "Whatever Turns You On",
     "artist": "Billy Ocean",
-    "year": 1980,
+    "year": 1981,
     "episode": "YONP058",
     "jd_score": 64,
     "hunter_score": 53,
@@ -19151,7 +19151,7 @@ const data = [
   {
     "id": "",
     "title": "We’ll Never Have To Say Goodbye Again",
-    "artist": "England Dan and John Ford Coley",
+    "artist": "England Dan & John Ford Coley",
     "year": 1978,
     "episode": "YONP060",
     "jd_score": 40,
@@ -26823,9 +26823,9 @@ const data = [
     "yt_id": "J04eMWURV1w"
   },
   {
-    "title": "Who's Gonna Rock You Now",
+    "title": "Who's Gonna Rock You",
     "artist": "Billy Ocean",
-    "year": 1980,
+    "year": 1981,
     "episode": "YONP114",
     "jd_score": 38,
     "hunter_score": 38,
