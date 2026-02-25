@@ -28478,7 +28478,6 @@ const data = [
     "yachtski": 56,
     "yt_id": "a6PacuNuH0E"
   },
-  [
   {
     "title": "Wash",
     "artist": "Miki Matsubara",
@@ -28611,5 +28610,4 @@ const data = [
     "yachtski": 49.75,
     "yt_id": "il2hQO4FjBQ"
   }
-]
 ]
