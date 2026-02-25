@@ -460,11 +460,11 @@ const data = [
     "artist": "Franke & The Knockouts",
     "year": 1984,
     "episode": "BYR49",
-    "jd_score": 58,
-    "hunter_score": 65,
-    "steve_score": 63,
-    "dave_score": 58,
-    "yachtski": 61,
+    "jd_score": 60,
+    "hunter_score": 70,
+    "steve_score": 72,
+    "dave_score": 65,
+    "yachtski": 66.75,
     "yt_id": "KZIJjFanpY4"
   },
   {
@@ -28477,5 +28477,139 @@ const data = [
     "dave_score": 52,
     "yachtski": 56,
     "yt_id": "a6PacuNuH0E"
+  },
+  [
+  {
+    "title": "Wash",
+    "artist": "Miki Matsubara",
+    "year": 1982,
+    "episode": "YONP127",
+    "jd_score": 49,
+    "hunter_score": 47,
+    "steve_score": 48,
+    "dave_score": 40,
+    "yachtski": 46,
+    "yt_id": "NxoC76WJLN4"
+  },
+  {
+    "title": "Don't You Get So Mad",
+    "artist": "Jeffrey Osborne",
+    "year": 1983,
+    "episode": "YONP127",
+    "jd_score": 62,
+    "hunter_score": 54,
+    "steve_score": 67,
+    "dave_score": 55,
+    "yachtski": 59.5,
+    "yt_id": "GjQF7v7ZCL0"
+  },
+  {
+    "title": "Body Talk",
+    "artist": "Ray Russell",
+    "year": 2024,
+    "episode": "YONP127",
+    "jd_score": 38,
+    "hunter_score": 28,
+    "steve_score": 35,
+    "dave_score": 29,
+    "yachtski": 32.5,
+    "yt_id": "iOwqcpe_S78"
+  },
+  {
+    "title": "Lihue",
+    "artist": "Nohelani Cypriano",
+    "year": 1977,
+    "episode": "YONP127",
+    "jd_score": 47,
+    "hunter_score": 48,
+    "steve_score": 45,
+    "dave_score": 40,
+    "yachtski": 45,
+    "yt_id": "3xSb5Pm-ws8"
+  },
+  {
+    "title": "Match Point of Our Love",
+    "artist": "Beach Boys",
+    "year": 1978,
+    "episode": "YONP127",
+    "jd_score": 30,
+    "hunter_score": 36,
+    "steve_score": 34,
+    "dave_score": 35,
+    "yachtski": 33.75,
+    "yt_id": "5Xz-X6VqrzA"
+  },
+  {
+    "title": "Everlasting Love",
+    "artist": "Billy Ocean",
+    "year": 1981,
+    "episode": "YONP127",
+    "jd_score": 83,
+    "hunter_score": 67,
+    "steve_score": 83,
+    "dave_score": 74,
+    "yachtski": 76.75,
+    "yt_id": "A1mfO-ferlY"
+  },
+  {
+    "title": "Whatcha Gonna Do For Me",
+    "artist": "Average White Band",
+    "year": 1980,
+    "episode": "YONP127",
+    "jd_score": 62,
+    "hunter_score": 59,
+    "steve_score": 70,
+    "dave_score": 57,
+    "yachtski": 62,
+    "yt_id": "yEiYZIV8-pU"
+  },
+  {
+    "title": "Cariño",
+    "artist": "The Marias",
+    "year": 2019,
+    "episode": "YONP127",
+    "jd_score": 8,
+    "hunter_score": 16,
+    "steve_score": 10,
+    "dave_score": 12,
+    "yachtski": 11.5,
+    "yt_id": "Ujt2M-M-yWM"
+  },
+  {
+    "title": "Walking In The Light",
+    "artist": "White Heart",
+    "year": 1984,
+    "episode": "YONP127",
+    "jd_score": 60,
+    "hunter_score": 70,
+    "steve_score": 66,
+    "dave_score": 60,
+    "yachtski": 64,
+    "yt_id": "uNrydrJ84_o"
+  },
+  {
+    "title": "You Told Me You Loved Me",
+    "artist": "Positive Force ft. Denise Vallin",
+    "year": 1983,
+    "episode": "YONP127",
+    "jd_score": 84,
+    "hunter_score": 81,
+    "steve_score": 82,
+    "dave_score": 80,
+    "yachtski": 81.75,
+    "yt_id": ""
+  },
+  {
+    "title": "Maluku",
+    "artist": "Arles Tita ft. Danjil Tuhumena",
+    "year": 2014,
+    "episode": "YONP127",
+    "jd_score": 48,
+    "hunter_score": 51,
+    "steve_score": 48,
+    "dave_score": 52,
+    "yachtski": 49.75,
+    "yt_id": "il2hQO4FjBQ"
   }
+]
 ]
