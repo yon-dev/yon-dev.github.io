@@ -4898,7 +4898,7 @@ const data = [
     "steve_score": 70,
     "dave_score": 78,
     "yachtski": 75.25,
-    "yt_id": "7sIs3VbXcS4"
+    "yt_id": "dz9oolWz6b0"
   },
   {
     "id": 393,
@@ -28873,5 +28873,137 @@ const data = [
     "dave_score": 48,
     "yachtski": 57.75,
     "yt_id": "gub1COm1dak"
+  },
+  {
+    "title": "Sweet Summer Nights",
+    "artist": "Peter Cupples",
+    "year": 1981,
+    "episode": "YONP130",
+    "jd_score": 45,
+    "hunter_score": 47,
+    "steve_score": 52,
+    "dave_score": 48.5,
+    "yachtski": 48.125,
+    "yt_id": "c-Xgll1sQWs"
+  },
+  {
+    "title": "Move Your Body",
+    "artist": "Peabo Bryson",
+    "year": 1981,
+    "episode": "YONP130",
+    "jd_score": 53,
+    "hunter_score": 49,
+    "steve_score": 53,
+    "dave_score": 47,
+    "yachtski": 50.5,
+    "yt_id": "bza8RMD0ySA"
+  },
+  {
+    "title": "Rocksteady",
+    "artist": "Harari",
+    "year": 1982,
+    "episode": "YONP130",
+    "jd_score": 12,
+    "hunter_score": 36,
+    "steve_score": 26,
+    "dave_score": 15,
+    "yachtski": 22.25,
+    "yt_id": "6cMDAVzaoX4"
+  },
+  {
+    "title": "Negroni Summer",
+    "artist": "Donny Benét",
+    "year": 2020,
+    "episode": "YONP130",
+    "jd_score": 48,
+    "hunter_score": 51,
+    "steve_score": 48,
+    "dave_score": 45,
+    "yachtski": 48,
+    "yt_id": "RwnH6KT-naw"
+  },
+  {
+    "title": "Back To The World",
+    "artist": "Ned Doheny",
+    "year": 1988,
+    "episode": "YONP130",
+    "jd_score": 80,
+    "hunter_score": 68,
+    "steve_score": 73,
+    "dave_score": 77,
+    "yachtski": 74.5,
+    "yt_id": "W26csoC1cXk"
+  },
+  {
+    "title": "Per Sepre Tu",
+    "artist": "Alan Sorrenti",
+    "year": 1979,
+    "episode": "YONP130",
+    "jd_score": 85,
+    "hunter_score": 87,
+    "steve_score": 85,
+    "dave_score": 85,
+    "yachtski": 85.5,
+    "yt_id": "l8w0rGk6hNU"
+  },
+  {
+    "title": "Boys of Winter",
+    "artist": "Yacht Rocket",
+    "year": 2025,
+    "episode": "YONP130",
+    "jd_score": 52,
+    "hunter_score": 51,
+    "steve_score": 53,
+    "dave_score": 55,
+    "yachtski": 52.75,
+    "yt_id": "QNdnVuecBlo"
+  },
+  {
+    "title": "Dream Away",
+    "artist": "Bernie LaBarge",
+    "year": 1981,
+    "episode": "YONP130",
+    "jd_score": 75,
+    "hunter_score": 64,
+    "steve_score": 78,
+    "dave_score": 75,
+    "yachtski": 73,
+    "yt_id": "5K9dk1TjLqM"
+  },
+  {
+    "title": "Livin' Alone",
+    "artist": "John Martyn",
+    "year": 1982,
+    "episode": "YONP130",
+    "jd_score": 89,
+    "hunter_score": 91,
+    "steve_score": 83,
+    "dave_score": 87,
+    "yachtski": 87.5,
+    "yt_id": "sRUrfkxp4xM"
+  },
+  {
+    "title": "Crack The Whip",
+    "artist": "Byrne & Barnes",
+    "year": 1981,
+    "episode": "YONP130",
+    "jd_score": 49,
+    "hunter_score": 48,
+    "steve_score": 46,
+    "dave_score": 43,
+    "yachtski": 46.5,
+    "yt_id": "q4h52mjpEFQ"
+  },
+  {
+    "title": "Century's End",
+    "artist": "Donald Fagen",
+    "year": 1988,
+    "episode": "YONP130",
+    "jd_score": 55,
+    "hunter_score": 53,
+    "steve_score": 68,
+    "dave_score": 62,
+    "yachtski": 59.5,
+    "yt_id": "Uji6k153RwU"
   }
 ]
