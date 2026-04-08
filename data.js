@@ -29391,15 +29391,15 @@ const data = [
     "yt_id": "JFNNNwj30Yc?si=cgzrrvtx8g9d4acD&t=494"
   },
   {
-    "title": "Incommunicado",
+    "title": "Where's the Party",
     "artist": "Jimmy Buffett",
-    "year": 1980,
+    "year": 1981,
     "episode": "YONP133",
     "jd_score": 20,
     "hunter_score": 6,
     "steve_score": 15,
     "dave_score": 12,
     "yachtski": 13.25,
-    "yt_id": "6viQLjBgtO4"
+    "yt_id": "5K3eAh6FmMs"
   }
 ]
