@@ -1288,7 +1288,7 @@ const data = [
   },
   {
     "id": "",
-    "title": "Everytime Christmas Comes Around",
+    "title": "Every Time Christmas Comes Around (Old Score)",
     "artist": "Michael McDonald",
     "year": 2001,
     "episode": "BYR95",
@@ -29007,7 +29007,7 @@ const data = [
     "yt_id": "Uji6k153RwU"
   },
   {
-    "title": "Everytime Christmas Comes Around",
+    "title": "Every Time Christmas Comes Around",
     "artist": "Michael McDonald",
     "year": 2001,
     "episode": "YONP131",
@@ -29401,5 +29401,137 @@ const data = [
     "dave_score": 12,
     "yachtski": 13.25,
     "yt_id": "5K3eAh6FmMs"
+  },
+  {
+    "title": "Black and Blues",
+    "artist": "Al Jarreau",
+    "year": 1983,
+    "episode": "YONP134",
+    "jd_score": 75,
+    "hunter_score": 74,
+    "steve_score": 79,
+    "dave_score": 70,
+    "yachtski": 74.5,
+    "yt_id": "psqANCm0WFE"
+  },
+  {
+    "title": "Ready",
+    "artist": "Ambrosia",
+    "year": 1980,
+    "episode": "YONP134",
+    "jd_score": 28,
+    "hunter_score": 39,
+    "steve_score": 45,
+    "dave_score": 30,
+    "yachtski": 35.5,
+    "yt_id": "kp-5z4K24Lk"
+  },
+  {
+    "title": "Living Without Your Love",
+    "artist": "Frank Sanchez",
+    "year": 1983,
+    "episode": "YONP134",
+    "jd_score": 61,
+    "hunter_score": 53,
+    "steve_score": 56,
+    "dave_score": 52,
+    "yachtski": 55.5,
+    "yt_id": ""
+  },
+  {
+    "title": "Leão Ferido",
+    "artist": "Biafra",
+    "year": 1981,
+    "episode": "YONP134",
+    "jd_score": 45,
+    "hunter_score": 48,
+    "steve_score": 54,
+    "dave_score": 45,
+    "yachtski": 48,
+    "yt_id": "TGPvsXQBEAg"
+  },
+  {
+    "title": "Do The Bossa Nova",
+    "artist": "Vapour Trails",
+    "year": 2000,
+    "episode": "YONP134",
+    "jd_score": 60,
+    "hunter_score": 49,
+    "steve_score": 68,
+    "dave_score": 50,
+    "yachtski": 56.75,
+    "yt_id": "PW192ah8PJU"
+  },
+  {
+    "title": "Love Is Blind",
+    "artist": "John O'Banion",
+    "year": 1981,
+    "episode": "YONP134",
+    "jd_score": 48,
+    "hunter_score": 48,
+    "steve_score": 57,
+    "dave_score": 44,
+    "yachtski": 49.25,
+    "yt_id": "90NfULIQpbA"
+  },
+  {
+    "title": "Don't Put Out The Flame",
+    "artist": "Christie Allen",
+    "year": 1980,
+    "episode": "YONP134",
+    "jd_score": 49,
+    "hunter_score": 35,
+    "steve_score": 52,
+    "dave_score": 40,
+    "yachtski": 44,
+    "yt_id": "tdiEgSI2fXM"
+  },
+  {
+    "title": "Closer To You",
+    "artist": "Michael James Murphy",
+    "year": 1983,
+    "episode": "YONP134",
+    "jd_score": 79,
+    "hunter_score": 73,
+    "steve_score": 67,
+    "dave_score": 70,
+    "yachtski": 72.25,
+    "yt_id": "Z2NwT3Tv6nI"
+  },
+  {
+    "title": "(Time To Say) Goodnight",
+    "artist": "P*S",
+    "year": 1983,
+    "episode": "YONP134",
+    "jd_score": 75,
+    "hunter_score": 59,
+    "steve_score": 65,
+    "dave_score": 68,
+    "yachtski": 66.75,
+    "yt_id": "9mXIdqBN9XQ"
+  },
+  {
+    "title": "Giving It Up",
+    "artist": "Morocko",
+    "year": 1980,
+    "episode": "YONP134",
+    "jd_score": 58,
+    "hunter_score": 51,
+    "steve_score": 63,
+    "dave_score": 51,
+    "yachtski": 55.75,
+    "yt_id": "tOiMNb5GT68"
+  },
+  {
+    "title": "Irene",
+    "artist": "Yasuhiro Abe",
+    "year": 1984,
+    "episode": "YONP134",
+    "jd_score": 77,
+    "hunter_score": 78,
+    "steve_score": 78,
+    "dave_score": 80,
+    "yachtski": 78.25,
+    "yt_id": "ew-z2RCGzL4"
   }
 ]
