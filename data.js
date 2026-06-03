@@ -30338,10 +30338,10 @@ const data = [
     "yachtski": 41,
     "yt_id": ""
   },
-  {
+ {
     "title": "I Wanna Be The One",
     "artist": "Martie Echito",
-    "year": "",
+    "year": 2016,
     "episode": "YONP141",
     "jd_score": 83,
     "hunter_score": 74,
@@ -30353,7 +30353,7 @@ const data = [
   {
     "title": "What Is This",
     "artist": "Dionne Warwick",
-    "year": "",
+    "year": 1982,
     "episode": "YONP141",
     "jd_score": 78,
     "hunter_score": 76,
@@ -30365,7 +30365,7 @@ const data = [
   {
     "title": "Cool Love",
     "artist": "Pablo Cruise",
-    "year": "",
+    "year": 1981,
     "episode": "YONP141",
     "jd_score": 40,
     "hunter_score": 43,
@@ -30377,7 +30377,7 @@ const data = [
   {
     "title": "Sure Enough",
     "artist": "Al Jarreau & Randy Crawford",
-    "year": "",
+    "year": 1982,
     "episode": "YONP141",
     "jd_score": 75,
     "hunter_score": 89,
@@ -30389,7 +30389,7 @@ const data = [
   {
     "title": "Party All The Time",
     "artist": "Eddie Murphy",
-    "year": "",
+    "year": 1985,
     "episode": "YONP141",
     "jd_score": 25,
     "hunter_score": 15,
@@ -30401,7 +30401,7 @@ const data = [
   {
     "title": "Take Me Down",
     "artist": "Exile",
-    "year": "",
+    "year": 1980,
     "episode": "YONP141",
     "jd_score": 46,
     "hunter_score": 45,
@@ -30413,7 +30413,7 @@ const data = [
   {
     "title": "Living On The Coast",
     "artist": "Judie Tzuke",
-    "year": "",
+    "year": 1980,
     "episode": "YONP141",
     "jd_score": 55,
     "hunter_score": 51,
@@ -30425,7 +30425,7 @@ const data = [
   {
     "title": "Human Nature (demo)",
     "artist": "Steve Porcaro",
-    "year": "",
+    "year": 1981,
     "episode": "YONP141",
     "jd_score": 51,
     "hunter_score": 28,
@@ -30437,7 +30437,7 @@ const data = [
   {
     "title": "Never Say Die",
     "artist": "Petra",
-    "year": "",
+    "year": 1981,
     "episode": "YONP141",
     "jd_score": 52,
     "hunter_score": 46,
@@ -30449,7 +30449,7 @@ const data = [
   {
     "title": "Just Lucky I Guess",
     "artist": "Steve Goodman",
-    "year": "",
+    "year": 1979,
     "episode": "YONP141",
     "jd_score": 37,
     "hunter_score": 19,
@@ -30461,7 +30461,7 @@ const data = [
   {
     "title": "How Can This Be Love",
     "artist": "Andrew Gold",
-    "year": "",
+    "year": 1978,
     "episode": "YONP141",
     "jd_score": 51,
     "hunter_score": 48,
