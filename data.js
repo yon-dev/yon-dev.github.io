@@ -31001,7 +31001,7 @@ const data = [
   {
     "title": "Brown Eyes",
     "artist": "Larsen-Feiten Band",
-    "year": "",
+    "year": 1982,
     "episode": "YONP146",
     "jd_score": 51,
     "hunter_score": 52,
@@ -31013,7 +31013,7 @@ const data = [
   {
     "title": "Perfect Polaroid",
     "artist": "Ole Børud (Borud)",
-    "year": "",
+    "year": 2025,
     "episode": "YONP146",
     "jd_score": 49,
     "hunter_score": 52,
@@ -31025,7 +31025,7 @@ const data = [
   {
     "title": "I Keep Trying",
     "artist": "Roger",
-    "year": "",
+    "year": 1984,
     "episode": "YONP146",
     "jd_score": 45,
     "hunter_score": 51,
@@ -31037,7 +31037,7 @@ const data = [
   {
     "title": "The Heckler",
     "artist": "Jon Konteau",
-    "year": "",
+    "year": 1981,
     "episode": "YONP146",
     "jd_score": 46,
     "hunter_score": 46,
@@ -31049,7 +31049,7 @@ const data = [
   {
     "title": "I Don't Wanna Lose You",
     "artist": "Hall & Oates",
-    "year": "",
+    "year": 1978,
     "episode": "YONP146",
     "jd_score": 32,
     "hunter_score": 41,
@@ -31061,7 +31061,7 @@ const data = [
   {
     "title": "Scofflaws",
     "artist": "State Cows",
-    "year": "",
+    "year": 2024,
     "episode": "YONP146",
     "jd_score": 55,
     "hunter_score": 57,
@@ -31073,7 +31073,7 @@ const data = [
   {
     "title": "Con Il Nastro Rosa",
     "artist": "Lucio Battisti",
-    "year": "",
+    "year": 1980,
     "episode": "YONP146",
     "jd_score": 42,
     "hunter_score": 46,
@@ -31085,7 +31085,7 @@ const data = [
   {
     "title": "How Do You Feel When You Wake Up",
     "artist": "Junior Campbell",
-    "year": "",
+    "year": 1974,
     "episode": "YONP146",
     "jd_score": 50,
     "hunter_score": 42,
@@ -31097,7 +31097,7 @@ const data = [
   {
     "title": "Everlasting Love",
     "artist": "Rufus featuring Chaka Khan",
-    "year": "",
+    "year": 1977,
     "episode": "YONP146",
     "jd_score": 40,
     "hunter_score": 44,
@@ -31109,7 +31109,7 @@ const data = [
   {
     "title": "No One Else Will Do",
     "artist": "Far Corporation",
-    "year": "",
+    "year": 1985,
     "episode": "YONP146",
     "jd_score": 45,
     "hunter_score": 57,
@@ -31121,7 +31121,7 @@ const data = [
   {
     "title": "It's a Pleasure",
     "artist": "Sheree Brown",
-    "year": "",
+    "year": 1981,
     "episode": "YONP146",
     "jd_score": 72,
     "hunter_score": 58,
