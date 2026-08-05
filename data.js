@@ -1847,7 +1847,7 @@ const data = [
   },
   {
     "id": 163,
-    "title": "Heartlight",
+    "title": "Heartlight (Old Score)",
     "artist": "Neil Diamond",
     "year": 1982,
     "episode": "YON005",
@@ -2016,7 +2016,7 @@ const data = [
   },
   {
     "id": 173,
-    "title": "Maureen",
+    "title": "Maureen (Old Score)",
     "artist": "Sade",
     "year": 1985,
     "episode": "YON006",
@@ -2367,7 +2367,7 @@ const data = [
   },
   {
     "id": 205,
-    "title": "On My Own",
+    "title": "On My Own (Old Score)",
     "artist": "Patti LaBelle & Michael McDonald",
     "year": 1986,
     "episode": "YON009",
@@ -2653,7 +2653,7 @@ const data = [
   },
   {
     "id": 219,
-    "title": "One Way Ticket to Paradise",
+    "title": "One Way Ticket to Paradise (Old Score)",
     "artist": "Dave Loggins",
     "year": 1977,
     "episode": "YON011",
@@ -5331,7 +5331,7 @@ const data = [
   },
   {
     "id": 427,
-    "title": "Moonlight Feels Right",
+    "title": "Moonlight Feels Right (Old Score)",
     "artist": "Starbuck",
     "year": 1976,
     "episode": "YON032",
@@ -7294,7 +7294,7 @@ const data = [
   },
   {
     "id": 31,
-    "title": "Look What You've Done to Me",
+    "title": "Look What You've Done to Me (Old Score)",
     "artist": "Boz Scaggs",
     "year": 1980,
     "episode": "YON047",
@@ -7905,7 +7905,7 @@ const data = [
   },
   {
     "id": 611,
-    "title": "Chuck E.'s In Love",
+    "title": "Chuck E.'s In Love (Old Score)",
     "artist": "Rickie Lee Jones",
     "year": 1979,
     "episode": "YON055",
@@ -11194,7 +11194,7 @@ const data = [
   },
   {
     "id": 863,
-    "title": "Any Major Dude Will Tell You",
+    "title": "Any Major Dude Will Tell You (Old Score)",
     "artist": "Steely Dan",
     "year": 1974,
     "episode": "YON092",
@@ -17005,7 +17005,7 @@ const data = [
   },
   {
     "id": "",
-    "title": "It’s Alright",
+    "title": "It's Alright (Old Score)",
     "artist": "Keady & Vallins",
     "year": 1979,
     "episode": "YONP044",
@@ -20164,7 +20164,7 @@ const data = [
   },
   {
     "id": "",
-    "title": "Forget Me Nots",
+    "title": "Forget Me Nots (Old Score)",
     "artist": "Patrice Rushen",
     "year": 1982,
     "episode": "YONP066",
@@ -31107,7 +31107,7 @@ const data = [
     "yt_id": "GjYjFc-D0Pk"
   },
   {
-    "title": "No One Else Will Do",
+    "title": "No One Else Will Do (Old Score)",
     "artist": "Far Corporation",
     "year": 1985,
     "episode": "YONP146",
@@ -31525,5 +31525,137 @@ const data = [
     "dave_score": 45,
     "yachtski": 48.5,
     "yt_id": "Gh7Sn4__bAA"
+  },
+  {
+    "title": "On My Own",
+    "artist": "Michael McDonald & Patti LaBelle",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 50,
+    "hunter_score": 53,
+    "steve_score": 54,
+    "dave_score": 43,
+    "yachtski": 50,
+    "yt_id": "xO3evHaepgM"
+  },
+  {
+    "title": "Any Major Dude Will Tell You",
+    "artist": "Steely Dan",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 53,
+    "hunter_score": 48,
+    "steve_score": 54,
+    "dave_score": 54,
+    "yachtski": 52.25,
+    "yt_id": "HBzzdlpISFg"
+  },
+  {
+    "title": "Forget Me Nots",
+    "artist": "Patrice Rushen",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 56,
+    "hunter_score": 48,
+    "steve_score": 49,
+    "dave_score": 52,
+    "yachtski": 51.25,
+    "yt_id": "dKgLx6WiYKg"
+  },
+  {
+    "title": "Moonlight Feel Right",
+    "artist": "Starbuck",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 45,
+    "hunter_score": 47,
+    "steve_score": 55,
+    "dave_score": 45,
+    "yachtski": 48,
+    "yt_id": "D4ZrKfrshP4"
+  },
+  {
+    "title": "Chuck E’s In Love",
+    "artist": "Rickie Lee Jones",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 46,
+    "hunter_score": 54,
+    "steve_score": 44,
+    "dave_score": 55,
+    "yachtski": 49.75,
+    "yt_id": "OeWKfVkNla4"
+  },
+  {
+    "title": "Heartlight",
+    "artist": "Neil Diamond",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 47,
+    "hunter_score": 62,
+    "steve_score": 42,
+    "dave_score": 35,
+    "yachtski": 46.5,
+    "yt_id": "Ys1RlxC8QC8"
+  },
+  {
+    "title": "It’s Alright",
+    "artist": "Keady & Vallins",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 42,
+    "hunter_score": 48,
+    "steve_score": 53,
+    "dave_score": 49,
+    "yachtski": 48,
+    "yt_id": "qEgFUX9tSTs"
+  },
+  {
+    "title": "Look What You’ve Done To Me",
+    "artist": "Boz Scaggs",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 37,
+    "hunter_score": 49,
+    "steve_score": 47,
+    "dave_score": 45,
+    "yachtski": 44.5,
+    "yt_id": "hWrbelCfMvc"
+  },
+  {
+    "title": "No One Else Will Do",
+    "artist": "Far Corporation",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 62,
+    "hunter_score": 57,
+    "steve_score": 58,
+    "dave_score": 52,
+    "yachtski": 57.25,
+    "yt_id": "t2dWlNM4qFg"
+  },
+  {
+    "title": "Maureen",
+    "artist": "Sade",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 51,
+    "hunter_score": 53,
+    "steve_score": 49,
+    "dave_score": 50,
+    "yachtski": 50.75,
+    "yt_id": "MmMtCDo9afU"
+  },
+  {
+    "title": "One Way Ticket To Paradise",
+    "artist": "Dave Loggins",
+    "year": "",
+    "episode": "YONP150",
+    "jd_score": 33,
+    "hunter_score": 47,
+    "steve_score": 43,
+    "dave_score": 42,
+    "yachtski": 41.25,
+    "yt_id": "OPgzDGMkNiA"
   }
 ]
