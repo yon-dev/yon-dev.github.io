@@ -377,19 +377,6 @@ const data = [
     "yt_id": "8OGavNEw_gY"
   },
   {
-    "id": 48,
-    "title": "Easy Lover (Old Score)",
-    "artist": "Philip Bailey & Phil Collins",
-    "year": 1984,
-    "episode": "BYR43",
-    "jd_score": 55,
-    "hunter_score": 35,
-    "steve_score": 41,
-    "dave_score": 70,
-    "yachtski": 50.25,
-    "yt_id": "JkRKT6T0QLg"
-  },
-  {
     "id": 49,
     "title": "Africa",
     "artist": "Toto",
@@ -1288,19 +1275,6 @@ const data = [
   },
   {
     "id": "",
-    "title": "Every Time Christmas Comes Around (Old Score)",
-    "artist": "Michael McDonald",
-    "year": 2001,
-    "episode": "BYR95",
-    "jd_score": 32,
-    "hunter_score": 33,
-    "steve_score": 38,
-    "dave_score": 28,
-    "yachtski": 32.75,
-    "yt_id": "sIbDuayadA0"
-  },
-  {
-    "id": "",
     "title": "24-Dec",
     "artist": "Ruiko Kurahashi",
     "year": 1981,
@@ -1547,19 +1521,6 @@ const data = [
     "yt_id": "WXHMiAKm7E8"
   },
   {
-    "id": 138,
-    "title": "Just Can't Win 'Em All (Old Score)",
-    "artist": "Stevie Woods",
-    "year": 1981,
-    "episode": "YON002",
-    "jd_score": 90,
-    "hunter_score": 100,
-    "steve_score": 77,
-    "dave_score": 90,
-    "yachtski": 89.25,
-    "yt_id": "JQg4l62dlsA"
-  },
-  {
     "id": 139,
     "title": "Stumblin' In",
     "artist": "Suzi Quatro and Chris Norman",
@@ -1716,19 +1677,6 @@ const data = [
     "yt_id": "nkusGZZg180"
   },
   {
-    "id": 154,
-    "title": "Steal Away (Old Score)",
-    "artist": "Robbie Dupree",
-    "year": 1980,
-    "episode": "YON004",
-    "jd_score": 89,
-    "hunter_score": 81,
-    "steve_score": 85,
-    "dave_score": 85,
-    "yachtski": 85,
-    "yt_id": "qvvhCzDobRE"
-  },
-  {
     "id": 152,
     "title": "Marina Del Rey",
     "artist": "Marc Jordan",
@@ -1844,19 +1792,6 @@ const data = [
     "dave_score": 52,
     "yachtski": 60.25,
     "yt_id": "Phh9B1-4EYs"
-  },
-  {
-    "id": 163,
-    "title": "Heartlight (Old Score)",
-    "artist": "Neil Diamond",
-    "year": 1982,
-    "episode": "YON005",
-    "jd_score": 60,
-    "hunter_score": 62,
-    "steve_score": 38,
-    "dave_score": 45,
-    "yachtski": 51.25,
-    "yt_id": "Ys1RlxC8QC8"
   },
   {
     "id": 166,
@@ -2015,19 +1950,6 @@ const data = [
     "yt_id": "XBETVhHpcPk"
   },
   {
-    "id": 173,
-    "title": "Maureen (Old Score)",
-    "artist": "Sade",
-    "year": 1985,
-    "episode": "YON006",
-    "jd_score": 51,
-    "hunter_score": 52,
-    "steve_score": 48,
-    "dave_score": 48,
-    "yachtski": 49.75,
-    "yt_id": "MmMtCDo9afU"
-  },
-  {
     "id": 174,
     "title": "On and On",
     "artist": "Stephen Bishop",
@@ -2091,19 +2013,6 @@ const data = [
     "dave_score": 80,
     "yachtski": 83.25,
     "yt_id": "SKRyJVda-Uc"
-  },
-  {
-    "id": 178,
-    "title": "What You Won't Do For Love (Old Score)",
-    "artist": "Bobby Caldwell",
-    "year": 1978,
-    "episode": "YON007",
-    "jd_score": 75,
-    "hunter_score": 84,
-    "steve_score": 70,
-    "dave_score": 65,
-    "yachtski": 73.5,
-    "yt_id": "Gru4IfbKlfU"
   },
   {
     "id": 185,
@@ -2262,19 +2171,6 @@ const data = [
     "yt_id": "0lsonxu-ybw"
   },
   {
-    "id": 192,
-    "title": "Your Smiling Face (Old Score)",
-    "artist": "James Taylor",
-    "year": 1977,
-    "episode": "YON008",
-    "jd_score": 55,
-    "hunter_score": 52,
-    "steve_score": 38,
-    "dave_score": 37,
-    "yachtski": 45.5,
-    "yt_id": "ZSsfNlS42Cc"
-  },
-  {
     "id": 193,
     "title": "We Were Meant to Be Lovers",
     "artist": "Jim Photoglo",
@@ -2364,19 +2260,6 @@ const data = [
     "dave_score": 55,
     "yachtski": 65,
     "yt_id": "KZIJjFanpY4"
-  },
-  {
-    "id": 205,
-    "title": "On My Own (Old Score)",
-    "artist": "Patti LaBelle & Michael McDonald",
-    "year": 1986,
-    "episode": "YON009",
-    "jd_score": 45,
-    "hunter_score": 51,
-    "steve_score": 54,
-    "dave_score": 35,
-    "yachtski": 46.25,
-    "yt_id": "ormnL7n-bPg"
   },
   {
     "id": 198,
@@ -2650,19 +2533,6 @@ const data = [
     "dave_score": 67,
     "yachtski": 61.25,
     "yt_id": "UeXWxroVXZE"
-  },
-  {
-    "id": 219,
-    "title": "One Way Ticket to Paradise (Old Score)",
-    "artist": "Dave Loggins",
-    "year": 1977,
-    "episode": "YON011",
-    "jd_score": 63,
-    "hunter_score": 58,
-    "steve_score": 61,
-    "dave_score": 51,
-    "yachtski": 58.25,
-    "yt_id": "OPgzDGMkNiA"
   },
   {
     "id": 218,
@@ -4303,19 +4173,6 @@ const data = [
     "yt_id": "xi-GDD8yFyo"
   },
   {
-    "id": 352,
-    "title": "Somebody's Baby (Old Score)",
-    "artist": "Jackson Browne",
-    "year": 1982,
-    "episode": "YON024",
-    "jd_score": 60,
-    "hunter_score": 51,
-    "steve_score": 40,
-    "dave_score": 48,
-    "yachtski": 49.75,
-    "yt_id": "M6pT_BDpnog"
-  },
-  {
     "id": 350,
     "title": "Snowbound",
     "artist": "Donald Fagen",
@@ -4444,19 +4301,6 @@ const data = [
     "dave_score": 61,
     "yachtski": 59.5,
     "yt_id": "uBQ9NO_Falk"
-  },
-  {
-    "id": 360,
-    "title": "Private Eyes (Old Score)",
-    "artist": "Hall & Oates",
-    "year": 1981,
-    "episode": "YON025",
-    "jd_score": 62,
-    "hunter_score": 47,
-    "steve_score": 23,
-    "dave_score": 48,
-    "yachtski": 45,
-    "yt_id": "3Kxf2dHlDpQ"
   },
   {
     "id": 355,
@@ -5330,19 +5174,6 @@ const data = [
     "yt_id": "UabLDkiPtRo"
   },
   {
-    "id": 427,
-    "title": "Moonlight Feels Right (Old Score)",
-    "artist": "Starbuck",
-    "year": 1976,
-    "episode": "YON032",
-    "jd_score": 53,
-    "hunter_score": 51,
-    "steve_score": 56,
-    "dave_score": 48,
-    "yachtski": 52,
-    "yt_id": "HYnQsvtfEsQ"
-  },
-  {
     "id": 420,
     "title": "Heaven Help The Fool",
     "artist": "Bob Weir",
@@ -5354,19 +5185,6 @@ const data = [
     "dave_score": 42,
     "yachtski": 44.5,
     "yt_id": "J7e5H3LJFSs"
-  },
-  {
-    "id": 429,
-    "title": "Lowdown (Old Score)",
-    "artist": "Boz Scaggs",
-    "year": 1976,
-    "episode": "YON033",
-    "jd_score": 87,
-    "hunter_score": 96,
-    "steve_score": 94,
-    "dave_score": 79,
-    "yachtski": 89,
-    "yt_id": "I-hKBmTAADo"
   },
   {
     "id": 437,
@@ -6604,19 +6422,6 @@ const data = [
     "yt_id": "KcADqxnQA_4"
   },
   {
-    "id": 520,
-    "title": "I Just Wanna Stop (Old Score)",
-    "artist": "Gino Vannelli",
-    "year": 1978,
-    "episode": "YON042",
-    "jd_score": 42,
-    "hunter_score": 52,
-    "steve_score": 51,
-    "dave_score": 32,
-    "yachtski": 44.25,
-    "yt_id": "z8e1SjBHSUM"
-  },
-  {
     "id": 531,
     "title": "Please Don't Leave",
     "artist": "Lauren Wood w/ Michael McDonald",
@@ -7176,19 +6981,6 @@ const data = [
     "yt_id": "_CIE041T954"
   },
   {
-    "id": 8,
-    "title": "Livin' It Up (Old Score)",
-    "artist": "Bill LaBounty",
-    "year": 1982,
-    "episode": "YON047",
-    "jd_score": 87,
-    "hunter_score": 88,
-    "steve_score": 92,
-    "dave_score": 84,
-    "yachtski": 87.75,
-    "yt_id": "J_A5HSJnVVU"
-  },
-  {
     "id": 9,
     "title": "Georgy Porgy",
     "artist": "Toto",
@@ -7293,19 +7085,6 @@ const data = [
     "yt_id": "_Y0eCaNL5tA"
   },
   {
-    "id": 31,
-    "title": "Look What You've Done to Me (Old Score)",
-    "artist": "Boz Scaggs",
-    "year": 1980,
-    "episode": "YON047",
-    "jd_score": 51,
-    "hunter_score": 50,
-    "steve_score": 53,
-    "dave_score": 58,
-    "yachtski": 53,
-    "yt_id": "hWrbelCfMvc"
-  },
-  {
     "id": 32,
     "title": "Didn't Wanna Hurt Cha for Another Guy",
     "artist": "Chunky, Novi & Ernie",
@@ -7317,19 +7096,6 @@ const data = [
     "dave_score": 63,
     "yachtski": 62.5,
     "yt_id": "4Y-vd-WtNoY"
-  },
-  {
-    "id": 33,
-    "title": "Margarita (Old Score)",
-    "artist": "Marc Jordan",
-    "year": 1983,
-    "episode": "YON047",
-    "jd_score": 91,
-    "hunter_score": 90,
-    "steve_score": 84,
-    "dave_score": 78,
-    "yachtski": 85.75,
-    "yt_id": "G6vrzAI95bg"
   },
   {
     "id": 34,
@@ -7902,19 +7668,6 @@ const data = [
     "dave_score": 80,
     "yachtski": 81.25,
     "yt_id": "60CTF6jmzT8"
-  },
-  {
-    "id": 611,
-    "title": "Chuck E.'s In Love (Old Score)",
-    "artist": "Rickie Lee Jones",
-    "year": 1979,
-    "episode": "YON055",
-    "jd_score": 53,
-    "hunter_score": 55,
-    "steve_score": 49,
-    "dave_score": 55,
-    "yachtski": 53,
-    "yt_id": "UjeEV9L9SJM"
   },
   {
     "id": 608,
@@ -11193,19 +10946,6 @@ const data = [
     "yt_id": "pSQm-uH2Bu0"
   },
   {
-    "id": 863,
-    "title": "Any Major Dude Will Tell You (Old Score)",
-    "artist": "Steely Dan",
-    "year": 1974,
-    "episode": "YON092",
-    "jd_score": 65,
-    "hunter_score": 49,
-    "steve_score": 56,
-    "dave_score": 54,
-    "yachtski": 56,
-    "yt_id": "HBzzdlpISFg"
-  },
-  {
     "id": 860,
     "title": "It's Uncanny",
     "artist": "Hall & Oates",
@@ -13882,19 +13622,6 @@ const data = [
     "dave_score": 67,
     "yachtski": 65,
     "yt_id": "AzbodcuCj-g"
-  },
-  {
-    "id": 1072,
-    "title": "Into the Night (Old Score)",
-    "artist": "Tamir Grinberg",
-    "year": 2022,
-    "episode": "YONP019",
-    "jd_score": 80,
-    "hunter_score": 53,
-    "steve_score": 41,
-    "dave_score": 28,
-    "yachtski": 50.5,
-    "yt_id": "XkTW_-XN9ME"
   },
   {
     "id": 1069,
@@ -17002,19 +16729,6 @@ const data = [
     "dave_score": 40,
     "yachtski": 40,
     "yt_id": "okP5zGzwoTs"
-  },
-  {
-    "id": "",
-    "title": "It's Alright (Old Score)",
-    "artist": "Keady & Vallins",
-    "year": 1979,
-    "episode": "YONP044",
-    "jd_score": 48,
-    "hunter_score": 49,
-    "steve_score": 55,
-    "dave_score": 56,
-    "yachtski": 52,
-    "yt_id": "qEgFUX9tSTs"
   },
   {
     "id": "",
@@ -20161,19 +19875,6 @@ const data = [
     "dave_score": 42,
     "yachtski": 48.5,
     "yt_id": "uR5SlbBfmTw"
-  },
-  {
-    "id": "",
-    "title": "Forget Me Nots (Old Score)",
-    "artist": "Patrice Rushen",
-    "year": 1982,
-    "episode": "YONP066",
-    "jd_score": 51,
-    "hunter_score": 47,
-    "steve_score": 49,
-    "dave_score": 45,
-    "yachtski": 48,
-    "yt_id": "dKgLx6WiYKg"
   },
   {
     "id": "",
@@ -31105,18 +30806,6 @@ const data = [
     "dave_score": 37,
     "yachtski": 40.75,
     "yt_id": "GjYjFc-D0Pk"
-  },
-  {
-    "title": "No One Else Will Do (Old Score)",
-    "artist": "Far Corporation",
-    "year": 1985,
-    "episode": "YONP146",
-    "jd_score": 45,
-    "hunter_score": 57,
-    "steve_score": 48,
-    "dave_score": 45,
-    "yachtski": 48.75,
-    "yt_id": "t2dWlNM4qFg"
   },
   {
     "title": "It's a Pleasure",
