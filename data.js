@@ -31218,7 +31218,7 @@ const data = [
   {
     "title": "On My Own",
     "artist": "Michael McDonald & Patti LaBelle",
-    "year": "",
+    "year": "1986",
     "episode": "YONP150",
     "jd_score": 50,
     "hunter_score": 53,
@@ -31230,7 +31230,7 @@ const data = [
   {
     "title": "Any Major Dude Will Tell You",
     "artist": "Steely Dan",
-    "year": "",
+    "year": "1974",
     "episode": "YONP150",
     "jd_score": 53,
     "hunter_score": 48,
@@ -31242,7 +31242,7 @@ const data = [
   {
     "title": "Forget Me Nots",
     "artist": "Patrice Rushen",
-    "year": "",
+    "year": "1982",
     "episode": "YONP150",
     "jd_score": 56,
     "hunter_score": 48,
@@ -31254,7 +31254,7 @@ const data = [
   {
     "title": "Moonlight Feel Right",
     "artist": "Starbuck",
-    "year": "",
+    "year": "1976",
     "episode": "YONP150",
     "jd_score": 45,
     "hunter_score": 47,
@@ -31266,7 +31266,7 @@ const data = [
   {
     "title": "Chuck E’s In Love",
     "artist": "Rickie Lee Jones",
-    "year": "",
+    "year": "1979",
     "episode": "YONP150",
     "jd_score": 46,
     "hunter_score": 54,
@@ -31278,7 +31278,7 @@ const data = [
   {
     "title": "Heartlight",
     "artist": "Neil Diamond",
-    "year": "",
+    "year": "1982",
     "episode": "YONP150",
     "jd_score": 47,
     "hunter_score": 62,
@@ -31290,7 +31290,7 @@ const data = [
   {
     "title": "It’s Alright",
     "artist": "Keady & Vallins",
-    "year": "",
+    "year": "1978",
     "episode": "YONP150",
     "jd_score": 42,
     "hunter_score": 48,
@@ -31302,7 +31302,7 @@ const data = [
   {
     "title": "Look What You’ve Done To Me",
     "artist": "Boz Scaggs",
-    "year": "",
+    "year": "1980",
     "episode": "YONP150",
     "jd_score": 37,
     "hunter_score": 49,
@@ -31314,7 +31314,7 @@ const data = [
   {
     "title": "No One Else Will Do",
     "artist": "Far Corporation",
-    "year": "",
+    "year": "1985",
     "episode": "YONP150",
     "jd_score": 62,
     "hunter_score": 57,
@@ -31326,7 +31326,7 @@ const data = [
   {
     "title": "Maureen",
     "artist": "Sade",
-    "year": "",
+    "year": "1985",
     "episode": "YONP150",
     "jd_score": 51,
     "hunter_score": 53,
@@ -31338,7 +31338,7 @@ const data = [
   {
     "title": "One Way Ticket To Paradise",
     "artist": "Dave Loggins",
-    "year": "",
+    "year": "1977",
     "episode": "YONP150",
     "jd_score": 33,
     "hunter_score": 47,
