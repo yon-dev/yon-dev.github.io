@@ -27135,7 +27135,19 @@ const data = [
     "yachtski": 37.5,
     "yt_id": ""
   },
-   {
+  {
+    "title": "Holdin' On To Yesterday",
+    "artist": "Ambrosia",
+    "year": 1975,
+    "episode": "YONP119",
+    "jd_score": 20,
+    "hunter_score": 34,
+    "steve_score": 24,
+    "dave_score": 25,
+    "yachtski": 25.75,
+    "yt_id": "DaZWnId5gPI"
+  },
+  {
     "title": "Love Power",
     "artist": "Dionne Warwick & Jeffrey Osborne",
     "year": 1987,
