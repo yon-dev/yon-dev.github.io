@@ -31742,5 +31742,138 @@ const data = [
     "dave_score": 62,
     "yachtski": 67.5,
     "yt_id": "vzpRiX16ybU"
+  },
+  {
+    "title": "Are You Ready For Love",
+    "artist": "Greg Guidry",
+    "year": 1982,
+    "episode": "YONP154",
+    "jd_score": 59,
+    "hunter_score": 59,
+    "steve_score": 68,
+    "dave_score": 54,
+    "yachtski": 60,
+    "yt_id": "nd9FLHuInQE"
+  },
+  {
+    "title": "Nobody's Fool",
+    "artist": "Slade",
+    "year": 1976,
+    "episode": "YONP154",
+    "jd_score": 15,
+    "hunter_score": 2,
+    "steve_score": 1,
+    "dave_score": 20,
+    "yachtski": 9.5,
+    "yt_id": "Sz-X5Dknvt8"
+  },
+  {
+    "title": "Pop Socks",
+    "artist": "Trevor Bastow",
+    "year": 1981,
+    "episode": "YONP154",
+    "jd_score": 38,
+    "hunter_score": 51,
+    "steve_score": 50,
+    "dave_score": 35,
+    "yachtski": 43.5,
+    "yt_id": "fETufJ3fE5c"
+  },
+  {
+    "title": "Final del viaje",
+    "artist": "Hilario Camacho",
+    "year": 1981,
+    "episode": "YONP154",
+    "jd_score": 51,
+    "hunter_score": 51,
+    "steve_score": 51,
+    "dave_score": 41,
+    "yachtski": 48.5,
+    "yt_id": "eqlralooyR0"
+  },
+  {
+    "title": "Isn't It Time",
+    "artist": "Boz Scaggs",
+    "year": 1980,
+    "episode": "YONP154",
+    "jd_score": 60,
+    "hunter_score": 57,
+    "steve_score": 64,
+    "dave_score": 62,
+    "yachtski": 60.75,
+    "yt_id": "VMsA1c2jJxM"
+  },
+  {
+    "title": "Say It",
+    "artist": "Richard Marx & Paul Anka",
+    "year": 1987,
+    "episode": "YONP154",
+    "jd_score": 59,
+    "hunter_score": 53,
+    "steve_score": 53,
+    "dave_score": 64,
+    "yachtski": 57.25,
+    "yt_id": "UvcEcVtU248"
+  },
+  {
+    "title": "Modern Museum",
+    "artist": "Masayuki Kishi",
+    "year": 1984,
+    "episode": "YONP154",
+    "jd_score": 65,
+    "hunter_score": 52,
+    "steve_score": 63,
+    "dave_score": 58,
+    "yachtski": 59.5,
+    "yt_id": "9Desw-Ef_GM"
+  },
+  {
+    "title": "I Don't Believe You",
+    "artist": "Chris Christian",
+    "year": 1981,
+    "episode": "YONP154",
+    "jd_score": 65,
+    "hunter_score": 71,
+    "steve_score": 70,
+    "dave_score": 55,
+    "yachtski": 65.25,
+    "yt_id": "dCiSj7-r9aQ"
+  },
+  {
+    "title": "Nagareboshi He",
+    "artist": "The Three Lights",
+    "year": 1996,
+    "episode": "YONP154",
+    "jd_score": 49,
+    "hunter_score": 34,
+    "steve_score": 51,
+    "dave_score": 38,
+    "yachtski": 43,
+    "yt_id": "LIAHeygCaTs"
+  },
+  {
+    "title": "Imagination",
+    "artist": "Al Jarreau",
+    "year": 1984,
+    "episode": "YONP154",
+    "jd_score": 42,
+    "hunter_score": 39,
+    "steve_score": 44,
+    "dave_score": 38,
+    "yachtski": 40.75,
+    "yt_id": "0A5MlSlyhNQ"
+  },
+  {
+    "title": "Say It Through Love",
+    "artist": "The Bar-Kays",
+    "year": 1980,
+    "episode": "YONP154",
+    "jd_score": 47,
+    "hunter_score": 48,
+    "steve_score": 52,
+    "dave_score": 44,
+    "yachtski": 47.75,
+    "yt_id": "Fg4i7ZkC_EM"
   }
+]
 ]
