@@ -32166,14 +32166,14 @@ const data = [
   {
     "title": "Bli Hjå Meg",
     "artist": "Olav Stedje",
-    "year": 2010,
+    "year": 1982,
     "episode": "YONP157",
     "jd_score": 72,
     "hunter_score": 71,
     "steve_score": 73,
     "dave_score": 68,
     "yachtski": 71,
-    "yt_id": "eBPukkxgecc"
+    "yt_id": ""
   },
   {
     "title": "Attitude",
