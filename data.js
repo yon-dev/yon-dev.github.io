@@ -32286,7 +32286,7 @@ const data = [
   {
     "title": "One Gift",
     "artist": "Michael McDonald",
-    "year": "",
+    "year": 2001,
     "episode": "YONP158",
     "jd_score": 60,
     "hunter_score": 55,
@@ -32298,7 +32298,7 @@ const data = [
   {
     "title": "On Top of the World",
     "artist": "Donkey Kong",
-    "year": "",
+    "year": 1983,
     "episode": "YONP158",
     "jd_score": 50,
     "hunter_score": 51,
@@ -32310,7 +32310,7 @@ const data = [
   {
     "title": "Go Away",
     "artist": "Steve Perry",
-    "year": "",
+    "year": 1984,
     "episode": "YONP158",
     "jd_score": 42,
     "hunter_score": 42,
@@ -32322,7 +32322,7 @@ const data = [
   {
     "title": "Inside Look",
     "artist": "Russ Taff",
-    "year": "",
+    "year": 1983,
     "episode": "YONP158",
     "jd_score": 33,
     "hunter_score": 28,
@@ -32334,7 +32334,7 @@ const data = [
   {
     "title": "Rain King",
     "artist": "Terence Boylan",
-    "year": "",
+    "year": 1977,
     "episode": "YONP158",
     "jd_score": 29,
     "hunter_score": 41,
@@ -32346,7 +32346,7 @@ const data = [
   {
     "title": "Can't Be Right",
     "artist": "September",
-    "year": "",
+    "year": 1981,
     "episode": "YONP158",
     "jd_score": 69,
     "hunter_score": 54,
@@ -32358,7 +32358,7 @@ const data = [
   {
     "title": "Don't Quit",
     "artist": "FK&M",
-    "year": "",
+    "year": 2024,
     "episode": "YONP158",
     "jd_score": 45,
     "hunter_score": 46,
@@ -32370,7 +32370,7 @@ const data = [
   {
     "title": "Working Man",
     "artist": "Sipho Gumede",
-    "year": "",
+    "year": 1986,
     "episode": "YONP158",
     "jd_score": 40,
     "hunter_score": 41,
@@ -32382,7 +32382,7 @@ const data = [
   {
     "title": "Just Like Falling In Love Again",
     "artist": "Craig Ruhnke",
-    "year": "",
+    "year": 1982,
     "episode": "YONP158",
     "jd_score": 63,
     "hunter_score": 56,
@@ -32394,7 +32394,7 @@ const data = [
   {
     "title": "Canadian Lullaby",
     "artist": "Junko Ohashi & Minoya Central Station",
-    "year": "",
+    "year": 1980,
     "episode": "YONP158",
     "jd_score": 48,
     "hunter_score": 41,
@@ -32406,7 +32406,7 @@ const data = [
   {
     "title": "Can't Hide Love",
     "artist": "Dionne Warwick",
-    "year": "",
+    "year": 1982,
     "episode": "YONP158",
     "jd_score": 51,
     "hunter_score": 53,
