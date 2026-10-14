@@ -1,4 +1,5 @@
 const menuData = [
+  { url: 'https://yachtrock.com', title: 'Yacht Rock Official Website' },
   { url: 'https://sites.libsyn.com/483279', title: 'The Yacht Or Nyacht Podcast' },
   { url: 'https://sites.libsyn.com/483282', title: 'Billion Dollar Record Club' },
   { url: 'https://open.spotify.com/playlist/6kVRZHsbV6LZEBiqzSzFvq', title: 'Certified Yacht Rock Playlist' },
